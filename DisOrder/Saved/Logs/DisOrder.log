@@ -1711,3 +1711,315 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2022.07.05-23.55.10:708][327]LogContentValidation: Display: Validating PhysicsAsset /Game/TopDownBP/MichaelM/Animations/Mixamo_Base_PhysicsAsset.Mixamo_Base_PhysicsAsset
 [2022.07.05-23.55.10:708][327]LogContentValidation: Display: Validating AnimSequence /Game/TopDownBP/MichaelM/Animations/Mixamo_Base_Anim_mixamo_com.Mixamo_Base_Anim_mixamo_com
 [2022.07.05-23.55.10:708][327]LogContentValidation: Display: Validating AnimSequence /Game/TopDownBP/MichaelM/Animations/Mixamo_Base_Anim_Take_001.Mixamo_Base_Anim_Take_001
+[2022.07.05-23.55.56:104][514]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/TopDownBP/MichaelM/Animations/Mixamo_Base_Skeleton.Mixamo_Base_Skeleton
+[2022.07.05-23.55.56:137][514]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.05-23.56.50:089][472]Cmd: TRANSACTION UNDO
+[2022.07.05-23.56.50:120][472]LogEditorTransaction: Undo Select Rig
+[2022.07.05-23.56.50:504][472]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.05-23.56.50:624][472]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.06-00.00.46:492][647]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.07.06-00.00.46:496][647]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDownBP/MichaelM/Maps/TopDownExampleMap1' took 0.011
+[2022.07.06-00.00.46:503][647]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDownBP/MichaelM/Animations/Mixamo_Base_Skeleton] ([2] browsable assets)...
+[2022.07.06-00.00.46:538][647]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/MichaelM/Animations/Mixamo_Base_Skeleton]
+[2022.07.06-00.00.46:558][647]LogSavePackage: Moving '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Saved/Mixamo_Base_Skeleton_Auto1FE84DCF44A2F98569972FA8F1BBAEBC0.tmp' to '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Saved/Autosaves/Game/TopDownBP/MichaelM/Animations/Mixamo_Base_Skeleton_Auto1.uasset'
+[2022.07.06-00.00.46:559][647]LogFileHelpers: Auto-saving content packages took 0.058
+[2022.07.06-00.10.43:487][ 80]LogSlate: Window 'Save Mapping' being destroyed
+[2022.07.06-00.10.43:562][ 80]LogSavePackage: Moving '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Saved/BoneMapping3E25BA0242A1CFD3A4970FAE59F8FB34.tmp' to '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Content/TopDownBP/MichaelM/Animations/BoneMapping.uasset'
+[2022.07.06-00.10.43:573][ 80]AssetCheck: New page: Asset Save: BoneMapping
+[2022.07.06-00.10.43:573][ 80]LogContentValidation: Display: Validating NodeMappingContainer /Game/TopDownBP/MichaelM/Animations/BoneMapping.BoneMapping
+[2022.07.06-00.11.09:981][371]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2022.07.06-00.11.09:986][371]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDownBP/MichaelM/Maps/TopDownExampleMap1' took 0.009
+[2022.07.06-00.11.09:986][371]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDownBP/MichaelM/Animations/Mixamo_Base_Skeleton] ([2] browsable assets)...
+[2022.07.06-00.11.09:986][371]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/MichaelM/Animations/Mixamo_Base_Skeleton]
+[2022.07.06-00.11.09:991][371]LogSavePackage: Moving '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Saved/Mixamo_Base_Skeleton_Auto2C010BA6541ADCAF575F4BEAED468F6AA.tmp' to '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Saved/Autosaves/Game/TopDownBP/MichaelM/Animations/Mixamo_Base_Skeleton_Auto2.uasset'
+[2022.07.06-00.11.09:992][371]LogFileHelpers: Auto-saving content packages took 0.006
+[2022.07.06-01.58.22:718][540]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.07.06-02.28.47:670][514]LogTemp: Repeating last play command: Selected Viewport
+[2022.07.06-02.28.47:763][514]LogFMOD: Default sample rate = 48000
+[2022.07.06-02.28.47:763][514]LogFMOD: System sample rate = 48000
+[2022.07.06-02.28.47:763][514]LogFMOD: Matching system sample rate 48000
+[2022.07.06-02.28.47:870][514]LogFMOD: Warning: Master bank (Master.bank) not found.
+[2022.07.06-02.28.48:082][514]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.06-02.28.48:118][514]PIE: New page: PIE session: TopDownExampleMap1 (6 Jul 2022, 10:28:48 pm)
+[2022.07.06-02.28.48:144][514]LogPlayLevel: Creating play world package: /Game/TopDownBP/MichaelM/Maps/UEDPIE_0_TopDownExampleMap1
+[2022.07.06-02.28.48:437][514]LogPlayLevel: PIE: StaticDuplicateObject took: (0.292756s)
+[2022.07.06-02.28.48:442][514]LogAIModule: Creating AISystem for world TopDownExampleMap1
+[2022.07.06-02.28.48:444][514]LogPlayLevel: PIE: World Init took: (0.007492s)
+[2022.07.06-02.28.48:444][514]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/MichaelM/Maps/TopDownExampleMap1.TopDownExampleMap1 to /Game/TopDownBP/MichaelM/Maps/UEDPIE_0_TopDownExampleMap1.TopDownExampleMap1 (0.300731s)
+[2022.07.06-02.28.48:490][514]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2022.07.06-02.28.48:541][514]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.07.06-02.28.48:541][514]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.06-02.28.48:541][514]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.06-02.28.48:541][514]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.06-02.28.48:541][514]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.06-02.28.48:541][514]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.06-02.28.48:541][514]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.06-02.28.48:541][514]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.06-02.28.48:541][514]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.06-02.28.48:542][514]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.06-02.28.48:542][514]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.06-02.28.48:542][514]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.06-02.28.48:542][514]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.06-02.28.48:619][514]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.06-02.28.48:619][514]LogAudioMixer: Display: 1: FrontRight
+[2022.07.06-02.28.48:632][514]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.07.06-02.28.48:648][514]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.06-02.28.48:648][514]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.06-02.28.48:649][514]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.06-02.28.48:653][514]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.06-02.28.48:653][514]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.06-02.28.48:653][514]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.06-02.28.48:655][514]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.06-02.28.48:655][514]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.06-02.28.48:655][514]LogInit: FAudioDevice initialized.
+[2022.07.06-02.28.48:655][514]LogAudio: Display: Audio Device (ID: 4) registered with world 'TopDownExampleMap1'.
+[2022.07.06-02.28.48:949][514]LogLoad: Game class is 'TopDownGameMode1_C'
+[2022.07.06-02.28.48:963][514]LogWorld: Bringing World /Game/TopDownBP/MichaelM/Maps/UEDPIE_0_TopDownExampleMap1.TopDownExampleMap1 up for play (max tick rate 0) at 2022.07.06-12.28.48
+[2022.07.06-02.28.48:963][514]LogWorld: Bringing up level for play took: 0.013115
+[2022.07.06-02.28.48:963][514]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2022.07.06-02.28.49:104][514]PIE: Server logged in
+[2022.07.06-02.28.49:105][514]PIE: Play in editor total start time 1.389 seconds.
+[2022.07.06-02.29.08:977][848]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.06-02.29.08:977][848]LogWorld: BeginTearingDown for /Game/TopDownBP/MichaelM/Maps/UEDPIE_0_TopDownExampleMap1
+[2022.07.06-02.29.08:977][848]LogWorld: UWorld::CleanupWorld for TopDownExampleMap1, bSessionEnded=true, bCleanupResources=true
+[2022.07.06-02.29.08:977][848]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.06-02.29.08:986][848]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.06-02.29.08:988][848]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.06-02.29.08:993][848]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.06-02.29.08:993][848]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.06-02.29.08:994][848]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.06-02.29.09:003][848]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.07.06-02.29.09:021][849]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2022.07.06-02.47.22:325][444]LogTemp: Repeating last play command: Selected Viewport
+[2022.07.06-02.47.22:406][444]LogFMOD: Default sample rate = 48000
+[2022.07.06-02.47.22:406][444]LogFMOD: System sample rate = 48000
+[2022.07.06-02.47.22:406][444]LogFMOD: Matching system sample rate 48000
+[2022.07.06-02.47.22:432][444]LogFMOD: Warning: Master bank (Master.bank) not found.
+[2022.07.06-02.47.22:474][444]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.06-02.47.22:474][444]PIE: New page: PIE session: TopDownExampleMap1 (6 Jul 2022, 10:47:22 pm)
+[2022.07.06-02.47.22:512][444]LogPlayLevel: Creating play world package: /Game/TopDownBP/MichaelM/Maps/UEDPIE_0_TopDownExampleMap1
+[2022.07.06-02.47.22:522][444]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009779s)
+[2022.07.06-02.47.22:523][444]LogAIModule: Creating AISystem for world TopDownExampleMap1
+[2022.07.06-02.47.22:524][444]LogPlayLevel: PIE: World Init took: (0.001736s)
+[2022.07.06-02.47.22:524][444]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/MichaelM/Maps/TopDownExampleMap1.TopDownExampleMap1 to /Game/TopDownBP/MichaelM/Maps/UEDPIE_0_TopDownExampleMap1.TopDownExampleMap1 (0.011701s)
+[2022.07.06-02.47.22:531][444]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.07.06-02.47.22:538][444]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.07.06-02.47.22:538][444]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.06-02.47.22:538][444]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.06-02.47.22:538][444]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.06-02.47.22:538][444]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.06-02.47.22:538][444]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.06-02.47.22:538][444]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.06-02.47.22:538][444]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.06-02.47.22:538][444]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.06-02.47.22:539][444]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.06-02.47.22:539][444]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.06-02.47.22:539][444]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.06-02.47.22:539][444]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.06-02.47.22:548][444]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.06-02.47.22:548][444]LogAudioMixer: Display: 1: FrontRight
+[2022.07.06-02.47.22:562][444]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.07.06-02.47.22:580][444]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.06-02.47.22:580][444]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.06-02.47.22:580][444]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.06-02.47.22:581][444]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.06-02.47.22:581][444]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.06-02.47.22:581][444]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.06-02.47.22:582][444]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.06-02.47.22:582][444]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.06-02.47.22:582][444]LogInit: FAudioDevice initialized.
+[2022.07.06-02.47.22:582][444]LogAudio: Display: Audio Device (ID: 5) registered with world 'TopDownExampleMap1'.
+[2022.07.06-02.47.22:591][444]LogLoad: Game class is 'TopDownGameMode1_C'
+[2022.07.06-02.47.22:592][444]LogWorld: Bringing World /Game/TopDownBP/MichaelM/Maps/UEDPIE_0_TopDownExampleMap1.TopDownExampleMap1 up for play (max tick rate 0) at 2022.07.06-12.47.22
+[2022.07.06-02.47.22:593][444]LogWorld: Bringing up level for play took: 0.001273
+[2022.07.06-02.47.22:593][444]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2022.07.06-02.47.22:597][444]PIE: Server logged in
+[2022.07.06-02.47.22:597][444]PIE: Play in editor total start time 0.243 seconds.
+[2022.07.06-02.47.26:069][835]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.06-02.47.26:069][835]LogWorld: BeginTearingDown for /Game/TopDownBP/MichaelM/Maps/UEDPIE_0_TopDownExampleMap1
+[2022.07.06-02.47.26:069][835]LogWorld: UWorld::CleanupWorld for TopDownExampleMap1, bSessionEnded=true, bCleanupResources=true
+[2022.07.06-02.47.26:069][835]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.06-02.47.26:075][835]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.06-02.47.26:077][835]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.06-02.47.26:081][835]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.06-02.47.26:081][835]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.06-02.47.26:083][835]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.06-02.47.26:087][835]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.07.06-02.47.26:123][836]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2022.07.06-02.50.58:373][841]LogTemp: Repeating last play command: Selected Viewport
+[2022.07.06-02.50.58:422][841]LogFMOD: Default sample rate = 48000
+[2022.07.06-02.50.58:422][841]LogFMOD: System sample rate = 48000
+[2022.07.06-02.50.58:422][841]LogFMOD: Matching system sample rate 48000
+[2022.07.06-02.50.58:443][841]LogFMOD: Warning: Master bank (Master.bank) not found.
+[2022.07.06-02.50.58:483][841]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.06-02.50.58:483][841]PIE: New page: PIE session: TopDownExampleMap1 (6 Jul 2022, 10:50:58 pm)
+[2022.07.06-02.50.58:483][841]LogPlayLevel: Creating play world package: /Game/TopDownBP/MichaelM/Maps/UEDPIE_0_TopDownExampleMap1
+[2022.07.06-02.50.58:493][841]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010073s)
+[2022.07.06-02.50.58:494][841]LogAIModule: Creating AISystem for world TopDownExampleMap1
+[2022.07.06-02.50.58:494][841]LogPlayLevel: PIE: World Init took: (0.001004s)
+[2022.07.06-02.50.58:494][841]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/MichaelM/Maps/TopDownExampleMap1.TopDownExampleMap1 to /Game/TopDownBP/MichaelM/Maps/UEDPIE_0_TopDownExampleMap1.TopDownExampleMap1 (0.011275s)
+[2022.07.06-02.50.58:502][841]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2022.07.06-02.50.58:505][841]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.07.06-02.50.58:505][841]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.06-02.50.58:505][841]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.06-02.50.58:505][841]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.06-02.50.58:505][841]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.06-02.50.58:505][841]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.06-02.50.58:505][841]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.06-02.50.58:505][841]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.06-02.50.58:505][841]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.06-02.50.58:505][841]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.06-02.50.58:505][841]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.06-02.50.58:505][841]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.06-02.50.58:505][841]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.06-02.50.58:514][841]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.06-02.50.58:514][841]LogAudioMixer: Display: 1: FrontRight
+[2022.07.06-02.50.58:527][841]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.07.06-02.50.58:537][841]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.06-02.50.58:537][841]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.06-02.50.58:537][841]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.06-02.50.58:538][841]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.06-02.50.58:538][841]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.06-02.50.58:538][841]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.06-02.50.58:539][841]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.06-02.50.58:539][841]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.06-02.50.58:539][841]LogInit: FAudioDevice initialized.
+[2022.07.06-02.50.58:539][841]LogAudio: Display: Audio Device (ID: 6) registered with world 'TopDownExampleMap1'.
+[2022.07.06-02.50.58:553][841]LogLoad: Game class is 'TopDownGameMode1_C'
+[2022.07.06-02.50.58:568][841]LogWorld: Bringing World /Game/TopDownBP/MichaelM/Maps/UEDPIE_0_TopDownExampleMap1.TopDownExampleMap1 up for play (max tick rate 0) at 2022.07.06-12.50.58
+[2022.07.06-02.50.58:569][841]LogWorld: Bringing up level for play took: 0.001502
+[2022.07.06-02.50.58:569][841]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2022.07.06-02.50.58:572][841]PIE: Server logged in
+[2022.07.06-02.50.58:573][841]PIE: Play in editor total start time 0.196 seconds.
+[2022.07.06-02.51.13:857][535]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.06-02.51.13:857][535]LogWorld: BeginTearingDown for /Game/TopDownBP/MichaelM/Maps/UEDPIE_0_TopDownExampleMap1
+[2022.07.06-02.51.13:857][535]LogWorld: UWorld::CleanupWorld for TopDownExampleMap1, bSessionEnded=true, bCleanupResources=true
+[2022.07.06-02.51.13:858][535]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.06-02.51.13:869][535]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.06-02.51.13:870][535]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.06-02.51.13:875][535]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.06-02.51.13:875][535]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.06-02.51.13:876][535]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.06-02.51.13:880][535]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.07.06-02.51.13:899][536]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2022.07.06-03.07.27:473][260]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\core_api\platforms\win\src\fmod_output_wasapi.cpp(577) - Starvation detected in WASAPI output buffer!
+
+[2022.07.06-03.42.47:605][604]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.07.06-05.09.58:064][223]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.07.06-06.02.55:216][644]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton
+[2022.07.06-06.02.55:930][644]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.06-06.03.28:436][432]LogSlate: Window 'Mixamo_Base_Skeleton' being destroyed
+[2022.07.06-06.05.33:882][287]Cmd: TRANSACTION UNDO
+[2022.07.06-06.05.33:882][287]LogEditorTransaction: Undo Rotate Bone
+[2022.07.06-06.05.34:618][287]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.06-06.05.34:725][287]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.06-06.05.34:770][287]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.06-06.09.09:382][792]LogSavePackage: Moving '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Saved/Mixamo_Base_Skeleton41B54C2646E716F6D8565B8F9C9AD1BB.tmp' to '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Content/TopDownBP/MichaelM/Animations/Mixamo_Base_Skeleton.uasset'
+[2022.07.06-06.09.09:602][792]AssetCheck: New page: Asset Save: Mixamo_Base_Skeleton
+[2022.07.06-06.09.09:623][792]LogContentValidation: Display: Validating Skeleton /Game/TopDownBP/MichaelM/Animations/Mixamo_Base_Skeleton.Mixamo_Base_Skeleton
+[2022.07.06-06.09.29:897][ 16]Cmd: TRANSACTION UNDO
+[2022.07.06-06.09.29:897][ 16]LogEditorTransaction: Undo Rotate Bone
+[2022.07.06-06.09.30:141][ 16]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.06-06.09.30:142][ 16]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.06-06.09.30:143][ 16]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.06-06.10.03:802][749]LogSavePackage: Moving '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Saved/UE4_Mannequin_Skeleton05E0A6F04EFBEA4B90D9148C64A579F7.tmp' to '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Content/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.uasset'
+[2022.07.06-06.10.03:848][749]AssetCheck: New page: Asset Save: UE4_Mannequin_Skeleton
+[2022.07.06-06.10.03:848][749]LogContentValidation: Display: Validating Skeleton /Game/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton
+[2022.07.06-06.10.28:203][408]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2022.07.06-06.10.30:611][408]LogSlate: Window 'Save Content' being destroyed
+[2022.07.06-06.10.30:809][408]LogSavePackage: Moving '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Saved/SK_Mannequin788FCE6343CC8F21F3A79984BC5FA071.tmp' to '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Content/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.uasset'
+[2022.07.06-06.10.32:476][408]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.07.06-06.10.32:481][408]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.06-06.10.32:770][408]LogSlate: Window 'Mixamo_Base_Skeleton' being destroyed
+[2022.07.06-06.10.32:987][408]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.07.06-06.10.32:987][408]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.06-06.10.33:093][408]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.07.06-06.10.33:093][408]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.06-06.10.33:211][408]LogSlate: Window 'DisOrder - Unreal Editor' being destroyed
+[2022.07.06-06.10.34:885][408]AssetCheck: New page: Asset Save: SK_Mannequin
+[2022.07.06-06.10.34:885][408]LogContentValidation: Display: Validating SkeletalMesh /Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.SK_Mannequin
+[2022.07.06-06.10.34:936][409]Cmd: QUIT_EDITOR
+[2022.07.06-06.10.34:942][409]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.07.06-06.10.35:034][409]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.07.06-06.10.35:895][409]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.07.06-06.10.35:895][409]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.07.06-06.10.35:895][409]LogAudio: Display: Audio Device unregistered from world 'TopDownExampleMap1'.
+[2022.07.06-06.10.36:076][409]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.06-06.10.36:087][409]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.06-06.10.36:280][409]LogAudio: Display: Audio Device Manager Shutdown
+[2022.07.06-06.10.36:306][409]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.07.06-06.10.36:396][409]LogExit: Preparing to exit.
+[2022.07.06-06.10.38:199][409]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2022.07.06-06.10.40:342][409]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.07.06-06.10.40:342][409]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.07.06-06.10.40:342][409]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.07.06-06.10.40:342][409]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.07.06-06.10.40:342][409]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.07.06-06.10.40:342][409]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.07.06-06.10.40:342][409]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.07.06-06.10.47:859][409]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.07.06-06.10.49:997][409]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.07.06-06.10.50:113][409]LogExit: Editor shut down
+[2022.07.06-06.10.50:777][409]LogExit: Transaction tracking system shut down
+[2022.07.06-06.11.05:631][409]LogExit: Object subsystem successfully closed.
+[2022.07.06-06.11.05:977][409]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.07.06-06.11.05:977][409]LogShaderCompilers: Display: Total job queries 264, among them cache hits 92 (34.85%)
+[2022.07.06-06.11.05:977][409]LogShaderCompilers: Display: Tracking 84 distinct input hashes that result in 34 distinct outputs (40.48%)
+[2022.07.06-06.11.05:995][409]LogShaderCompilers: Display: RAM used: 0.19 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.02%
+[2022.07.06-06.11.05:995][409]LogShaderCompilers: Display: ================================================
+[2022.07.06-06.11.06:452][409]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.07.06-06.11.12:038][409]LogModuleManager: Shutting down and abandoning module SequencerWidgets (886)
+[2022.07.06-06.11.12:127][409]LogModuleManager: Shutting down and abandoning module PinnedCommandList (884)
+[2022.07.06-06.11.12:127][409]LogModuleManager: Shutting down and abandoning module SkeletonEditor (882)
+[2022.07.06-06.11.12:127][409]LogModuleManager: Shutting down and abandoning module AnimationEditor (880)
+[2022.07.06-06.11.12:166][409]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (878)
+[2022.07.06-06.11.12:166][409]LogModuleManager: Shutting down and abandoning module Voice (876)
+[2022.07.06-06.11.12:167][409]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (874)
+[2022.07.06-06.11.12:167][409]LogModuleManager: Shutting down and abandoning module SceneOutliner (872)
+[2022.07.06-06.11.12:206][409]LogModuleManager: Shutting down and abandoning module AddContentDialog (870)
+[2022.07.06-06.11.12:708][409]LogModuleManager: Shutting down and abandoning module WidgetCarousel (869)
+[2022.07.06-06.11.12:708][409]LogModuleManager: Shutting down and abandoning module EditorWidgets (866)
+[2022.07.06-06.11.12:708][409]LogModuleManager: Shutting down and abandoning module StatsViewer (864)
+[2022.07.06-06.11.12:849][409]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (862)
+[2022.07.06-06.11.12:875][409]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (860)
+[2022.07.06-06.11.12:875][409]LogModuleManager: Shutting down and abandoning module AutomationWorker (858)
+[2022.07.06-06.11.12:936][409]LogModuleManager: Shutting down and abandoning module SteamVREditor (856)
+[2022.07.06-06.11.12:936][409]LogModuleManager: Shutting down and abandoning module OculusMR (854)
+[2022.07.06-06.11.12:936][409]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (852)
+[2022.07.06-06.11.13:109][409]LogModuleManager: Shutting down and abandoning module TakeRecorder (851)
+[2022.07.06-06.11.13:261][409]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (848)
+[2022.07.06-06.11.13:262][409]LogModuleManager: Shutting down and abandoning module TakesCore (846)
+[2022.07.06-06.11.13:300][409]LogModuleManager: Shutting down and abandoning module OpenXRInput (844)
+[2022.07.06-06.11.13:422][409]LogModuleManager: Shutting down and abandoning module GooglePADEditor (842)
+[2022.07.06-06.11.13:422][409]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (840)
+[2022.07.06-06.11.13:422][409]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (838)
+[2022.07.06-06.11.13:465][409]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (836)
+[2022.07.06-06.11.13:469][409]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (834)
+[2022.07.06-06.11.13:518][409]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (832)
+[2022.07.06-06.11.13:597][409]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (830)
+[2022.07.06-06.11.13:597][409]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (828)
+[2022.07.06-06.11.13:597][409]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (826)
+[2022.07.06-06.11.13:597][409]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (824)
+[2022.07.06-06.11.13:597][409]LogModuleManager: Shutting down and abandoning module WebMMedia (822)
+[2022.07.06-06.11.13:620][409]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (820)
+[2022.07.06-06.11.13:726][409]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (818)
+[2022.07.06-06.11.13:750][409]LogModuleManager: Shutting down and abandoning module SequenceRecorder (817)
+[2022.07.06-06.11.13:750][409]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (814)
+[2022.07.06-06.11.13:750][409]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (812)
+[2022.07.06-06.11.13:750][409]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (810)
+[2022.07.06-06.11.13:750][409]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (808)
+[2022.07.06-06.11.13:750][409]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (806)
+[2022.07.06-06.11.13:750][409]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (804)
+[2022.07.06-06.11.13:750][409]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (802)
+[2022.07.06-06.11.13:750][409]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (800)
+[2022.07.06-06.11.13:750][409]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (798)
+[2022.07.06-06.11.13:750][409]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (796)
+[2022.07.06-06.11.13:750][409]LogModuleManager: Shutting down and abandoning module PlanarCut (794)
+[2022.07.06-06.11.13:780][409]LogModuleManager: Shutting down and abandoning module CharacterAI (792)
+[2022.07.06-06.11.13:780][409]LogModuleManager: Shutting down and abandoning module TextureAlignMode (790)
+[2022.07.06-06.11.13:780][409]LogModuleManager: Shutting down and abandoning module BspMode (788)
+[2022.07.06-06.11.13:781][409]LogModuleManager: Shutting down and abandoning module GeometryMode (786)
+[2022.07.06-06.11.13:781][409]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (784)
+[2022.07.06-06.11.13:877][409]LogModuleManager: Shutting down and abandoning module SmartSnapping (782)
+[2022.07.06-06.11.13:877][409]LogModuleManager: Shutting down and abandoning module SessionServices (780)
+[2022.07.06-06.11.13:877][409]LogModuleManager: Shutting down and abandoning module MeshPaint (778)
