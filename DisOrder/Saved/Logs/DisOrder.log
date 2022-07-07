@@ -1546,3 +1546,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.07.07-12.20.38:602][546]LogContentValidation: Display: Validating AnimBlueprint /Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint
 [2022.07.07-12.20.38:602][546]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/MichaelM/Blueprints/PlayerCharacterTest.PlayerCharacterTest
 [2022.07.07-12.20.38:602][546]LogContentValidation: Display: Validating World /Game/TopDownBP/MichaelM/Maps/TopDownExampleMap1.TopDownExampleMap1
+[2022.07.07-12.29.48:458][145]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2022.07.07-12.29.49:914][287]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.07.07-12.42.17:879][755]LogDirectoryWatcher: Display: A directory notification failed for 'E:/Unreal Projects/Project--Dis-Order/DisOrder/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2022.07.07-12.42.17:879][755]LogDirectoryWatcher: Display: A directory notification failed for 'E:/Unreal Projects/Project--Dis-Order/DisOrder/Content/Developers/monst/Collections/' because it could not be accessed. Aborting watch request...
+[2022.07.07-12.42.17:879][755]LogDirectoryWatcher: Display: A directory notification failed for 'E:/Unreal Projects/Project--Dis-Order/DisOrder/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2022.07.07-12.42.26:040][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
