@@ -1002,3 +1002,503 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.07.07-01.31.16:859][504]AssetCheck: New page: Asset Save: multiple assets
 [2022.07.07-01.31.16:859][504]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/MichaelM/Blueprints/BP_Weapon.BP_Weapon
 [2022.07.07-01.31.16:859][504]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/MichaelM/Blueprints/BP_Weapon_Cleaver.BP_Weapon_Cleaver
+[2022.07.07-01.32.03:937][959]LogSlate: Took 0.000314 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.07.07-01.33.20:415][556]BlueprintLog: New page: Compile BP_Weapon
+[2022.07.07-01.33.20:482][556]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2022.07.07-01.33.21:021][612]LogSavePackage: Moving '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Saved/BP_Weapon1E48E5D642057F0256D149A3C8D5D006.tmp' to '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Content/TopDownBP/MichaelM/Blueprints/BP_Weapon.uasset'
+[2022.07.07-01.33.21:042][612]AssetCheck: New page: Asset Save: BP_Weapon
+[2022.07.07-01.33.21:042][612]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/MichaelM/Blueprints/BP_Weapon.BP_Weapon
+[2022.07.07-01.36.17:435][729]LogBlueprint: Warning: [AssetLog] E:\Unreal Projects\Project--Dis-Order\DisOrder\Content\TopDownBP\MichaelM\Blueprints\BP_Weapon.uasset: [Compiler] Pasted node  CustomEvent   conflicted with  Weapon Active  and was replaced as a Custom Event!
+[2022.07.07-01.38.01:718][432]BlueprintLog: New page: Compile BP_Weapon
+[2022.07.07-01.38.01:777][432]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2022.07.07-01.38.16:153][ 98]BlueprintLog: New page: Compile BP_Weapon
+[2022.07.07-01.38.16:210][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2022.07.07-01.38.29:602][220]BlueprintLog: New page: Compile BP_Weapon_Cleaver
+[2022.07.07-01.38.29:651][220]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2022.07.07-01.38.31:191][394]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2022.07.07-01.38.31:218][394]LogSavePackage: Moving '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Saved/TopDownExampleMap1745EF5424CB69E85359B85B380122785.tmp' to '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Content/TopDownBP/MichaelM/Maps/TopDownExampleMap1.umap'
+[2022.07.07-01.38.31:248][394]AssetCheck: New page: Asset Save: TopDownExampleMap1
+[2022.07.07-01.38.31:248][394]LogContentValidation: Display: Validating World /Game/TopDownBP/MichaelM/Maps/TopDownExampleMap1.TopDownExampleMap1
+[2022.07.07-01.38.32:429][532]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2022.07.07-01.38.33:212][532]LogSlate: Window 'Save Content' being destroyed
+[2022.07.07-01.38.33:255][532]LogSavePackage: Moving '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Saved/BP_WeaponC303A0554EFBF35282712D8572181668.tmp' to '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Content/TopDownBP/MichaelM/Blueprints/BP_Weapon.uasset'
+[2022.07.07-01.38.33:275][532]LogSavePackage: Moving '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Saved/BP_Weapon_Cleaver813E2FF64C5256945DC7D890412C0D50.tmp' to '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Content/TopDownBP/MichaelM/Blueprints/BP_Weapon_Cleaver.uasset'
+[2022.07.07-01.38.33:292][532]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.07-01.38.33:292][532]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/MichaelM/Blueprints/BP_Weapon.BP_Weapon
+[2022.07.07-01.38.33:292][532]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/MichaelM/Blueprints/BP_Weapon_Cleaver.BP_Weapon_Cleaver
+[2022.07.07-01.39.45:621][145]BlueprintLog: New page: Compile BP_Weapon_Cleaver
+[2022.07.07-01.39.45:671][145]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2022.07.07-01.39.58:360][994]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/MichaelM/Blueprints/PlayerCharacterTest.PlayerCharacterTest
+[2022.07.07-01.41.00:760][411]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.07.07-01.41.00:779][411]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.07.07-01.41.36:253][239]BlueprintLog: New page: Compile PlayerCharacterTest
+[2022.07.07-01.41.36:314][239]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2022.07.07-01.41.38:915][440]LogSavePackage: Moving '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Saved/PlayerCharacterTest5520B04349181E613EC8748EA55FC330.tmp' to '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Content/TopDownBP/MichaelM/Blueprints/PlayerCharacterTest.uasset'
+[2022.07.07-01.41.38:946][440]AssetCheck: New page: Asset Save: PlayerCharacterTest
+[2022.07.07-01.41.38:946][440]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/MichaelM/Blueprints/PlayerCharacterTest.PlayerCharacterTest
+[2022.07.07-01.41.56:694][920]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2022.07.07-01.41.57:677][920]LogSlate: Window 'Save Content' being destroyed
+[2022.07.07-01.41.57:733][920]LogSavePackage: Moving '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Saved/BP_Weapon_Cleaver2B1E11C94D388AD1245269BEB9C27152.tmp' to '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Content/TopDownBP/MichaelM/Blueprints/BP_Weapon_Cleaver.uasset'
+[2022.07.07-01.41.57:748][920]AssetCheck: New page: Asset Save: BP_Weapon_Cleaver
+[2022.07.07-01.41.57:748][920]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/MichaelM/Blueprints/BP_Weapon_Cleaver.BP_Weapon_Cleaver
+[2022.07.07-01.43.04:758][150]BlueprintLog: New page: Compile PlayerCharacterTest
+[2022.07.07-01.43.04:829][150]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2022.07.07-01.43.38:395][ 85]LogContentBrowser: Deferred new asset file creation: Stable_Sword_Inward_Slash__1__mixamo_com1_Montage
+[2022.07.07-01.43.38:409][ 85]LogContentBrowser: Creating deferred item: Stable_Sword_Inward_Slash__1__mixamo_com1_Montage
+[2022.07.07-01.43.42:172][535]LogContentBrowser: Attempting asset rename: Stable_Sword_Inward_Slash__1__mixamo_com1_Montage -> Stable_Sword_Inward_Slash__1__mixamo_com1_Montage
+[2022.07.07-01.43.42:247][535]LogContentBrowser: End creating deferred item Stable_Sword_Inward_Slash__1__mixamo_com1_Montage
+[2022.07.07-01.44.22:890][727]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint
+[2022.07.07-01.44.22:896][727]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.07-01.45.08:710][766]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2022.07.07-01.45.08:710][766]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.07-01.45.08:721][766]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2022.07.07-01.45.08:721][766]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.07-01.45.08:796][766]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2022.07.07-01.45.08:796][766]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.07-01.45.31:785][340]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint
+[2022.07.07-01.45.31:790][340]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.07-01.46.41:874][573]BlueprintLog: New page: Compile UE4ASP_HeroTPP_AnimBlueprint
+[2022.07.07-01.46.42:297][573]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2022.07.07-01.46.56:254][688]BlueprintLog: New page: Compile PlayerCharacterTest
+[2022.07.07-01.46.56:320][688]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2022.07.07-01.46.57:252][794]LogTemp: Repeating last play command: Selected Viewport
+[2022.07.07-01.46.57:355][794]LogFMOD: Default sample rate = 48000
+[2022.07.07-01.46.57:355][794]LogFMOD: System sample rate = 44100
+[2022.07.07-01.46.57:355][794]LogFMOD: Matching system sample rate 44100
+[2022.07.07-01.46.57:410][794]LogFMOD: Warning: Master bank (Master.bank) not found.
+[2022.07.07-01.46.57:462][794]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.07-01.46.57:469][794]PIE: New page: PIE session: TopDownExampleMap1 (7 Jul 2022, 9:46:57 pm)
+[2022.07.07-01.46.57:486][794]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.07.07-01.46.57:493][794]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.07.07-01.46.57:494][794]LogPlayLevel: Creating play world package: /Game/TopDownBP/MichaelM/Maps/UEDPIE_0_TopDownExampleMap1
+[2022.07.07-01.46.57:521][794]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026842s)
+[2022.07.07-01.46.57:522][794]LogAIModule: Creating AISystem for world TopDownExampleMap1
+[2022.07.07-01.46.57:534][794]LogPlayLevel: PIE: World Init took: (0.012621s)
+[2022.07.07-01.46.57:534][794]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/MichaelM/Maps/TopDownExampleMap1.TopDownExampleMap1 to /Game/TopDownBP/MichaelM/Maps/UEDPIE_0_TopDownExampleMap1.TopDownExampleMap1 (0.040057s)
+[2022.07.07-01.46.57:573][794]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2022.07.07-01.46.57:576][794]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.07.07-01.46.57:576][794]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.07-01.46.57:576][794]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.07-01.46.57:576][794]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.07-01.46.57:576][794]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.07-01.46.57:576][794]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.07-01.46.57:576][794]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.07-01.46.57:576][794]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.07-01.46.57:576][794]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.07-01.46.57:577][794]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.07-01.46.57:577][794]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.07-01.46.57:577][794]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.07-01.46.57:577][794]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.07-01.46.57:585][794]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.07-01.46.57:585][794]LogAudioMixer: Display: 1: FrontRight
+[2022.07.07-01.46.57:585][794]LogAudioMixer: Display: 2: FrontCenter
+[2022.07.07-01.46.57:585][794]LogAudioMixer: Display: 3: LowFrequency
+[2022.07.07-01.46.57:585][794]LogAudioMixer: Display: 4: BackLeft
+[2022.07.07-01.46.57:585][794]LogAudioMixer: Display: 5: BackRight
+[2022.07.07-01.46.57:585][794]LogAudioMixer: Display: 6: SideLeft
+[2022.07.07-01.46.57:585][794]LogAudioMixer: Display: 7: SideRight
+[2022.07.07-01.46.57:595][794]LogAudioMixer: Display: Using Audio Device Speakers (Logitech PRO X Gaming Headset)
+[2022.07.07-01.46.57:595][794]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.07-01.46.57:595][794]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.07-01.46.57:595][794]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.07-01.46.57:595][794]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.07-01.46.57:595][794]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.07-01.46.57:595][794]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.07.07-01.46.57:596][794]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.07-01.46.57:596][794]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.07-01.46.57:597][794]LogInit: FAudioDevice initialized.
+[2022.07.07-01.46.57:597][794]LogAudio: Display: Audio Device (ID: 2) registered with world 'TopDownExampleMap1'.
+[2022.07.07-01.46.57:616][794]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.07-01.46.57:637][794]LogLoad: Game class is 'TopDownGameMode1_C'
+[2022.07.07-01.46.57:639][794]LogWorld: Bringing World /Game/TopDownBP/MichaelM/Maps/UEDPIE_0_TopDownExampleMap1.TopDownExampleMap1 up for play (max tick rate 0) at 2022.07.07-11.46.57
+[2022.07.07-01.46.57:651][794]LogWorld: Bringing up level for play took: 0.012245
+[2022.07.07-01.46.57:652][794]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2022.07.07-01.46.57:821][794]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2022.07.07-01.46.57:900][794]PIE: Server logged in
+[2022.07.07-01.46.57:900][794]PIE: Play in editor total start time 0.621 seconds.
+[2022.07.07-01.47.07:872][897]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.07-01.47.07:872][897]LogWorld: BeginTearingDown for /Game/TopDownBP/MichaelM/Maps/UEDPIE_0_TopDownExampleMap1
+[2022.07.07-01.47.07:872][897]LogSlate: Window 'DisOrder Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.07.07-01.47.07:884][897]LogWorld: UWorld::CleanupWorld for TopDownExampleMap1, bSessionEnded=true, bCleanupResources=true
+[2022.07.07-01.47.07:885][897]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.07-01.47.07:899][897]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.07-01.47.07:906][897]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.07-01.47.07:967][897]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.07-01.47.07:967][897]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.07-01.47.07:968][897]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.07-01.47.07:994][897]LogUObjectHash: Compacting FUObjectHashTables data took   5.57ms
+[2022.07.07-01.47.08:011][898]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2022.07.07-01.48.41:569][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   4.79ms
+[2022.07.07-01.48.41:571][ 89]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDownBP/MichaelM/Maps/TopDownExampleMap1' took 0.047
+[2022.07.07-01.48.41:571][ 89]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/MichaelM/Blueprints/PlayerCharacterTest] ([2] browsable assets)...
+[2022.07.07-01.48.41:584][ 89]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDownBP/MichaelM/Blueprints/PlayerCharacterTest.PlayerCharacterTest]
+[2022.07.07-01.48.41:584][ 89]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/MichaelM/Blueprints/PlayerCharacterTest]
+[2022.07.07-01.48.41:600][ 89]LogSavePackage: Moving '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Saved/PlayerCharacterTest_Auto1E0F45DF6440C5F923D5727802736AED0.tmp' to '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Saved/Autosaves/Game/TopDownBP/MichaelM/Blueprints/PlayerCharacterTest_Auto1.uasset'
+[2022.07.07-01.48.41:601][ 89]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint] ([2] browsable assets)...
+[2022.07.07-01.48.41:609][ 89]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint]
+[2022.07.07-01.48.41:609][ 89]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint]
+[2022.07.07-01.48.41:729][ 89]LogSavePackage: Moving '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Saved/UE4ASP_HeroTPP_AnimBlueprint_Aut2DFA2D2A4BD471B7D6CD51B961D9547D.tmp' to '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Saved/Autosaves/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint_Auto1.uasset'
+[2022.07.07-01.48.41:730][ 89]LogFileHelpers: Auto-saving content packages took 0.160
+[2022.07.07-02.03.14:113][454]BlueprintLog: New page: Compile UE4ASP_HeroTPP_AnimBlueprint
+[2022.07.07-02.03.14:200][454]LogUObjectHash: Compacting FUObjectHashTables data took   6.08ms
+[2022.07.07-02.03.53:213][ 78]BlueprintLog: New page: Compile UE4ASP_HeroTPP_AnimBlueprint
+[2022.07.07-02.03.53:296][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   5.07ms
+[2022.07.07-02.03.53:872][133]LogSavePackage: Moving '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Saved/UE4ASP_HeroTPP_AnimBlueprintD04D08914E2CE02FE14FF08C94A83D03.tmp' to '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Content/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.uasset'
+[2022.07.07-02.03.54:027][133]AssetCheck: New page: Asset Save: UE4ASP_HeroTPP_AnimBlueprint
+[2022.07.07-02.03.54:027][133]LogContentValidation: Display: Validating AnimBlueprint /Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint
+[2022.07.07-02.04.00:580][897]LogTemp: Repeating last play command: Selected Viewport
+[2022.07.07-02.04.00:646][897]LogFMOD: Default sample rate = 48000
+[2022.07.07-02.04.00:646][897]LogFMOD: System sample rate = 44100
+[2022.07.07-02.04.00:646][897]LogFMOD: Matching system sample rate 44100
+[2022.07.07-02.04.00:661][897]LogFMOD: Warning: Master bank (Master.bank) not found.
+[2022.07.07-02.04.00:706][897]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.07-02.04.00:706][897]PIE: New page: PIE session: TopDownExampleMap1 (7 Jul 2022, 10:04:00 pm)
+[2022.07.07-02.04.00:706][897]LogPlayLevel: Creating play world package: /Game/TopDownBP/MichaelM/Maps/UEDPIE_0_TopDownExampleMap1
+[2022.07.07-02.04.00:716][897]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009549s)
+[2022.07.07-02.04.00:716][897]LogAIModule: Creating AISystem for world TopDownExampleMap1
+[2022.07.07-02.04.00:717][897]LogPlayLevel: PIE: World Init took: (0.001138s)
+[2022.07.07-02.04.00:717][897]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/MichaelM/Maps/TopDownExampleMap1.TopDownExampleMap1 to /Game/TopDownBP/MichaelM/Maps/UEDPIE_0_TopDownExampleMap1.TopDownExampleMap1 (0.010857s)
+[2022.07.07-02.04.00:763][897]LogUObjectHash: Compacting FUObjectHashTables data took   4.91ms
+[2022.07.07-02.04.00:765][897]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.07.07-02.04.00:765][897]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.07-02.04.00:765][897]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.07-02.04.00:765][897]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.07-02.04.00:765][897]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.07-02.04.00:765][897]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.07-02.04.00:765][897]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.07-02.04.00:765][897]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.07-02.04.00:765][897]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.07-02.04.00:766][897]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.07-02.04.00:766][897]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.07-02.04.00:766][897]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.07-02.04.00:766][897]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.07-02.04.00:815][897]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.07-02.04.00:816][897]LogAudioMixer: Display: 1: FrontRight
+[2022.07.07-02.04.00:816][897]LogAudioMixer: Display: 2: FrontCenter
+[2022.07.07-02.04.00:816][897]LogAudioMixer: Display: 3: LowFrequency
+[2022.07.07-02.04.00:816][897]LogAudioMixer: Display: 4: BackLeft
+[2022.07.07-02.04.00:816][897]LogAudioMixer: Display: 5: BackRight
+[2022.07.07-02.04.00:816][897]LogAudioMixer: Display: 6: SideLeft
+[2022.07.07-02.04.00:816][897]LogAudioMixer: Display: 7: SideRight
+[2022.07.07-02.04.00:825][897]LogAudioMixer: Display: Using Audio Device Speakers (Logitech PRO X Gaming Headset)
+[2022.07.07-02.04.00:826][897]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.07-02.04.00:826][897]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.07-02.04.00:826][897]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.07-02.04.00:826][897]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.07-02.04.00:826][897]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.07-02.04.00:826][897]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.07.07-02.04.00:828][897]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.07-02.04.00:828][897]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.07-02.04.00:828][897]LogInit: FAudioDevice initialized.
+[2022.07.07-02.04.00:828][897]LogAudio: Display: Audio Device (ID: 3) registered with world 'TopDownExampleMap1'.
+[2022.07.07-02.04.00:846][897]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.07-02.04.00:846][897]LogLoad: Game class is 'TopDownGameMode1_C'
+[2022.07.07-02.04.00:847][897]LogWorld: Bringing World /Game/TopDownBP/MichaelM/Maps/UEDPIE_0_TopDownExampleMap1.TopDownExampleMap1 up for play (max tick rate 0) at 2022.07.07-12.04.00
+[2022.07.07-02.04.00:848][897]LogWorld: Bringing up level for play took: 0.001191
+[2022.07.07-02.04.00:848][897]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2022.07.07-02.04.00:852][897]PIE: Server logged in
+[2022.07.07-02.04.00:853][897]PIE: Play in editor total start time 0.266 seconds.
+[2022.07.07-02.04.05:341][383]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.07-02.04.05:341][383]LogWorld: BeginTearingDown for /Game/TopDownBP/MichaelM/Maps/UEDPIE_0_TopDownExampleMap1
+[2022.07.07-02.04.05:342][383]LogSlate: Window 'DisOrder Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.07.07-02.04.05:347][383]LogWorld: UWorld::CleanupWorld for TopDownExampleMap1, bSessionEnded=true, bCleanupResources=true
+[2022.07.07-02.04.05:347][383]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.07-02.04.05:356][383]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.07-02.04.05:362][383]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.07-02.04.05:403][383]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.07-02.04.05:403][383]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.07-02.04.05:404][383]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.07-02.04.05:412][383]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2022.07.07-02.04.05:431][384]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2022.07.07-02.06.21:615][757]LogTemp: Repeating last play command: Selected Viewport
+[2022.07.07-02.06.21:675][757]LogFMOD: Default sample rate = 48000
+[2022.07.07-02.06.21:675][757]LogFMOD: System sample rate = 44100
+[2022.07.07-02.06.21:675][757]LogFMOD: Matching system sample rate 44100
+[2022.07.07-02.06.21:689][757]LogFMOD: Warning: Master bank (Master.bank) not found.
+[2022.07.07-02.06.21:727][757]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.07-02.06.21:727][757]PIE: New page: PIE session: TopDownExampleMap1 (7 Jul 2022, 10:06:21 pm)
+[2022.07.07-02.06.21:727][757]LogPlayLevel: Creating play world package: /Game/TopDownBP/MichaelM/Maps/UEDPIE_0_TopDownExampleMap1
+[2022.07.07-02.06.21:736][757]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008945s)
+[2022.07.07-02.06.21:737][757]LogAIModule: Creating AISystem for world TopDownExampleMap1
+[2022.07.07-02.06.21:737][757]LogPlayLevel: PIE: World Init took: (0.000864s)
+[2022.07.07-02.06.21:737][757]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/MichaelM/Maps/TopDownExampleMap1.TopDownExampleMap1 to /Game/TopDownBP/MichaelM/Maps/UEDPIE_0_TopDownExampleMap1.TopDownExampleMap1 (0.009931s)
+[2022.07.07-02.06.21:783][757]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2022.07.07-02.06.21:784][757]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.07.07-02.06.21:784][757]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.07-02.06.21:784][757]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.07-02.06.21:784][757]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.07-02.06.21:784][757]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.07-02.06.21:784][757]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.07-02.06.21:784][757]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.07-02.06.21:784][757]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.07-02.06.21:784][757]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.07-02.06.21:784][757]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.07-02.06.21:784][757]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.07-02.06.21:784][757]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.07-02.06.21:784][757]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.07-02.06.21:792][757]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.07-02.06.21:792][757]LogAudioMixer: Display: 1: FrontRight
+[2022.07.07-02.06.21:792][757]LogAudioMixer: Display: 2: FrontCenter
+[2022.07.07-02.06.21:792][757]LogAudioMixer: Display: 3: LowFrequency
+[2022.07.07-02.06.21:792][757]LogAudioMixer: Display: 4: BackLeft
+[2022.07.07-02.06.21:792][757]LogAudioMixer: Display: 5: BackRight
+[2022.07.07-02.06.21:792][757]LogAudioMixer: Display: 6: SideLeft
+[2022.07.07-02.06.21:792][757]LogAudioMixer: Display: 7: SideRight
+[2022.07.07-02.06.21:801][757]LogAudioMixer: Display: Using Audio Device Speakers (Logitech PRO X Gaming Headset)
+[2022.07.07-02.06.21:802][757]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.07-02.06.21:802][757]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.07-02.06.21:802][757]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.07-02.06.21:802][757]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.07-02.06.21:802][757]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.07-02.06.21:802][757]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.07.07-02.06.21:803][757]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.07-02.06.21:803][757]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.07-02.06.21:803][757]LogInit: FAudioDevice initialized.
+[2022.07.07-02.06.21:803][757]LogAudio: Display: Audio Device (ID: 4) registered with world 'TopDownExampleMap1'.
+[2022.07.07-02.06.21:835][757]LogLoad: Game class is 'TopDownGameMode1_C'
+[2022.07.07-02.06.21:836][757]LogWorld: Bringing World /Game/TopDownBP/MichaelM/Maps/UEDPIE_0_TopDownExampleMap1.TopDownExampleMap1 up for play (max tick rate 0) at 2022.07.07-12.06.21
+[2022.07.07-02.06.21:836][757]LogWorld: Bringing up level for play took: 0.001043
+[2022.07.07-02.06.21:836][757]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2022.07.07-02.06.21:840][757]PIE: Server logged in
+[2022.07.07-02.06.21:841][757]PIE: Play in editor total start time 0.22 seconds.
+[2022.07.07-02.06.30:119][727]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.07-02.06.30:119][727]LogWorld: BeginTearingDown for /Game/TopDownBP/MichaelM/Maps/UEDPIE_0_TopDownExampleMap1
+[2022.07.07-02.06.30:119][727]LogWorld: UWorld::CleanupWorld for TopDownExampleMap1, bSessionEnded=true, bCleanupResources=true
+[2022.07.07-02.06.30:120][727]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.07-02.06.30:148][727]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.07-02.06.30:154][727]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.07-02.06.30:193][727]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.07-02.06.30:193][727]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.07-02.06.30:194][727]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.07-02.06.30:206][727]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2022.07.07-02.06.30:231][728]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2022.07.07-02.06.41:761][955]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/AnimStarterPack/BS_Jog.BS_Jog
+[2022.07.07-02.06.41:764][955]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.07-02.06.42:701][955]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.07.07-02.06.48:048][577]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2022.07.07-02.06.48:048][577]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.07-02.06.48:132][577]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2022.07.07-02.06.48:132][577]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.07-02.07.20:660][458]LogTemp: Repeating last play command: Selected Viewport
+[2022.07.07-02.07.20:724][458]LogFMOD: Default sample rate = 48000
+[2022.07.07-02.07.20:725][458]LogFMOD: System sample rate = 44100
+[2022.07.07-02.07.20:725][458]LogFMOD: Matching system sample rate 44100
+[2022.07.07-02.07.20:739][458]LogFMOD: Warning: Master bank (Master.bank) not found.
+[2022.07.07-02.07.20:777][458]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.07-02.07.20:777][458]PIE: New page: PIE session: TopDownExampleMap1 (7 Jul 2022, 10:07:20 pm)
+[2022.07.07-02.07.20:777][458]LogPlayLevel: Creating play world package: /Game/TopDownBP/MichaelM/Maps/UEDPIE_0_TopDownExampleMap1
+[2022.07.07-02.07.20:789][458]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011732s)
+[2022.07.07-02.07.20:789][458]LogAIModule: Creating AISystem for world TopDownExampleMap1
+[2022.07.07-02.07.20:790][458]LogPlayLevel: PIE: World Init took: (0.001037s)
+[2022.07.07-02.07.20:790][458]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/MichaelM/Maps/TopDownExampleMap1.TopDownExampleMap1 to /Game/TopDownBP/MichaelM/Maps/UEDPIE_0_TopDownExampleMap1.TopDownExampleMap1 (0.012921s)
+[2022.07.07-02.07.20:842][458]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2022.07.07-02.07.20:845][458]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.07.07-02.07.20:846][458]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.07-02.07.20:846][458]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.07-02.07.20:846][458]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.07-02.07.20:846][458]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.07-02.07.20:846][458]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.07-02.07.20:846][458]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.07-02.07.20:846][458]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.07-02.07.20:846][458]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.07-02.07.20:846][458]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.07-02.07.20:846][458]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.07-02.07.20:846][458]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.07-02.07.20:846][458]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.07-02.07.20:854][458]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.07-02.07.20:854][458]LogAudioMixer: Display: 1: FrontRight
+[2022.07.07-02.07.20:854][458]LogAudioMixer: Display: 2: FrontCenter
+[2022.07.07-02.07.20:854][458]LogAudioMixer: Display: 3: LowFrequency
+[2022.07.07-02.07.20:854][458]LogAudioMixer: Display: 4: BackLeft
+[2022.07.07-02.07.20:854][458]LogAudioMixer: Display: 5: BackRight
+[2022.07.07-02.07.20:854][458]LogAudioMixer: Display: 6: SideLeft
+[2022.07.07-02.07.20:854][458]LogAudioMixer: Display: 7: SideRight
+[2022.07.07-02.07.20:864][458]LogAudioMixer: Display: Using Audio Device Speakers (Logitech PRO X Gaming Headset)
+[2022.07.07-02.07.20:864][458]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.07-02.07.20:864][458]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.07-02.07.20:864][458]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.07-02.07.20:864][458]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.07-02.07.20:865][458]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.07-02.07.20:865][458]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.07.07-02.07.20:866][458]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.07-02.07.20:866][458]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.07-02.07.20:866][458]LogInit: FAudioDevice initialized.
+[2022.07.07-02.07.20:866][458]LogAudio: Display: Audio Device (ID: 5) registered with world 'TopDownExampleMap1'.
+[2022.07.07-02.07.20:882][458]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.07-02.07.20:882][458]LogLoad: Game class is 'TopDownGameMode1_C'
+[2022.07.07-02.07.20:884][458]LogWorld: Bringing World /Game/TopDownBP/MichaelM/Maps/UEDPIE_0_TopDownExampleMap1.TopDownExampleMap1 up for play (max tick rate 0) at 2022.07.07-12.07.20
+[2022.07.07-02.07.20:884][458]LogWorld: Bringing up level for play took: 0.001129
+[2022.07.07-02.07.20:884][458]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2022.07.07-02.07.20:890][458]PIE: Server logged in
+[2022.07.07-02.07.20:891][458]PIE: Play in editor total start time 0.224 seconds.
+[2022.07.07-02.07.56:031][612]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.07-02.07.56:031][612]LogWorld: BeginTearingDown for /Game/TopDownBP/MichaelM/Maps/UEDPIE_0_TopDownExampleMap1
+[2022.07.07-02.07.56:032][612]LogSlate: Window 'DisOrder Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.07.07-02.07.56:038][612]LogWorld: UWorld::CleanupWorld for TopDownExampleMap1, bSessionEnded=true, bCleanupResources=true
+[2022.07.07-02.07.56:038][612]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.07-02.07.56:050][612]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.07-02.07.56:058][612]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.07-02.07.56:099][612]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.07-02.07.56:099][612]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.07-02.07.56:101][612]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.07-02.07.56:108][612]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2022.07.07-02.07.56:131][613]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2022.07.07-02.08.11:795][458]BlueprintLog: New page: Compile UE4ASP_HeroTPP_AnimBlueprint
+[2022.07.07-02.08.11:875][458]LogUObjectHash: Compacting FUObjectHashTables data took   5.13ms
+[2022.07.07-02.09.05:113][796]BlueprintLog: New page: Compile UE4ASP_HeroTPP_AnimBlueprint
+[2022.07.07-02.09.05:196][796]LogUObjectHash: Compacting FUObjectHashTables data took   5.38ms
+[2022.07.07-02.09.05:866][870]LogTemp: Repeating last play command: Selected Viewport
+[2022.07.07-02.09.05:935][870]LogFMOD: Default sample rate = 48000
+[2022.07.07-02.09.05:935][870]LogFMOD: System sample rate = 44100
+[2022.07.07-02.09.05:935][870]LogFMOD: Matching system sample rate 44100
+[2022.07.07-02.09.05:949][870]LogFMOD: Warning: Master bank (Master.bank) not found.
+[2022.07.07-02.09.05:987][870]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.07-02.09.05:987][870]PIE: New page: PIE session: TopDownExampleMap1 (7 Jul 2022, 10:09:05 pm)
+[2022.07.07-02.09.05:987][870]LogPlayLevel: Creating play world package: /Game/TopDownBP/MichaelM/Maps/UEDPIE_0_TopDownExampleMap1
+[2022.07.07-02.09.05:996][870]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009140s)
+[2022.07.07-02.09.05:997][870]LogAIModule: Creating AISystem for world TopDownExampleMap1
+[2022.07.07-02.09.05:997][870]LogPlayLevel: PIE: World Init took: (0.000994s)
+[2022.07.07-02.09.05:997][870]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/MichaelM/Maps/TopDownExampleMap1.TopDownExampleMap1 to /Game/TopDownBP/MichaelM/Maps/UEDPIE_0_TopDownExampleMap1.TopDownExampleMap1 (0.010281s)
+[2022.07.07-02.09.06:042][870]LogUObjectHash: Compacting FUObjectHashTables data took   4.98ms
+[2022.07.07-02.09.06:044][870]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.07.07-02.09.06:044][870]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.07-02.09.06:044][870]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.07-02.09.06:044][870]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.07-02.09.06:044][870]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.07-02.09.06:044][870]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.07-02.09.06:044][870]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.07-02.09.06:044][870]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.07-02.09.06:044][870]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.07-02.09.06:045][870]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.07-02.09.06:045][870]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.07-02.09.06:045][870]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.07-02.09.06:045][870]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.07-02.09.06:052][870]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.07-02.09.06:052][870]LogAudioMixer: Display: 1: FrontRight
+[2022.07.07-02.09.06:052][870]LogAudioMixer: Display: 2: FrontCenter
+[2022.07.07-02.09.06:052][870]LogAudioMixer: Display: 3: LowFrequency
+[2022.07.07-02.09.06:053][870]LogAudioMixer: Display: 4: BackLeft
+[2022.07.07-02.09.06:053][870]LogAudioMixer: Display: 5: BackRight
+[2022.07.07-02.09.06:053][870]LogAudioMixer: Display: 6: SideLeft
+[2022.07.07-02.09.06:053][870]LogAudioMixer: Display: 7: SideRight
+[2022.07.07-02.09.06:062][870]LogAudioMixer: Display: Using Audio Device Speakers (Logitech PRO X Gaming Headset)
+[2022.07.07-02.09.06:062][870]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.07-02.09.06:062][870]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.07-02.09.06:062][870]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.07-02.09.06:063][870]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.07-02.09.06:063][870]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.07-02.09.06:063][870]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.07.07-02.09.06:064][870]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.07-02.09.06:064][870]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.07-02.09.06:064][870]LogInit: FAudioDevice initialized.
+[2022.07.07-02.09.06:064][870]LogAudio: Display: Audio Device (ID: 6) registered with world 'TopDownExampleMap1'.
+[2022.07.07-02.09.06:085][870]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.07-02.09.06:085][870]LogLoad: Game class is 'TopDownGameMode1_C'
+[2022.07.07-02.09.06:087][870]LogWorld: Bringing World /Game/TopDownBP/MichaelM/Maps/UEDPIE_0_TopDownExampleMap1.TopDownExampleMap1 up for play (max tick rate 0) at 2022.07.07-12.09.06
+[2022.07.07-02.09.06:087][870]LogWorld: Bringing up level for play took: 0.001238
+[2022.07.07-02.09.06:087][870]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2022.07.07-02.09.06:091][870]PIE: Server logged in
+[2022.07.07-02.09.06:092][870]PIE: Play in editor total start time 0.22 seconds.
+[2022.07.07-02.09.20:373][531]LogSlate: Window 'DisOrder Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.07.07-02.09.20:481][531]LogWorld: BeginTearingDown for /Game/TopDownBP/MichaelM/Maps/UEDPIE_0_TopDownExampleMap1
+[2022.07.07-02.09.20:506][531]LogWorld: UWorld::CleanupWorld for TopDownExampleMap1, bSessionEnded=true, bCleanupResources=true
+[2022.07.07-02.09.20:506][531]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.07-02.09.20:511][531]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.07-02.09.20:518][531]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.07-02.09.20:557][531]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.07-02.09.20:557][531]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.07-02.09.20:558][531]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.07-02.09.20:565][531]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2022.07.07-02.09.20:588][532]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2022.07.07-02.09.37:010][458]BlueprintLog: New page: Compile PlayerCharacterTest
+[2022.07.07-02.09.37:079][458]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2022.07.07-02.09.46:465][570]LogTemp: Repeating last play command: Selected Viewport
+[2022.07.07-02.09.46:515][570]LogFMOD: Default sample rate = 48000
+[2022.07.07-02.09.46:515][570]LogFMOD: System sample rate = 44100
+[2022.07.07-02.09.46:515][570]LogFMOD: Matching system sample rate 44100
+[2022.07.07-02.09.46:529][570]LogFMOD: Warning: Master bank (Master.bank) not found.
+[2022.07.07-02.09.46:568][570]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.07-02.09.46:568][570]PIE: New page: PIE session: TopDownExampleMap1 (7 Jul 2022, 10:09:46 pm)
+[2022.07.07-02.09.46:568][570]LogPlayLevel: Creating play world package: /Game/TopDownBP/MichaelM/Maps/UEDPIE_0_TopDownExampleMap1
+[2022.07.07-02.09.46:577][570]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009521s)
+[2022.07.07-02.09.46:578][570]LogAIModule: Creating AISystem for world TopDownExampleMap1
+[2022.07.07-02.09.46:579][570]LogPlayLevel: PIE: World Init took: (0.001049s)
+[2022.07.07-02.09.46:579][570]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/MichaelM/Maps/TopDownExampleMap1.TopDownExampleMap1 to /Game/TopDownBP/MichaelM/Maps/UEDPIE_0_TopDownExampleMap1.TopDownExampleMap1 (0.010714s)
+[2022.07.07-02.09.46:626][570]LogUObjectHash: Compacting FUObjectHashTables data took   5.14ms
+[2022.07.07-02.09.46:628][570]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.07.07-02.09.46:628][570]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.07-02.09.46:628][570]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.07-02.09.46:628][570]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.07-02.09.46:628][570]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.07-02.09.46:628][570]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.07-02.09.46:628][570]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.07-02.09.46:628][570]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.07-02.09.46:628][570]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.07-02.09.46:629][570]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.07-02.09.46:629][570]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.07-02.09.46:629][570]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.07-02.09.46:629][570]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.07-02.09.46:637][570]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.07-02.09.46:637][570]LogAudioMixer: Display: 1: FrontRight
+[2022.07.07-02.09.46:637][570]LogAudioMixer: Display: 2: FrontCenter
+[2022.07.07-02.09.46:637][570]LogAudioMixer: Display: 3: LowFrequency
+[2022.07.07-02.09.46:637][570]LogAudioMixer: Display: 4: BackLeft
+[2022.07.07-02.09.46:637][570]LogAudioMixer: Display: 5: BackRight
+[2022.07.07-02.09.46:637][570]LogAudioMixer: Display: 6: SideLeft
+[2022.07.07-02.09.46:637][570]LogAudioMixer: Display: 7: SideRight
+[2022.07.07-02.09.46:646][570]LogAudioMixer: Display: Using Audio Device Speakers (Logitech PRO X Gaming Headset)
+[2022.07.07-02.09.46:647][570]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.07-02.09.46:647][570]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.07-02.09.46:647][570]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.07-02.09.46:647][570]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.07-02.09.46:647][570]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.07-02.09.46:647][570]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.07.07-02.09.46:648][570]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.07-02.09.46:648][570]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.07-02.09.46:648][570]LogInit: FAudioDevice initialized.
+[2022.07.07-02.09.46:648][570]LogAudio: Display: Audio Device (ID: 7) registered with world 'TopDownExampleMap1'.
+[2022.07.07-02.09.46:657][570]LogLoad: Game class is 'TopDownGameMode1_C'
+[2022.07.07-02.09.46:658][570]LogWorld: Bringing World /Game/TopDownBP/MichaelM/Maps/UEDPIE_0_TopDownExampleMap1.TopDownExampleMap1 up for play (max tick rate 0) at 2022.07.07-12.09.46
+[2022.07.07-02.09.46:658][570]LogWorld: Bringing up level for play took: 0.000895
+[2022.07.07-02.09.46:659][570]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2022.07.07-02.09.46:662][570]PIE: Server logged in
+[2022.07.07-02.09.46:662][570]PIE: Play in editor total start time 0.193 seconds.
+[2022.07.07-02.10.05:592][804]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.07-02.10.05:592][804]LogWorld: BeginTearingDown for /Game/TopDownBP/MichaelM/Maps/UEDPIE_0_TopDownExampleMap1
+[2022.07.07-02.10.05:592][804]LogWorld: UWorld::CleanupWorld for TopDownExampleMap1, bSessionEnded=true, bCleanupResources=true
+[2022.07.07-02.10.05:592][804]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.07-02.10.05:598][804]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.07-02.10.05:605][804]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.07-02.10.05:642][804]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.07-02.10.05:642][804]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.07-02.10.05:643][804]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.07-02.10.05:646][804]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.07-02.10.05:650][804]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2022.07.07-02.10.05:672][805]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2022.07.07-02.10.31:781][217]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2022.07.07-02.10.31:782][217]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDownBP/MichaelM/Maps/TopDownExampleMap1' took 0.048
+[2022.07.07-02.10.31:783][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/MichaelM/Blueprints/PlayerCharacterTest] ([2] browsable assets)...
+[2022.07.07-02.10.31:792][217]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDownBP/MichaelM/Blueprints/PlayerCharacterTest.PlayerCharacterTest]
+[2022.07.07-02.10.31:792][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/MichaelM/Blueprints/PlayerCharacterTest]
+[2022.07.07-02.10.31:812][217]LogSavePackage: Moving '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Saved/PlayerCharacterTest_Auto235F5216F49CB4D18515D04A82CF165B2.tmp' to '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Saved/Autosaves/Game/TopDownBP/MichaelM/Blueprints/PlayerCharacterTest_Auto2.uasset'
+[2022.07.07-02.10.31:813][217]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint] ([2] browsable assets)...
+[2022.07.07-02.10.31:821][217]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint]
+[2022.07.07-02.10.31:821][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint]
+[2022.07.07-02.10.31:899][217]LogSavePackage: Moving '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Saved/UE4ASP_HeroTPP_AnimBlueprint_Aut29FF751943F9E66C2687218C9AB3457B.tmp' to '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Saved/Autosaves/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint_Auto2.uasset'
+[2022.07.07-02.10.31:901][217]LogFileHelpers: Auto-saving content packages took 0.118
+[2022.07.07-02.12.21:696][ 30]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/AnimStarterPack/BS_Jog.BS_Jog
+[2022.07.07-02.12.21:699][ 30]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.07-02.12.22:004][ 30]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.07.07-02.12.34:229][411]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2022.07.07-02.12.34:229][411]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.07-02.12.34:289][411]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2022.07.07-02.12.34:289][411]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.07-02.13.21:990][975]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2022.07.07-02.13.22:784][975]LogSlate: Window 'Save Content' being destroyed
+[2022.07.07-02.13.22:836][975]LogSavePackage: Moving '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Saved/PlayerCharacterTestC9F1FFBD4284041BA2701DA227C45711.tmp' to '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Content/TopDownBP/MichaelM/Blueprints/PlayerCharacterTest.uasset'
+[2022.07.07-02.13.22:854][975]LogSavePackage: Moving '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Saved/Stable_Sword_Inward_Slash__1__mi54EB2142450D8A2D9E3600AAD2F1F82A.tmp' to '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Content/TopDownBP/MichaelM/Animations/Stable_Sword_Inward_Slash__1__mixamo_com1_Montage.uasset'
+[2022.07.07-02.13.22:952][975]LogSavePackage: Moving '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Saved/UE4ASP_HeroTPP_AnimBlueprintD25DBD3B423E8EDD1F6C8097F884FB51.tmp' to '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Content/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.uasset'
+[2022.07.07-02.13.22:984][975]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.07-02.13.22:984][975]LogContentValidation: Display: Validating AnimBlueprint /Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint
+[2022.07.07-02.13.22:984][975]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/MichaelM/Blueprints/PlayerCharacterTest.PlayerCharacterTest
+[2022.07.07-02.13.22:984][975]LogContentValidation: Display: Validating AnimMontage /Game/TopDownBP/MichaelM/Animations/Stable_Sword_Inward_Slash__1__mixamo_com1_Montage.Stable_Sword_Inward_Slash__1__mixamo_com1_Montage
