@@ -1502,3 +1502,2292 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.07.07-02.13.22:984][975]LogContentValidation: Display: Validating AnimBlueprint /Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint
 [2022.07.07-02.13.22:984][975]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/MichaelM/Blueprints/PlayerCharacterTest.PlayerCharacterTest
 [2022.07.07-02.13.22:984][975]LogContentValidation: Display: Validating AnimMontage /Game/TopDownBP/MichaelM/Animations/Stable_Sword_Inward_Slash__1__mixamo_com1_Montage.Stable_Sword_Inward_Slash__1__mixamo_com1_Montage
+[2022.07.07-02.14.02:810][515]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/TopDownBP/MichaelM/Animations/Stable_Sword_Inward_Slash__1__mixamo_com1_Montage.Stable_Sword_Inward_Slash__1__mixamo_com1_Montage
+[2022.07.07-02.14.02:812][515]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.07-02.19.30:961][165]BlueprintLog: New page: Compile UE4ASP_HeroTPP_AnimBlueprint
+[2022.07.07-02.19.31:178][165]LogUObjectHash: Compacting FUObjectHashTables data took   5.79ms
+[2022.07.07-02.20.13:520][700]LogTemp: Repeating last play command: Selected Viewport
+[2022.07.07-02.20.13:575][700]LogFMOD: Default sample rate = 48000
+[2022.07.07-02.20.13:575][700]LogFMOD: System sample rate = 44100
+[2022.07.07-02.20.13:575][700]LogFMOD: Matching system sample rate 44100
+[2022.07.07-02.20.13:590][700]LogFMOD: Warning: Master bank (Master.bank) not found.
+[2022.07.07-02.20.13:627][700]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.07-02.20.13:627][700]PIE: New page: PIE session: TopDownExampleMap1 (7 Jul 2022, 10:20:13 pm)
+[2022.07.07-02.20.13:627][700]LogPlayLevel: Creating play world package: /Game/TopDownBP/MichaelM/Maps/UEDPIE_0_TopDownExampleMap1
+[2022.07.07-02.20.13:637][700]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010310s)
+[2022.07.07-02.20.13:639][700]LogAIModule: Creating AISystem for world TopDownExampleMap1
+[2022.07.07-02.20.13:639][700]LogPlayLevel: PIE: World Init took: (0.001586s)
+[2022.07.07-02.20.13:639][700]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/MichaelM/Maps/TopDownExampleMap1.TopDownExampleMap1 to /Game/TopDownBP/MichaelM/Maps/UEDPIE_0_TopDownExampleMap1.TopDownExampleMap1 (0.012150s)
+[2022.07.07-02.20.13:691][700]LogUObjectHash: Compacting FUObjectHashTables data took   4.80ms
+[2022.07.07-02.20.13:694][700]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.07.07-02.20.13:694][700]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.07-02.20.13:694][700]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.07-02.20.13:694][700]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.07-02.20.13:694][700]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.07-02.20.13:694][700]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.07-02.20.13:694][700]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.07-02.20.13:694][700]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.07-02.20.13:694][700]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.07-02.20.13:694][700]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.07-02.20.13:694][700]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.07-02.20.13:694][700]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.07-02.20.13:694][700]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.07-02.20.13:702][700]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.07-02.20.13:703][700]LogAudioMixer: Display: 1: FrontRight
+[2022.07.07-02.20.13:703][700]LogAudioMixer: Display: 2: FrontCenter
+[2022.07.07-02.20.13:703][700]LogAudioMixer: Display: 3: LowFrequency
+[2022.07.07-02.20.13:703][700]LogAudioMixer: Display: 4: BackLeft
+[2022.07.07-02.20.13:703][700]LogAudioMixer: Display: 5: BackRight
+[2022.07.07-02.20.13:703][700]LogAudioMixer: Display: 6: SideLeft
+[2022.07.07-02.20.13:703][700]LogAudioMixer: Display: 7: SideRight
+[2022.07.07-02.20.13:712][700]LogAudioMixer: Display: Using Audio Device Speakers (Logitech PRO X Gaming Headset)
+[2022.07.07-02.20.13:712][700]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.07-02.20.13:712][700]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.07-02.20.13:712][700]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.07-02.20.13:713][700]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.07-02.20.13:713][700]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.07-02.20.13:713][700]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.07.07-02.20.13:714][700]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.07-02.20.13:714][700]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.07-02.20.13:714][700]LogInit: FAudioDevice initialized.
+[2022.07.07-02.20.13:714][700]LogAudio: Display: Audio Device (ID: 8) registered with world 'TopDownExampleMap1'.
+[2022.07.07-02.20.13:725][700]LogLoad: Game class is 'TopDownGameMode1_C'
+[2022.07.07-02.20.13:726][700]LogWorld: Bringing World /Game/TopDownBP/MichaelM/Maps/UEDPIE_0_TopDownExampleMap1.TopDownExampleMap1 up for play (max tick rate 0) at 2022.07.07-12.20.13
+[2022.07.07-02.20.13:726][700]LogWorld: Bringing up level for play took: 0.000990
+[2022.07.07-02.20.13:727][700]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2022.07.07-02.20.13:730][700]PIE: Server logged in
+[2022.07.07-02.20.13:731][700]PIE: Play in editor total start time 0.204 seconds.
+[2022.07.07-02.20.33:413][ 39]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.07-02.20.33:413][ 39]LogWorld: BeginTearingDown for /Game/TopDownBP/MichaelM/Maps/UEDPIE_0_TopDownExampleMap1
+[2022.07.07-02.20.33:413][ 39]LogWorld: UWorld::CleanupWorld for TopDownExampleMap1, bSessionEnded=true, bCleanupResources=true
+[2022.07.07-02.20.33:413][ 39]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.07-02.20.33:421][ 39]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.07-02.20.33:428][ 39]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.07-02.20.33:468][ 39]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.07-02.20.33:468][ 39]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.07-02.20.33:469][ 39]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.07-02.20.33:471][ 39]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.07-02.20.33:476][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2022.07.07-02.20.33:498][ 40]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2022.07.07-02.20.39:448][741]BlueprintLog: New page: Compile UE4ASP_HeroTPP_AnimBlueprint
+[2022.07.07-02.20.39:529][741]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2022.07.07-02.20.40:534][853]LogTemp: Repeating last play command: Selected Viewport
+[2022.07.07-02.20.40:575][853]LogFMOD: Default sample rate = 48000
+[2022.07.07-02.20.40:575][853]LogFMOD: System sample rate = 44100
+[2022.07.07-02.20.40:575][853]LogFMOD: Matching system sample rate 44100
+[2022.07.07-02.20.40:589][853]LogFMOD: Warning: Master bank (Master.bank) not found.
+[2022.07.07-02.20.40:628][853]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.07-02.20.40:628][853]PIE: New page: PIE session: TopDownExampleMap1 (7 Jul 2022, 10:20:40 pm)
+[2022.07.07-02.20.40:657][853]LogPlayLevel: Creating play world package: /Game/TopDownBP/MichaelM/Maps/UEDPIE_0_TopDownExampleMap1
+[2022.07.07-02.20.40:666][853]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009505s)
+[2022.07.07-02.20.40:668][853]LogAIModule: Creating AISystem for world TopDownExampleMap1
+[2022.07.07-02.20.40:668][853]LogPlayLevel: PIE: World Init took: (0.001726s)
+[2022.07.07-02.20.40:668][853]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/MichaelM/Maps/TopDownExampleMap1.TopDownExampleMap1 to /Game/TopDownBP/MichaelM/Maps/UEDPIE_0_TopDownExampleMap1.TopDownExampleMap1 (0.011455s)
+[2022.07.07-02.20.40:718][853]LogUObjectHash: Compacting FUObjectHashTables data took   4.93ms
+[2022.07.07-02.20.40:719][853]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.07.07-02.20.40:719][853]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.07-02.20.40:719][853]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.07-02.20.40:719][853]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.07-02.20.40:719][853]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.07-02.20.40:719][853]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.07-02.20.40:719][853]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.07-02.20.40:719][853]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.07-02.20.40:719][853]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.07-02.20.40:720][853]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.07-02.20.40:720][853]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.07-02.20.40:720][853]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.07-02.20.40:720][853]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.07-02.20.40:728][853]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.07-02.20.40:728][853]LogAudioMixer: Display: 1: FrontRight
+[2022.07.07-02.20.40:728][853]LogAudioMixer: Display: 2: FrontCenter
+[2022.07.07-02.20.40:728][853]LogAudioMixer: Display: 3: LowFrequency
+[2022.07.07-02.20.40:728][853]LogAudioMixer: Display: 4: BackLeft
+[2022.07.07-02.20.40:728][853]LogAudioMixer: Display: 5: BackRight
+[2022.07.07-02.20.40:728][853]LogAudioMixer: Display: 6: SideLeft
+[2022.07.07-02.20.40:728][853]LogAudioMixer: Display: 7: SideRight
+[2022.07.07-02.20.40:738][853]LogAudioMixer: Display: Using Audio Device Speakers (Logitech PRO X Gaming Headset)
+[2022.07.07-02.20.40:738][853]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.07-02.20.40:738][853]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.07-02.20.40:738][853]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.07-02.20.40:738][853]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.07-02.20.40:738][853]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.07-02.20.40:738][853]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.07.07-02.20.40:739][853]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.07-02.20.40:739][853]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.07-02.20.40:739][853]LogInit: FAudioDevice initialized.
+[2022.07.07-02.20.40:740][853]LogAudio: Display: Audio Device (ID: 9) registered with world 'TopDownExampleMap1'.
+[2022.07.07-02.20.40:746][853]LogLoad: Game class is 'TopDownGameMode1_C'
+[2022.07.07-02.20.40:748][853]LogWorld: Bringing World /Game/TopDownBP/MichaelM/Maps/UEDPIE_0_TopDownExampleMap1.TopDownExampleMap1 up for play (max tick rate 0) at 2022.07.07-12.20.40
+[2022.07.07-02.20.40:748][853]LogWorld: Bringing up level for play took: 0.000967
+[2022.07.07-02.20.40:748][853]LogOnline: OSS: Creating online subsystem instance for: :Context_37
+[2022.07.07-02.20.40:751][853]PIE: Server logged in
+[2022.07.07-02.20.40:752][853]PIE: Play in editor total start time 0.212 seconds.
+[2022.07.07-02.20.54:272][451]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.07-02.20.54:272][451]LogWorld: BeginTearingDown for /Game/TopDownBP/MichaelM/Maps/UEDPIE_0_TopDownExampleMap1
+[2022.07.07-02.20.54:272][451]LogWorld: UWorld::CleanupWorld for TopDownExampleMap1, bSessionEnded=true, bCleanupResources=true
+[2022.07.07-02.20.54:273][451]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.07-02.20.54:278][451]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.07-02.20.54:285][451]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.07-02.20.54:325][451]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.07-02.20.54:325][451]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.07-02.20.54:327][451]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.07-02.20.54:330][451]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.07-02.20.54:335][451]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2022.07.07-02.20.54:359][452]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2022.07.07-02.21.04:509][639]BlueprintLog: New page: Compile UE4ASP_HeroTPP_AnimBlueprint
+[2022.07.07-02.21.04:588][639]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2022.07.07-02.21.05:892][789]LogTemp: Repeating last play command: Selected Viewport
+[2022.07.07-02.21.05:935][789]LogFMOD: Default sample rate = 48000
+[2022.07.07-02.21.05:935][789]LogFMOD: System sample rate = 44100
+[2022.07.07-02.21.05:936][789]LogFMOD: Matching system sample rate 44100
+[2022.07.07-02.21.05:949][789]LogFMOD: Warning: Master bank (Master.bank) not found.
+[2022.07.07-02.21.05:988][789]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.07-02.21.05:988][789]PIE: New page: PIE session: TopDownExampleMap1 (7 Jul 2022, 10:21:05 pm)
+[2022.07.07-02.21.05:988][789]LogPlayLevel: Creating play world package: /Game/TopDownBP/MichaelM/Maps/UEDPIE_0_TopDownExampleMap1
+[2022.07.07-02.21.05:997][789]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008738s)
+[2022.07.07-02.21.05:997][789]LogAIModule: Creating AISystem for world TopDownExampleMap1
+[2022.07.07-02.21.05:997][789]LogPlayLevel: PIE: World Init took: (0.000856s)
+[2022.07.07-02.21.05:998][789]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/MichaelM/Maps/TopDownExampleMap1.TopDownExampleMap1 to /Game/TopDownBP/MichaelM/Maps/UEDPIE_0_TopDownExampleMap1.TopDownExampleMap1 (0.009716s)
+[2022.07.07-02.21.06:047][789]LogUObjectHash: Compacting FUObjectHashTables data took   5.55ms
+[2022.07.07-02.21.06:048][789]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2022.07.07-02.21.06:048][789]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.07-02.21.06:049][789]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.07-02.21.06:049][789]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.07-02.21.06:049][789]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.07-02.21.06:049][789]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.07-02.21.06:049][789]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.07-02.21.06:049][789]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.07-02.21.06:049][789]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.07-02.21.06:049][789]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.07-02.21.06:049][789]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.07-02.21.06:049][789]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.07-02.21.06:049][789]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.07-02.21.06:057][789]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.07-02.21.06:057][789]LogAudioMixer: Display: 1: FrontRight
+[2022.07.07-02.21.06:057][789]LogAudioMixer: Display: 2: FrontCenter
+[2022.07.07-02.21.06:057][789]LogAudioMixer: Display: 3: LowFrequency
+[2022.07.07-02.21.06:057][789]LogAudioMixer: Display: 4: BackLeft
+[2022.07.07-02.21.06:057][789]LogAudioMixer: Display: 5: BackRight
+[2022.07.07-02.21.06:057][789]LogAudioMixer: Display: 6: SideLeft
+[2022.07.07-02.21.06:057][789]LogAudioMixer: Display: 7: SideRight
+[2022.07.07-02.21.06:067][789]LogAudioMixer: Display: Using Audio Device Speakers (Logitech PRO X Gaming Headset)
+[2022.07.07-02.21.06:067][789]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.07-02.21.06:067][789]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.07-02.21.06:067][789]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.07-02.21.06:068][789]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.07-02.21.06:068][789]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.07-02.21.06:068][789]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.07.07-02.21.06:069][789]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.07-02.21.06:069][789]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.07-02.21.06:069][789]LogInit: FAudioDevice initialized.
+[2022.07.07-02.21.06:069][789]LogAudio: Display: Audio Device (ID: 10) registered with world 'TopDownExampleMap1'.
+[2022.07.07-02.21.06:078][789]LogLoad: Game class is 'TopDownGameMode1_C'
+[2022.07.07-02.21.06:079][789]LogWorld: Bringing World /Game/TopDownBP/MichaelM/Maps/UEDPIE_0_TopDownExampleMap1.TopDownExampleMap1 up for play (max tick rate 0) at 2022.07.07-12.21.06
+[2022.07.07-02.21.06:080][789]LogWorld: Bringing up level for play took: 0.000903
+[2022.07.07-02.21.06:080][789]LogOnline: OSS: Creating online subsystem instance for: :Context_38
+[2022.07.07-02.21.06:083][789]PIE: Server logged in
+[2022.07.07-02.21.06:084][789]PIE: Play in editor total start time 0.186 seconds.
+[2022.07.07-02.21.31:531][822]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.07-02.21.31:531][822]LogWorld: BeginTearingDown for /Game/TopDownBP/MichaelM/Maps/UEDPIE_0_TopDownExampleMap1
+[2022.07.07-02.21.31:531][822]LogWorld: UWorld::CleanupWorld for TopDownExampleMap1, bSessionEnded=true, bCleanupResources=true
+[2022.07.07-02.21.31:532][822]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.07-02.21.31:542][822]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.07-02.21.31:549][822]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.07-02.21.31:589][822]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.07-02.21.31:589][822]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.07-02.21.31:590][822]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.07-02.21.31:593][822]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.07-02.21.31:597][822]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2022.07.07-02.21.31:624][823]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2022.07.07-02.21.33:816][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2022.07.07-02.21.34:972][ 76]LogSlate: Window 'Save Content' being destroyed
+[2022.07.07-02.21.35:077][ 76]LogSavePackage: Moving '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Saved/UE4ASP_HeroTPP_AnimBlueprint43AECA2F4D0094F0FC27B79308DFE800.tmp' to '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Content/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.uasset'
+[2022.07.07-02.21.35:095][ 76]AssetCheck: New page: Asset Save: UE4ASP_HeroTPP_AnimBlueprint
+[2022.07.07-02.21.35:095][ 76]LogContentValidation: Display: Validating AnimBlueprint /Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint
+[2022.07.07-02.22.23:358][110]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.07.07-02.22.23:360][110]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.07.07-02.22.36:593][110]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.07.07-02.22.36:602][110]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.07.07-02.22.36:618][110]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.07.07-02.22.52:203][705]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Damage_State
+[2022.07.07-02.22.52:220][705]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.07.07-02.22.59:662][163]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/MichaelM/Blueprints/BP_Damage_State.BP_Damage_State
+[2022.07.07-02.27.05:772][825]BlueprintLog: New page: Compile BP_Damage_State
+[2022.07.07-02.27.05:824][825]LogUObjectHash: Compacting FUObjectHashTables data took   5.19ms
+[2022.07.07-02.27.06:267][874]LogSavePackage: Moving '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Saved/BP_Damage_State9767B8B4493EC52E410053A378C3638E.tmp' to '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Content/TopDownBP/MichaelM/Blueprints/BP_Damage_State.uasset'
+[2022.07.07-02.27.06:290][874]AssetCheck: New page: Asset Save: BP_Damage_State
+[2022.07.07-02.27.06:290][874]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/MichaelM/Blueprints/BP_Damage_State.BP_Damage_State
+[2022.07.07-02.28.10:141][773]BlueprintLog: New page: Compile BP_Damage_State
+[2022.07.07-02.28.10:150][773]LogBlueprint: Error: [AssetLog] E:\Unreal Projects\Project--Dis-Order\DisOrder\Content\TopDownBP\MichaelM\Blueprints\BP_Damage_State.uasset: [Compiler] This blueprint (self) is not a ActorComponent, therefore ' Target ' must have a connection.
+[2022.07.07-02.28.10:195][773]LogUObjectHash: Compacting FUObjectHashTables data took   5.07ms
+[2022.07.07-02.28.27:916][207]BlueprintLog: New page: Compile BP_Damage_State
+[2022.07.07-02.28.27:917][207]LogBlueprint: Error: [AssetLog] E:\Unreal Projects\Project--Dis-Order\DisOrder\Content\TopDownBP\MichaelM\Blueprints\BP_Damage_State.uasset: [Compiler] This blueprint (self) is not a Actor, therefore ' Target ' must have a connection.
+[2022.07.07-02.28.27:961][207]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
+[2022.07.07-02.29.03:455][463]BlueprintLog: New page: Compile BP_Damage_State
+[2022.07.07-02.29.03:500][463]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
+[2022.07.07-02.29.18:942][312]BlueprintLog: New page: Compile BP_Damage_State
+[2022.07.07-02.29.18:987][312]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2022.07.07-02.29.19:611][383]LogSavePackage: Moving '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Saved/BP_Damage_State260E3DA6487B417AF580179CD98EAAA4.tmp' to '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Content/TopDownBP/MichaelM/Blueprints/BP_Damage_State.uasset'
+[2022.07.07-02.29.19:633][383]AssetCheck: New page: Asset Save: BP_Damage_State
+[2022.07.07-02.29.19:633][383]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/MichaelM/Blueprints/BP_Damage_State.BP_Damage_State
+[2022.07.07-02.30.33:370][616]Cmd: TRANSACTION UNDO
+[2022.07.07-02.30.33:377][616]LogEditorTransaction: Undo Add Notify Track
+[2022.07.07-02.30.33:379][616]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.07-02.30.33:566][616]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.07-02.31.04:953][567]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.07.07-02.31.04:973][567]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.07.07-02.31.57:038][999]LogSavePackage: Moving '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Saved/Stable_Sword_Inward_Slash__1__mi373F45304FF4859892B8B28D52E41243.tmp' to '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Content/TopDownBP/MichaelM/Animations/Stable_Sword_Inward_Slash__1__mixamo_com1_Montage.uasset'
+[2022.07.07-02.31.57:060][999]AssetCheck: New page: Asset Save: Stable_Sword_Inward_Slash__1__mixamo_com1_Montage
+[2022.07.07-02.31.57:060][999]LogContentValidation: Display: Validating AnimMontage /Game/TopDownBP/MichaelM/Animations/Stable_Sword_Inward_Slash__1__mixamo_com1_Montage.Stable_Sword_Inward_Slash__1__mixamo_com1_Montage
+[2022.07.07-02.34.02:656][799]BlueprintLog: New page: Compile PlayerCharacterTest
+[2022.07.07-02.34.02:738][799]LogUObjectHash: Compacting FUObjectHashTables data took   5.67ms
+[2022.07.07-02.36.35:246][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   5.22ms
+[2022.07.07-02.36.35:248][ 72]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDownBP/MichaelM/Maps/TopDownExampleMap1' took 0.050
+[2022.07.07-02.36.35:248][ 72]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/MichaelM/Blueprints/PlayerCharacterTest] ([2] browsable assets)...
+[2022.07.07-02.36.35:256][ 72]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDownBP/MichaelM/Blueprints/PlayerCharacterTest.PlayerCharacterTest]
+[2022.07.07-02.36.35:256][ 72]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/MichaelM/Blueprints/PlayerCharacterTest]
+[2022.07.07-02.36.35:277][ 72]LogSavePackage: Moving '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Saved/PlayerCharacterTest_Auto3AE8094234F09954071BB1EA8CF1CC818.tmp' to '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Saved/Autosaves/Game/TopDownBP/MichaelM/Blueprints/PlayerCharacterTest_Auto3.uasset'
+[2022.07.07-02.36.35:278][ 72]LogFileHelpers: Auto-saving content packages took 0.031
+[2022.07.07-07.01.27:178][483]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\School\GDS213\Disorder\Animations\Standing Torch Melee Attack 03.fbx)
+[2022.07.07-07.01.27:527][483]LogFbx: Loading FBX Scene from E:\School\GDS213\Disorder\Animations\Standing Torch Melee Attack 03.fbx
+[2022.07.07-07.01.27:638][483]LogFbx: FBX Scene Loaded Succesfully
+[2022.07.07-07.01.56:136][483]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.07.07-07.01.57:411][483]LogFbx: SortedLinks :(0) Hips
+[2022.07.07-07.01.57:411][483]LogFbx: SortedLinks :(1) Spine
+[2022.07.07-07.01.57:411][483]LogFbx: SortedLinks :(2) Spine1
+[2022.07.07-07.01.57:411][483]LogFbx: SortedLinks :(3) Spine2
+[2022.07.07-07.01.57:411][483]LogFbx: SortedLinks :(4) Neck
+[2022.07.07-07.01.57:411][483]LogFbx: SortedLinks :(5) Head
+[2022.07.07-07.01.57:411][483]LogFbx: SortedLinks :(6) HeadTop_End
+[2022.07.07-07.01.57:411][483]LogFbx: SortedLinks :(7) LeftEye
+[2022.07.07-07.01.57:411][483]LogFbx: SortedLinks :(8) RightEye
+[2022.07.07-07.01.57:411][483]LogFbx: SortedLinks :(9) LeftShoulder
+[2022.07.07-07.01.57:411][483]LogFbx: SortedLinks :(10) LeftArm
+[2022.07.07-07.01.57:411][483]LogFbx: SortedLinks :(11) LeftForeArm
+[2022.07.07-07.01.57:411][483]LogFbx: SortedLinks :(12) LeftHand
+[2022.07.07-07.01.57:411][483]LogFbx: SortedLinks :(13) LeftHandThumb1
+[2022.07.07-07.01.57:411][483]LogFbx: SortedLinks :(14) LeftHandThumb2
+[2022.07.07-07.01.57:411][483]LogFbx: SortedLinks :(15) LeftHandThumb3
+[2022.07.07-07.01.57:411][483]LogFbx: SortedLinks :(16) LeftHandThumb4
+[2022.07.07-07.01.57:412][483]LogFbx: SortedLinks :(17) LeftHandIndex1
+[2022.07.07-07.01.57:412][483]LogFbx: SortedLinks :(18) LeftHandIndex2
+[2022.07.07-07.01.57:412][483]LogFbx: SortedLinks :(19) LeftHandIndex3
+[2022.07.07-07.01.57:412][483]LogFbx: SortedLinks :(20) LeftHandIndex4
+[2022.07.07-07.01.57:412][483]LogFbx: SortedLinks :(21) LeftHandMiddle1
+[2022.07.07-07.01.57:412][483]LogFbx: SortedLinks :(22) LeftHandMiddle2
+[2022.07.07-07.01.57:412][483]LogFbx: SortedLinks :(23) LeftHandMiddle3
+[2022.07.07-07.01.57:412][483]LogFbx: SortedLinks :(24) LeftHandMiddle4
+[2022.07.07-07.01.57:412][483]LogFbx: SortedLinks :(25) LeftHandRing1
+[2022.07.07-07.01.57:412][483]LogFbx: SortedLinks :(26) LeftHandRing2
+[2022.07.07-07.01.57:412][483]LogFbx: SortedLinks :(27) LeftHandRing3
+[2022.07.07-07.01.57:412][483]LogFbx: SortedLinks :(28) LeftHandRing4
+[2022.07.07-07.01.57:412][483]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2022.07.07-07.01.57:412][483]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2022.07.07-07.01.57:412][483]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2022.07.07-07.01.57:412][483]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2022.07.07-07.01.57:412][483]LogFbx: SortedLinks :(33) RightShoulder
+[2022.07.07-07.01.57:412][483]LogFbx: SortedLinks :(34) RightArm
+[2022.07.07-07.01.57:412][483]LogFbx: SortedLinks :(35) RightForeArm
+[2022.07.07-07.01.57:412][483]LogFbx: SortedLinks :(36) RightHand
+[2022.07.07-07.01.57:412][483]LogFbx: SortedLinks :(37) RightHandPinky1
+[2022.07.07-07.01.57:412][483]LogFbx: SortedLinks :(38) RightHandPinky2
+[2022.07.07-07.01.57:412][483]LogFbx: SortedLinks :(39) RightHandPinky3
+[2022.07.07-07.01.57:412][483]LogFbx: SortedLinks :(40) RightHandPinky4
+[2022.07.07-07.01.57:412][483]LogFbx: SortedLinks :(41) RightHandRing1
+[2022.07.07-07.01.57:412][483]LogFbx: SortedLinks :(42) RightHandRing2
+[2022.07.07-07.01.57:412][483]LogFbx: SortedLinks :(43) RightHandRing3
+[2022.07.07-07.01.57:412][483]LogFbx: SortedLinks :(44) RightHandRing4
+[2022.07.07-07.01.57:412][483]LogFbx: SortedLinks :(45) RightHandMiddle1
+[2022.07.07-07.01.57:412][483]LogFbx: SortedLinks :(46) RightHandMiddle2
+[2022.07.07-07.01.57:412][483]LogFbx: SortedLinks :(47) RightHandMiddle3
+[2022.07.07-07.01.57:412][483]LogFbx: SortedLinks :(48) RightHandMiddle4
+[2022.07.07-07.01.57:412][483]LogFbx: SortedLinks :(49) RightHandIndex1
+[2022.07.07-07.01.57:412][483]LogFbx: SortedLinks :(50) RightHandIndex2
+[2022.07.07-07.01.57:412][483]LogFbx: SortedLinks :(51) RightHandIndex3
+[2022.07.07-07.01.57:412][483]LogFbx: SortedLinks :(52) RightHandIndex4
+[2022.07.07-07.01.57:412][483]LogFbx: SortedLinks :(53) RightHandThumb1
+[2022.07.07-07.01.57:412][483]LogFbx: SortedLinks :(54) RightHandThumb2
+[2022.07.07-07.01.57:412][483]LogFbx: SortedLinks :(55) RightHandThumb3
+[2022.07.07-07.01.57:412][483]LogFbx: SortedLinks :(56) RightHandThumb4
+[2022.07.07-07.01.57:412][483]LogFbx: SortedLinks :(57) LeftUpLeg
+[2022.07.07-07.01.57:412][483]LogFbx: SortedLinks :(58) LeftLeg
+[2022.07.07-07.01.57:412][483]LogFbx: SortedLinks :(59) LeftFoot
+[2022.07.07-07.01.57:412][483]LogFbx: SortedLinks :(60) LeftToeBase
+[2022.07.07-07.01.57:412][483]LogFbx: SortedLinks :(61) LeftToe_End
+[2022.07.07-07.01.57:412][483]LogFbx: SortedLinks :(62) RightUpLeg
+[2022.07.07-07.01.57:412][483]LogFbx: SortedLinks :(63) RightLeg
+[2022.07.07-07.01.57:412][483]LogFbx: SortedLinks :(64) RightFoot
+[2022.07.07-07.01.57:412][483]LogFbx: SortedLinks :(65) RightToeBase
+[2022.07.07-07.01.57:412][483]LogFbx: SortedLinks :(66) RightToe_End
+[2022.07.07-07.01.57:412][483]LogFbx: SortedLinks :(0) Hips
+[2022.07.07-07.01.57:412][483]LogFbx: SortedLinks :(1) Spine
+[2022.07.07-07.01.57:412][483]LogFbx: SortedLinks :(2) Spine1
+[2022.07.07-07.01.57:412][483]LogFbx: SortedLinks :(3) Spine2
+[2022.07.07-07.01.57:412][483]LogFbx: SortedLinks :(4) Neck
+[2022.07.07-07.01.57:412][483]LogFbx: SortedLinks :(5) Head
+[2022.07.07-07.01.57:412][483]LogFbx: SortedLinks :(6) HeadTop_End
+[2022.07.07-07.01.57:412][483]LogFbx: SortedLinks :(7) LeftEye
+[2022.07.07-07.01.57:412][483]LogFbx: SortedLinks :(8) RightEye
+[2022.07.07-07.01.57:412][483]LogFbx: SortedLinks :(9) LeftShoulder
+[2022.07.07-07.01.57:412][483]LogFbx: SortedLinks :(10) LeftArm
+[2022.07.07-07.01.57:412][483]LogFbx: SortedLinks :(11) LeftForeArm
+[2022.07.07-07.01.57:412][483]LogFbx: SortedLinks :(12) LeftHand
+[2022.07.07-07.01.57:412][483]LogFbx: SortedLinks :(13) LeftHandThumb1
+[2022.07.07-07.01.57:412][483]LogFbx: SortedLinks :(14) LeftHandThumb2
+[2022.07.07-07.01.57:412][483]LogFbx: SortedLinks :(15) LeftHandThumb3
+[2022.07.07-07.01.57:412][483]LogFbx: SortedLinks :(16) LeftHandThumb4
+[2022.07.07-07.01.57:412][483]LogFbx: SortedLinks :(17) LeftHandIndex1
+[2022.07.07-07.01.57:412][483]LogFbx: SortedLinks :(18) LeftHandIndex2
+[2022.07.07-07.01.57:412][483]LogFbx: SortedLinks :(19) LeftHandIndex3
+[2022.07.07-07.01.57:412][483]LogFbx: SortedLinks :(20) LeftHandIndex4
+[2022.07.07-07.01.57:412][483]LogFbx: SortedLinks :(21) LeftHandMiddle1
+[2022.07.07-07.01.57:413][483]LogFbx: SortedLinks :(22) LeftHandMiddle2
+[2022.07.07-07.01.57:413][483]LogFbx: SortedLinks :(23) LeftHandMiddle3
+[2022.07.07-07.01.57:413][483]LogFbx: SortedLinks :(24) LeftHandMiddle4
+[2022.07.07-07.01.57:413][483]LogFbx: SortedLinks :(25) LeftHandRing1
+[2022.07.07-07.01.57:413][483]LogFbx: SortedLinks :(26) LeftHandRing2
+[2022.07.07-07.01.57:413][483]LogFbx: SortedLinks :(27) LeftHandRing3
+[2022.07.07-07.01.57:413][483]LogFbx: SortedLinks :(28) LeftHandRing4
+[2022.07.07-07.01.57:413][483]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2022.07.07-07.01.57:413][483]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2022.07.07-07.01.57:413][483]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2022.07.07-07.01.57:413][483]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2022.07.07-07.01.57:413][483]LogFbx: SortedLinks :(33) RightShoulder
+[2022.07.07-07.01.57:413][483]LogFbx: SortedLinks :(34) RightArm
+[2022.07.07-07.01.57:413][483]LogFbx: SortedLinks :(35) RightForeArm
+[2022.07.07-07.01.57:413][483]LogFbx: SortedLinks :(36) RightHand
+[2022.07.07-07.01.57:413][483]LogFbx: SortedLinks :(37) RightHandPinky1
+[2022.07.07-07.01.57:413][483]LogFbx: SortedLinks :(38) RightHandPinky2
+[2022.07.07-07.01.57:413][483]LogFbx: SortedLinks :(39) RightHandPinky3
+[2022.07.07-07.01.57:413][483]LogFbx: SortedLinks :(40) RightHandPinky4
+[2022.07.07-07.01.57:413][483]LogFbx: SortedLinks :(41) RightHandRing1
+[2022.07.07-07.01.57:413][483]LogFbx: SortedLinks :(42) RightHandRing2
+[2022.07.07-07.01.57:413][483]LogFbx: SortedLinks :(43) RightHandRing3
+[2022.07.07-07.01.57:413][483]LogFbx: SortedLinks :(44) RightHandRing4
+[2022.07.07-07.01.57:413][483]LogFbx: SortedLinks :(45) RightHandMiddle1
+[2022.07.07-07.01.57:413][483]LogFbx: SortedLinks :(46) RightHandMiddle2
+[2022.07.07-07.01.57:413][483]LogFbx: SortedLinks :(47) RightHandMiddle3
+[2022.07.07-07.01.57:413][483]LogFbx: SortedLinks :(48) RightHandMiddle4
+[2022.07.07-07.01.57:413][483]LogFbx: SortedLinks :(49) RightHandIndex1
+[2022.07.07-07.01.57:413][483]LogFbx: SortedLinks :(50) RightHandIndex2
+[2022.07.07-07.01.57:413][483]LogFbx: SortedLinks :(51) RightHandIndex3
+[2022.07.07-07.01.57:413][483]LogFbx: SortedLinks :(52) RightHandIndex4
+[2022.07.07-07.01.57:413][483]LogFbx: SortedLinks :(53) RightHandThumb1
+[2022.07.07-07.01.57:413][483]LogFbx: SortedLinks :(54) RightHandThumb2
+[2022.07.07-07.01.57:413][483]LogFbx: SortedLinks :(55) RightHandThumb3
+[2022.07.07-07.01.57:413][483]LogFbx: SortedLinks :(56) RightHandThumb4
+[2022.07.07-07.01.57:413][483]LogFbx: SortedLinks :(57) LeftUpLeg
+[2022.07.07-07.01.57:413][483]LogFbx: SortedLinks :(58) LeftLeg
+[2022.07.07-07.01.57:413][483]LogFbx: SortedLinks :(59) LeftFoot
+[2022.07.07-07.01.57:413][483]LogFbx: SortedLinks :(60) LeftToeBase
+[2022.07.07-07.01.57:413][483]LogFbx: SortedLinks :(61) LeftToe_End
+[2022.07.07-07.01.57:413][483]LogFbx: SortedLinks :(62) RightUpLeg
+[2022.07.07-07.01.57:413][483]LogFbx: SortedLinks :(63) RightLeg
+[2022.07.07-07.01.57:413][483]LogFbx: SortedLinks :(64) RightFoot
+[2022.07.07-07.01.57:413][483]LogFbx: SortedLinks :(65) RightToeBase
+[2022.07.07-07.01.57:413][483]LogFbx: SortedLinks :(66) RightToe_End
+[2022.07.07-07.01.57:421][483]LogFbx: Parsing AnimStack Take 001
+[2022.07.07-07.01.58:667][483]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TopDownBP/MichaelM/Animations/Standing_Torch_Melee_Attack_03_Take_001.Standing_Torch_Melee_Attack_03_Take_001
+[2022.07.07-07.01.58:667][483]LogFbx: Parsing AnimStack mixamo.com
+[2022.07.07-07.02.06:290][483]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TopDownBP/MichaelM/Animations/Standing_Torch_Melee_Attack_03_mixamo_com.Standing_Torch_Melee_Attack_03_mixamo_com
+[2022.07.07-07.02.06:456][483]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TopDownBP/MichaelM/Animations/Standing_Torch_Melee_Attack_03_mixamo_com.Standing_Torch_Melee_Attack_03_mixamo_com
+[2022.07.07-07.02.06:456][483]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 E:\School\GDS213\Disorder\Animations\Standing Torch Walk Forward Stop.fbx)
+[2022.07.07-07.02.06:485][483]LogFbx: Loading FBX Scene from E:\School\GDS213\Disorder\Animations\Standing Torch Walk Forward Stop.fbx
+[2022.07.07-07.02.06:545][483]LogFbx: FBX Scene Loaded Succesfully
+[2022.07.07-07.02.06:550][483]LogFbx: SortedLinks :(0) Hips
+[2022.07.07-07.02.06:550][483]LogFbx: SortedLinks :(1) Spine
+[2022.07.07-07.02.06:550][483]LogFbx: SortedLinks :(2) Spine1
+[2022.07.07-07.02.06:550][483]LogFbx: SortedLinks :(3) Spine2
+[2022.07.07-07.02.06:550][483]LogFbx: SortedLinks :(4) Neck
+[2022.07.07-07.02.06:550][483]LogFbx: SortedLinks :(5) Head
+[2022.07.07-07.02.06:550][483]LogFbx: SortedLinks :(6) HeadTop_End
+[2022.07.07-07.02.06:550][483]LogFbx: SortedLinks :(7) LeftEye
+[2022.07.07-07.02.06:550][483]LogFbx: SortedLinks :(8) RightEye
+[2022.07.07-07.02.06:550][483]LogFbx: SortedLinks :(9) LeftShoulder
+[2022.07.07-07.02.06:550][483]LogFbx: SortedLinks :(10) LeftArm
+[2022.07.07-07.02.06:550][483]LogFbx: SortedLinks :(11) LeftForeArm
+[2022.07.07-07.02.06:550][483]LogFbx: SortedLinks :(12) LeftHand
+[2022.07.07-07.02.06:550][483]LogFbx: SortedLinks :(13) LeftHandThumb1
+[2022.07.07-07.02.06:550][483]LogFbx: SortedLinks :(14) LeftHandThumb2
+[2022.07.07-07.02.06:550][483]LogFbx: SortedLinks :(15) LeftHandThumb3
+[2022.07.07-07.02.06:550][483]LogFbx: SortedLinks :(16) LeftHandThumb4
+[2022.07.07-07.02.06:550][483]LogFbx: SortedLinks :(17) LeftHandIndex1
+[2022.07.07-07.02.06:550][483]LogFbx: SortedLinks :(18) LeftHandIndex2
+[2022.07.07-07.02.06:550][483]LogFbx: SortedLinks :(19) LeftHandIndex3
+[2022.07.07-07.02.06:550][483]LogFbx: SortedLinks :(20) LeftHandIndex4
+[2022.07.07-07.02.06:550][483]LogFbx: SortedLinks :(21) LeftHandMiddle1
+[2022.07.07-07.02.06:550][483]LogFbx: SortedLinks :(22) LeftHandMiddle2
+[2022.07.07-07.02.06:550][483]LogFbx: SortedLinks :(23) LeftHandMiddle3
+[2022.07.07-07.02.06:550][483]LogFbx: SortedLinks :(24) LeftHandMiddle4
+[2022.07.07-07.02.06:550][483]LogFbx: SortedLinks :(25) LeftHandRing1
+[2022.07.07-07.02.06:551][483]LogFbx: SortedLinks :(26) LeftHandRing2
+[2022.07.07-07.02.06:551][483]LogFbx: SortedLinks :(27) LeftHandRing3
+[2022.07.07-07.02.06:551][483]LogFbx: SortedLinks :(28) LeftHandRing4
+[2022.07.07-07.02.06:551][483]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2022.07.07-07.02.06:551][483]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2022.07.07-07.02.06:551][483]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2022.07.07-07.02.06:551][483]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2022.07.07-07.02.06:551][483]LogFbx: SortedLinks :(33) RightShoulder
+[2022.07.07-07.02.06:551][483]LogFbx: SortedLinks :(34) RightArm
+[2022.07.07-07.02.06:551][483]LogFbx: SortedLinks :(35) RightForeArm
+[2022.07.07-07.02.06:551][483]LogFbx: SortedLinks :(36) RightHand
+[2022.07.07-07.02.06:551][483]LogFbx: SortedLinks :(37) RightHandPinky1
+[2022.07.07-07.02.06:551][483]LogFbx: SortedLinks :(38) RightHandPinky2
+[2022.07.07-07.02.06:551][483]LogFbx: SortedLinks :(39) RightHandPinky3
+[2022.07.07-07.02.06:551][483]LogFbx: SortedLinks :(40) RightHandPinky4
+[2022.07.07-07.02.06:551][483]LogFbx: SortedLinks :(41) RightHandRing1
+[2022.07.07-07.02.06:551][483]LogFbx: SortedLinks :(42) RightHandRing2
+[2022.07.07-07.02.06:551][483]LogFbx: SortedLinks :(43) RightHandRing3
+[2022.07.07-07.02.06:551][483]LogFbx: SortedLinks :(44) RightHandRing4
+[2022.07.07-07.02.06:551][483]LogFbx: SortedLinks :(45) RightHandMiddle1
+[2022.07.07-07.02.06:551][483]LogFbx: SortedLinks :(46) RightHandMiddle2
+[2022.07.07-07.02.06:551][483]LogFbx: SortedLinks :(47) RightHandMiddle3
+[2022.07.07-07.02.06:551][483]LogFbx: SortedLinks :(48) RightHandMiddle4
+[2022.07.07-07.02.06:551][483]LogFbx: SortedLinks :(49) RightHandIndex1
+[2022.07.07-07.02.06:551][483]LogFbx: SortedLinks :(50) RightHandIndex2
+[2022.07.07-07.02.06:551][483]LogFbx: SortedLinks :(51) RightHandIndex3
+[2022.07.07-07.02.06:551][483]LogFbx: SortedLinks :(52) RightHandIndex4
+[2022.07.07-07.02.06:551][483]LogFbx: SortedLinks :(53) RightHandThumb1
+[2022.07.07-07.02.06:551][483]LogFbx: SortedLinks :(54) RightHandThumb2
+[2022.07.07-07.02.06:551][483]LogFbx: SortedLinks :(55) RightHandThumb3
+[2022.07.07-07.02.06:551][483]LogFbx: SortedLinks :(56) RightHandThumb4
+[2022.07.07-07.02.06:551][483]LogFbx: SortedLinks :(57) LeftUpLeg
+[2022.07.07-07.02.06:551][483]LogFbx: SortedLinks :(58) LeftLeg
+[2022.07.07-07.02.06:551][483]LogFbx: SortedLinks :(59) LeftFoot
+[2022.07.07-07.02.06:551][483]LogFbx: SortedLinks :(60) LeftToeBase
+[2022.07.07-07.02.06:551][483]LogFbx: SortedLinks :(61) LeftToe_End
+[2022.07.07-07.02.06:551][483]LogFbx: SortedLinks :(62) RightUpLeg
+[2022.07.07-07.02.06:551][483]LogFbx: SortedLinks :(63) RightLeg
+[2022.07.07-07.02.06:551][483]LogFbx: SortedLinks :(64) RightFoot
+[2022.07.07-07.02.06:551][483]LogFbx: SortedLinks :(65) RightToeBase
+[2022.07.07-07.02.06:551][483]LogFbx: SortedLinks :(66) RightToe_End
+[2022.07.07-07.02.06:551][483]LogFbx: SortedLinks :(0) Hips
+[2022.07.07-07.02.06:551][483]LogFbx: SortedLinks :(1) Spine
+[2022.07.07-07.02.06:551][483]LogFbx: SortedLinks :(2) Spine1
+[2022.07.07-07.02.06:551][483]LogFbx: SortedLinks :(3) Spine2
+[2022.07.07-07.02.06:551][483]LogFbx: SortedLinks :(4) Neck
+[2022.07.07-07.02.06:551][483]LogFbx: SortedLinks :(5) Head
+[2022.07.07-07.02.06:551][483]LogFbx: SortedLinks :(6) HeadTop_End
+[2022.07.07-07.02.06:551][483]LogFbx: SortedLinks :(7) LeftEye
+[2022.07.07-07.02.06:551][483]LogFbx: SortedLinks :(8) RightEye
+[2022.07.07-07.02.06:551][483]LogFbx: SortedLinks :(9) LeftShoulder
+[2022.07.07-07.02.06:552][483]LogFbx: SortedLinks :(10) LeftArm
+[2022.07.07-07.02.06:552][483]LogFbx: SortedLinks :(11) LeftForeArm
+[2022.07.07-07.02.06:552][483]LogFbx: SortedLinks :(12) LeftHand
+[2022.07.07-07.02.06:552][483]LogFbx: SortedLinks :(13) LeftHandThumb1
+[2022.07.07-07.02.06:552][483]LogFbx: SortedLinks :(14) LeftHandThumb2
+[2022.07.07-07.02.06:552][483]LogFbx: SortedLinks :(15) LeftHandThumb3
+[2022.07.07-07.02.06:552][483]LogFbx: SortedLinks :(16) LeftHandThumb4
+[2022.07.07-07.02.06:552][483]LogFbx: SortedLinks :(17) LeftHandIndex1
+[2022.07.07-07.02.06:552][483]LogFbx: SortedLinks :(18) LeftHandIndex2
+[2022.07.07-07.02.06:552][483]LogFbx: SortedLinks :(19) LeftHandIndex3
+[2022.07.07-07.02.06:552][483]LogFbx: SortedLinks :(20) LeftHandIndex4
+[2022.07.07-07.02.06:552][483]LogFbx: SortedLinks :(21) LeftHandMiddle1
+[2022.07.07-07.02.06:552][483]LogFbx: SortedLinks :(22) LeftHandMiddle2
+[2022.07.07-07.02.06:552][483]LogFbx: SortedLinks :(23) LeftHandMiddle3
+[2022.07.07-07.02.06:552][483]LogFbx: SortedLinks :(24) LeftHandMiddle4
+[2022.07.07-07.02.06:552][483]LogFbx: SortedLinks :(25) LeftHandRing1
+[2022.07.07-07.02.06:552][483]LogFbx: SortedLinks :(26) LeftHandRing2
+[2022.07.07-07.02.06:552][483]LogFbx: SortedLinks :(27) LeftHandRing3
+[2022.07.07-07.02.06:552][483]LogFbx: SortedLinks :(28) LeftHandRing4
+[2022.07.07-07.02.06:552][483]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2022.07.07-07.02.06:552][483]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2022.07.07-07.02.06:552][483]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2022.07.07-07.02.06:552][483]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2022.07.07-07.02.06:552][483]LogFbx: SortedLinks :(33) RightShoulder
+[2022.07.07-07.02.06:552][483]LogFbx: SortedLinks :(34) RightArm
+[2022.07.07-07.02.06:552][483]LogFbx: SortedLinks :(35) RightForeArm
+[2022.07.07-07.02.06:552][483]LogFbx: SortedLinks :(36) RightHand
+[2022.07.07-07.02.06:552][483]LogFbx: SortedLinks :(37) RightHandPinky1
+[2022.07.07-07.02.06:552][483]LogFbx: SortedLinks :(38) RightHandPinky2
+[2022.07.07-07.02.06:552][483]LogFbx: SortedLinks :(39) RightHandPinky3
+[2022.07.07-07.02.06:552][483]LogFbx: SortedLinks :(40) RightHandPinky4
+[2022.07.07-07.02.06:552][483]LogFbx: SortedLinks :(41) RightHandRing1
+[2022.07.07-07.02.06:552][483]LogFbx: SortedLinks :(42) RightHandRing2
+[2022.07.07-07.02.06:552][483]LogFbx: SortedLinks :(43) RightHandRing3
+[2022.07.07-07.02.06:552][483]LogFbx: SortedLinks :(44) RightHandRing4
+[2022.07.07-07.02.06:552][483]LogFbx: SortedLinks :(45) RightHandMiddle1
+[2022.07.07-07.02.06:552][483]LogFbx: SortedLinks :(46) RightHandMiddle2
+[2022.07.07-07.02.06:552][483]LogFbx: SortedLinks :(47) RightHandMiddle3
+[2022.07.07-07.02.06:552][483]LogFbx: SortedLinks :(48) RightHandMiddle4
+[2022.07.07-07.02.06:552][483]LogFbx: SortedLinks :(49) RightHandIndex1
+[2022.07.07-07.02.06:552][483]LogFbx: SortedLinks :(50) RightHandIndex2
+[2022.07.07-07.02.06:552][483]LogFbx: SortedLinks :(51) RightHandIndex3
+[2022.07.07-07.02.06:552][483]LogFbx: SortedLinks :(52) RightHandIndex4
+[2022.07.07-07.02.06:552][483]LogFbx: SortedLinks :(53) RightHandThumb1
+[2022.07.07-07.02.06:552][483]LogFbx: SortedLinks :(54) RightHandThumb2
+[2022.07.07-07.02.06:552][483]LogFbx: SortedLinks :(55) RightHandThumb3
+[2022.07.07-07.02.06:552][483]LogFbx: SortedLinks :(56) RightHandThumb4
+[2022.07.07-07.02.06:552][483]LogFbx: SortedLinks :(57) LeftUpLeg
+[2022.07.07-07.02.06:552][483]LogFbx: SortedLinks :(58) LeftLeg
+[2022.07.07-07.02.06:552][483]LogFbx: SortedLinks :(59) LeftFoot
+[2022.07.07-07.02.06:552][483]LogFbx: SortedLinks :(60) LeftToeBase
+[2022.07.07-07.02.06:552][483]LogFbx: SortedLinks :(61) LeftToe_End
+[2022.07.07-07.02.06:552][483]LogFbx: SortedLinks :(62) RightUpLeg
+[2022.07.07-07.02.06:552][483]LogFbx: SortedLinks :(63) RightLeg
+[2022.07.07-07.02.06:552][483]LogFbx: SortedLinks :(64) RightFoot
+[2022.07.07-07.02.06:552][483]LogFbx: SortedLinks :(65) RightToeBase
+[2022.07.07-07.02.06:552][483]LogFbx: SortedLinks :(66) RightToe_End
+[2022.07.07-07.02.06:554][483]LogFbx: Parsing AnimStack Take 001
+[2022.07.07-07.02.06:650][483]LogFbx: Parsing AnimStack mixamo.com
+[2022.07.07-07.02.06:942][483]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 E:\School\GDS213\Disorder\Animations\Standing W_Briefcase Idle.fbx)
+[2022.07.07-07.02.06:962][483]LogFbx: Loading FBX Scene from E:\School\GDS213\Disorder\Animations\Standing W_Briefcase Idle.fbx
+[2022.07.07-07.02.07:044][483]LogFbx: FBX Scene Loaded Succesfully
+[2022.07.07-07.02.07:052][483]LogFbx: SortedLinks :(0) Hips
+[2022.07.07-07.02.07:052][483]LogFbx: SortedLinks :(1) Spine
+[2022.07.07-07.02.07:052][483]LogFbx: SortedLinks :(2) Spine1
+[2022.07.07-07.02.07:052][483]LogFbx: SortedLinks :(3) Spine2
+[2022.07.07-07.02.07:052][483]LogFbx: SortedLinks :(4) Neck
+[2022.07.07-07.02.07:052][483]LogFbx: SortedLinks :(5) Head
+[2022.07.07-07.02.07:052][483]LogFbx: SortedLinks :(6) HeadTop_End
+[2022.07.07-07.02.07:052][483]LogFbx: SortedLinks :(7) LeftEye
+[2022.07.07-07.02.07:052][483]LogFbx: SortedLinks :(8) RightEye
+[2022.07.07-07.02.07:052][483]LogFbx: SortedLinks :(9) LeftShoulder
+[2022.07.07-07.02.07:052][483]LogFbx: SortedLinks :(10) LeftArm
+[2022.07.07-07.02.07:052][483]LogFbx: SortedLinks :(11) LeftForeArm
+[2022.07.07-07.02.07:052][483]LogFbx: SortedLinks :(12) LeftHand
+[2022.07.07-07.02.07:052][483]LogFbx: SortedLinks :(13) LeftHandThumb1
+[2022.07.07-07.02.07:052][483]LogFbx: SortedLinks :(14) LeftHandThumb2
+[2022.07.07-07.02.07:052][483]LogFbx: SortedLinks :(15) LeftHandThumb3
+[2022.07.07-07.02.07:052][483]LogFbx: SortedLinks :(16) LeftHandThumb4
+[2022.07.07-07.02.07:052][483]LogFbx: SortedLinks :(17) LeftHandIndex1
+[2022.07.07-07.02.07:052][483]LogFbx: SortedLinks :(18) LeftHandIndex2
+[2022.07.07-07.02.07:052][483]LogFbx: SortedLinks :(19) LeftHandIndex3
+[2022.07.07-07.02.07:052][483]LogFbx: SortedLinks :(20) LeftHandIndex4
+[2022.07.07-07.02.07:052][483]LogFbx: SortedLinks :(21) LeftHandMiddle1
+[2022.07.07-07.02.07:052][483]LogFbx: SortedLinks :(22) LeftHandMiddle2
+[2022.07.07-07.02.07:052][483]LogFbx: SortedLinks :(23) LeftHandMiddle3
+[2022.07.07-07.02.07:052][483]LogFbx: SortedLinks :(24) LeftHandMiddle4
+[2022.07.07-07.02.07:052][483]LogFbx: SortedLinks :(25) LeftHandRing1
+[2022.07.07-07.02.07:053][483]LogFbx: SortedLinks :(26) LeftHandRing2
+[2022.07.07-07.02.07:053][483]LogFbx: SortedLinks :(27) LeftHandRing3
+[2022.07.07-07.02.07:053][483]LogFbx: SortedLinks :(28) LeftHandRing4
+[2022.07.07-07.02.07:053][483]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2022.07.07-07.02.07:053][483]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2022.07.07-07.02.07:053][483]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2022.07.07-07.02.07:053][483]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2022.07.07-07.02.07:053][483]LogFbx: SortedLinks :(33) RightShoulder
+[2022.07.07-07.02.07:053][483]LogFbx: SortedLinks :(34) RightArm
+[2022.07.07-07.02.07:053][483]LogFbx: SortedLinks :(35) RightForeArm
+[2022.07.07-07.02.07:053][483]LogFbx: SortedLinks :(36) RightHand
+[2022.07.07-07.02.07:053][483]LogFbx: SortedLinks :(37) RightHandPinky1
+[2022.07.07-07.02.07:053][483]LogFbx: SortedLinks :(38) RightHandPinky2
+[2022.07.07-07.02.07:053][483]LogFbx: SortedLinks :(39) RightHandPinky3
+[2022.07.07-07.02.07:053][483]LogFbx: SortedLinks :(40) RightHandPinky4
+[2022.07.07-07.02.07:053][483]LogFbx: SortedLinks :(41) RightHandRing1
+[2022.07.07-07.02.07:053][483]LogFbx: SortedLinks :(42) RightHandRing2
+[2022.07.07-07.02.07:053][483]LogFbx: SortedLinks :(43) RightHandRing3
+[2022.07.07-07.02.07:053][483]LogFbx: SortedLinks :(44) RightHandRing4
+[2022.07.07-07.02.07:053][483]LogFbx: SortedLinks :(45) RightHandMiddle1
+[2022.07.07-07.02.07:053][483]LogFbx: SortedLinks :(46) RightHandMiddle2
+[2022.07.07-07.02.07:053][483]LogFbx: SortedLinks :(47) RightHandMiddle3
+[2022.07.07-07.02.07:053][483]LogFbx: SortedLinks :(48) RightHandMiddle4
+[2022.07.07-07.02.07:053][483]LogFbx: SortedLinks :(49) RightHandIndex1
+[2022.07.07-07.02.07:053][483]LogFbx: SortedLinks :(50) RightHandIndex2
+[2022.07.07-07.02.07:053][483]LogFbx: SortedLinks :(51) RightHandIndex3
+[2022.07.07-07.02.07:053][483]LogFbx: SortedLinks :(52) RightHandIndex4
+[2022.07.07-07.02.07:053][483]LogFbx: SortedLinks :(53) RightHandThumb1
+[2022.07.07-07.02.07:053][483]LogFbx: SortedLinks :(54) RightHandThumb2
+[2022.07.07-07.02.07:053][483]LogFbx: SortedLinks :(55) RightHandThumb3
+[2022.07.07-07.02.07:053][483]LogFbx: SortedLinks :(56) RightHandThumb4
+[2022.07.07-07.02.07:053][483]LogFbx: SortedLinks :(57) LeftUpLeg
+[2022.07.07-07.02.07:053][483]LogFbx: SortedLinks :(58) LeftLeg
+[2022.07.07-07.02.07:053][483]LogFbx: SortedLinks :(59) LeftFoot
+[2022.07.07-07.02.07:053][483]LogFbx: SortedLinks :(60) LeftToeBase
+[2022.07.07-07.02.07:053][483]LogFbx: SortedLinks :(61) LeftToe_End
+[2022.07.07-07.02.07:053][483]LogFbx: SortedLinks :(62) RightUpLeg
+[2022.07.07-07.02.07:053][483]LogFbx: SortedLinks :(63) RightLeg
+[2022.07.07-07.02.07:053][483]LogFbx: SortedLinks :(64) RightFoot
+[2022.07.07-07.02.07:053][483]LogFbx: SortedLinks :(65) RightToeBase
+[2022.07.07-07.02.07:053][483]LogFbx: SortedLinks :(66) RightToe_End
+[2022.07.07-07.02.07:053][483]LogFbx: SortedLinks :(0) Hips
+[2022.07.07-07.02.07:053][483]LogFbx: SortedLinks :(1) Spine
+[2022.07.07-07.02.07:053][483]LogFbx: SortedLinks :(2) Spine1
+[2022.07.07-07.02.07:053][483]LogFbx: SortedLinks :(3) Spine2
+[2022.07.07-07.02.07:053][483]LogFbx: SortedLinks :(4) Neck
+[2022.07.07-07.02.07:053][483]LogFbx: SortedLinks :(5) Head
+[2022.07.07-07.02.07:053][483]LogFbx: SortedLinks :(6) HeadTop_End
+[2022.07.07-07.02.07:053][483]LogFbx: SortedLinks :(7) LeftEye
+[2022.07.07-07.02.07:054][483]LogFbx: SortedLinks :(8) RightEye
+[2022.07.07-07.02.07:054][483]LogFbx: SortedLinks :(9) LeftShoulder
+[2022.07.07-07.02.07:054][483]LogFbx: SortedLinks :(10) LeftArm
+[2022.07.07-07.02.07:054][483]LogFbx: SortedLinks :(11) LeftForeArm
+[2022.07.07-07.02.07:054][483]LogFbx: SortedLinks :(12) LeftHand
+[2022.07.07-07.02.07:054][483]LogFbx: SortedLinks :(13) LeftHandThumb1
+[2022.07.07-07.02.07:054][483]LogFbx: SortedLinks :(14) LeftHandThumb2
+[2022.07.07-07.02.07:054][483]LogFbx: SortedLinks :(15) LeftHandThumb3
+[2022.07.07-07.02.07:054][483]LogFbx: SortedLinks :(16) LeftHandThumb4
+[2022.07.07-07.02.07:054][483]LogFbx: SortedLinks :(17) LeftHandIndex1
+[2022.07.07-07.02.07:054][483]LogFbx: SortedLinks :(18) LeftHandIndex2
+[2022.07.07-07.02.07:054][483]LogFbx: SortedLinks :(19) LeftHandIndex3
+[2022.07.07-07.02.07:054][483]LogFbx: SortedLinks :(20) LeftHandIndex4
+[2022.07.07-07.02.07:054][483]LogFbx: SortedLinks :(21) LeftHandMiddle1
+[2022.07.07-07.02.07:054][483]LogFbx: SortedLinks :(22) LeftHandMiddle2
+[2022.07.07-07.02.07:054][483]LogFbx: SortedLinks :(23) LeftHandMiddle3
+[2022.07.07-07.02.07:054][483]LogFbx: SortedLinks :(24) LeftHandMiddle4
+[2022.07.07-07.02.07:054][483]LogFbx: SortedLinks :(25) LeftHandRing1
+[2022.07.07-07.02.07:054][483]LogFbx: SortedLinks :(26) LeftHandRing2
+[2022.07.07-07.02.07:054][483]LogFbx: SortedLinks :(27) LeftHandRing3
+[2022.07.07-07.02.07:054][483]LogFbx: SortedLinks :(28) LeftHandRing4
+[2022.07.07-07.02.07:054][483]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2022.07.07-07.02.07:054][483]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2022.07.07-07.02.07:054][483]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2022.07.07-07.02.07:054][483]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2022.07.07-07.02.07:054][483]LogFbx: SortedLinks :(33) RightShoulder
+[2022.07.07-07.02.07:054][483]LogFbx: SortedLinks :(34) RightArm
+[2022.07.07-07.02.07:054][483]LogFbx: SortedLinks :(35) RightForeArm
+[2022.07.07-07.02.07:054][483]LogFbx: SortedLinks :(36) RightHand
+[2022.07.07-07.02.07:054][483]LogFbx: SortedLinks :(37) RightHandPinky1
+[2022.07.07-07.02.07:054][483]LogFbx: SortedLinks :(38) RightHandPinky2
+[2022.07.07-07.02.07:054][483]LogFbx: SortedLinks :(39) RightHandPinky3
+[2022.07.07-07.02.07:054][483]LogFbx: SortedLinks :(40) RightHandPinky4
+[2022.07.07-07.02.07:054][483]LogFbx: SortedLinks :(41) RightHandRing1
+[2022.07.07-07.02.07:054][483]LogFbx: SortedLinks :(42) RightHandRing2
+[2022.07.07-07.02.07:054][483]LogFbx: SortedLinks :(43) RightHandRing3
+[2022.07.07-07.02.07:054][483]LogFbx: SortedLinks :(44) RightHandRing4
+[2022.07.07-07.02.07:054][483]LogFbx: SortedLinks :(45) RightHandMiddle1
+[2022.07.07-07.02.07:054][483]LogFbx: SortedLinks :(46) RightHandMiddle2
+[2022.07.07-07.02.07:054][483]LogFbx: SortedLinks :(47) RightHandMiddle3
+[2022.07.07-07.02.07:054][483]LogFbx: SortedLinks :(48) RightHandMiddle4
+[2022.07.07-07.02.07:054][483]LogFbx: SortedLinks :(49) RightHandIndex1
+[2022.07.07-07.02.07:054][483]LogFbx: SortedLinks :(50) RightHandIndex2
+[2022.07.07-07.02.07:054][483]LogFbx: SortedLinks :(51) RightHandIndex3
+[2022.07.07-07.02.07:054][483]LogFbx: SortedLinks :(52) RightHandIndex4
+[2022.07.07-07.02.07:054][483]LogFbx: SortedLinks :(53) RightHandThumb1
+[2022.07.07-07.02.07:054][483]LogFbx: SortedLinks :(54) RightHandThumb2
+[2022.07.07-07.02.07:054][483]LogFbx: SortedLinks :(55) RightHandThumb3
+[2022.07.07-07.02.07:054][483]LogFbx: SortedLinks :(56) RightHandThumb4
+[2022.07.07-07.02.07:054][483]LogFbx: SortedLinks :(57) LeftUpLeg
+[2022.07.07-07.02.07:054][483]LogFbx: SortedLinks :(58) LeftLeg
+[2022.07.07-07.02.07:054][483]LogFbx: SortedLinks :(59) LeftFoot
+[2022.07.07-07.02.07:054][483]LogFbx: SortedLinks :(60) LeftToeBase
+[2022.07.07-07.02.07:054][483]LogFbx: SortedLinks :(61) LeftToe_End
+[2022.07.07-07.02.07:055][483]LogFbx: SortedLinks :(62) RightUpLeg
+[2022.07.07-07.02.07:055][483]LogFbx: SortedLinks :(63) RightLeg
+[2022.07.07-07.02.07:055][483]LogFbx: SortedLinks :(64) RightFoot
+[2022.07.07-07.02.07:055][483]LogFbx: SortedLinks :(65) RightToeBase
+[2022.07.07-07.02.07:055][483]LogFbx: SortedLinks :(66) RightToe_End
+[2022.07.07-07.02.07:055][483]LogFbx: Parsing AnimStack Take 001
+[2022.07.07-07.02.07:157][483]LogFbx: Parsing AnimStack mixamo.com
+[2022.07.07-07.02.08:513][483]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TopDownBP/MichaelM/Animations/Standing_W_Briefcase_Idle_Take_001.Standing_W_Briefcase_Idle_Take_001
+[2022.07.07-07.02.08:513][483]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TopDownBP/MichaelM/Animations/Standing_Torch_Walk_Forward_Stop_mixamo_com.Standing_Torch_Walk_Forward_Stop_mixamo_com
+[2022.07.07-07.02.08:513][483]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TopDownBP/MichaelM/Animations/Standing_W_Briefcase_Idle_mixamo_com.Standing_W_Briefcase_Idle_mixamo_com
+[2022.07.07-07.02.08:513][483]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TopDownBP/MichaelM/Animations/Standing_Torch_Walk_Forward_Stop_Take_001.Standing_Torch_Walk_Forward_Stop_Take_001
+[2022.07.07-07.02.08:554][483]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 E:\School\GDS213\Disorder\Animations\Unarmed Equip Torch 01.fbx)
+[2022.07.07-07.02.08:572][483]LogFbx: Loading FBX Scene from E:\School\GDS213\Disorder\Animations\Unarmed Equip Torch 01.fbx
+[2022.07.07-07.02.08:619][483]LogFbx: FBX Scene Loaded Succesfully
+[2022.07.07-07.02.08:624][483]LogFbx: SortedLinks :(0) Hips
+[2022.07.07-07.02.08:624][483]LogFbx: SortedLinks :(1) Spine
+[2022.07.07-07.02.08:624][483]LogFbx: SortedLinks :(2) Spine1
+[2022.07.07-07.02.08:624][483]LogFbx: SortedLinks :(3) Spine2
+[2022.07.07-07.02.08:624][483]LogFbx: SortedLinks :(4) Neck
+[2022.07.07-07.02.08:624][483]LogFbx: SortedLinks :(5) Head
+[2022.07.07-07.02.08:624][483]LogFbx: SortedLinks :(6) HeadTop_End
+[2022.07.07-07.02.08:624][483]LogFbx: SortedLinks :(7) LeftEye
+[2022.07.07-07.02.08:624][483]LogFbx: SortedLinks :(8) RightEye
+[2022.07.07-07.02.08:624][483]LogFbx: SortedLinks :(9) LeftShoulder
+[2022.07.07-07.02.08:624][483]LogFbx: SortedLinks :(10) LeftArm
+[2022.07.07-07.02.08:624][483]LogFbx: SortedLinks :(11) LeftForeArm
+[2022.07.07-07.02.08:624][483]LogFbx: SortedLinks :(12) LeftHand
+[2022.07.07-07.02.08:624][483]LogFbx: SortedLinks :(13) LeftHandThumb1
+[2022.07.07-07.02.08:624][483]LogFbx: SortedLinks :(14) LeftHandThumb2
+[2022.07.07-07.02.08:624][483]LogFbx: SortedLinks :(15) LeftHandThumb3
+[2022.07.07-07.02.08:624][483]LogFbx: SortedLinks :(16) LeftHandThumb4
+[2022.07.07-07.02.08:624][483]LogFbx: SortedLinks :(17) LeftHandIndex1
+[2022.07.07-07.02.08:624][483]LogFbx: SortedLinks :(18) LeftHandIndex2
+[2022.07.07-07.02.08:624][483]LogFbx: SortedLinks :(19) LeftHandIndex3
+[2022.07.07-07.02.08:624][483]LogFbx: SortedLinks :(20) LeftHandIndex4
+[2022.07.07-07.02.08:624][483]LogFbx: SortedLinks :(21) LeftHandMiddle1
+[2022.07.07-07.02.08:624][483]LogFbx: SortedLinks :(22) LeftHandMiddle2
+[2022.07.07-07.02.08:624][483]LogFbx: SortedLinks :(23) LeftHandMiddle3
+[2022.07.07-07.02.08:624][483]LogFbx: SortedLinks :(24) LeftHandMiddle4
+[2022.07.07-07.02.08:624][483]LogFbx: SortedLinks :(25) LeftHandRing1
+[2022.07.07-07.02.08:624][483]LogFbx: SortedLinks :(26) LeftHandRing2
+[2022.07.07-07.02.08:624][483]LogFbx: SortedLinks :(27) LeftHandRing3
+[2022.07.07-07.02.08:624][483]LogFbx: SortedLinks :(28) LeftHandRing4
+[2022.07.07-07.02.08:624][483]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2022.07.07-07.02.08:624][483]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2022.07.07-07.02.08:624][483]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2022.07.07-07.02.08:624][483]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2022.07.07-07.02.08:624][483]LogFbx: SortedLinks :(33) RightShoulder
+[2022.07.07-07.02.08:624][483]LogFbx: SortedLinks :(34) RightArm
+[2022.07.07-07.02.08:624][483]LogFbx: SortedLinks :(35) RightForeArm
+[2022.07.07-07.02.08:624][483]LogFbx: SortedLinks :(36) RightHand
+[2022.07.07-07.02.08:624][483]LogFbx: SortedLinks :(37) RightHandPinky1
+[2022.07.07-07.02.08:624][483]LogFbx: SortedLinks :(38) RightHandPinky2
+[2022.07.07-07.02.08:624][483]LogFbx: SortedLinks :(39) RightHandPinky3
+[2022.07.07-07.02.08:624][483]LogFbx: SortedLinks :(40) RightHandPinky4
+[2022.07.07-07.02.08:624][483]LogFbx: SortedLinks :(41) RightHandRing1
+[2022.07.07-07.02.08:624][483]LogFbx: SortedLinks :(42) RightHandRing2
+[2022.07.07-07.02.08:624][483]LogFbx: SortedLinks :(43) RightHandRing3
+[2022.07.07-07.02.08:624][483]LogFbx: SortedLinks :(44) RightHandRing4
+[2022.07.07-07.02.08:624][483]LogFbx: SortedLinks :(45) RightHandMiddle1
+[2022.07.07-07.02.08:624][483]LogFbx: SortedLinks :(46) RightHandMiddle2
+[2022.07.07-07.02.08:624][483]LogFbx: SortedLinks :(47) RightHandMiddle3
+[2022.07.07-07.02.08:624][483]LogFbx: SortedLinks :(48) RightHandMiddle4
+[2022.07.07-07.02.08:625][483]LogFbx: SortedLinks :(49) RightHandIndex1
+[2022.07.07-07.02.08:625][483]LogFbx: SortedLinks :(50) RightHandIndex2
+[2022.07.07-07.02.08:625][483]LogFbx: SortedLinks :(51) RightHandIndex3
+[2022.07.07-07.02.08:625][483]LogFbx: SortedLinks :(52) RightHandIndex4
+[2022.07.07-07.02.08:625][483]LogFbx: SortedLinks :(53) RightHandThumb1
+[2022.07.07-07.02.08:625][483]LogFbx: SortedLinks :(54) RightHandThumb2
+[2022.07.07-07.02.08:625][483]LogFbx: SortedLinks :(55) RightHandThumb3
+[2022.07.07-07.02.08:625][483]LogFbx: SortedLinks :(56) RightHandThumb4
+[2022.07.07-07.02.08:625][483]LogFbx: SortedLinks :(57) LeftUpLeg
+[2022.07.07-07.02.08:625][483]LogFbx: SortedLinks :(58) LeftLeg
+[2022.07.07-07.02.08:625][483]LogFbx: SortedLinks :(59) LeftFoot
+[2022.07.07-07.02.08:625][483]LogFbx: SortedLinks :(60) LeftToeBase
+[2022.07.07-07.02.08:625][483]LogFbx: SortedLinks :(61) LeftToe_End
+[2022.07.07-07.02.08:625][483]LogFbx: SortedLinks :(62) RightUpLeg
+[2022.07.07-07.02.08:625][483]LogFbx: SortedLinks :(63) RightLeg
+[2022.07.07-07.02.08:625][483]LogFbx: SortedLinks :(64) RightFoot
+[2022.07.07-07.02.08:625][483]LogFbx: SortedLinks :(65) RightToeBase
+[2022.07.07-07.02.08:625][483]LogFbx: SortedLinks :(66) RightToe_End
+[2022.07.07-07.02.08:625][483]LogFbx: SortedLinks :(0) Hips
+[2022.07.07-07.02.08:625][483]LogFbx: SortedLinks :(1) Spine
+[2022.07.07-07.02.08:625][483]LogFbx: SortedLinks :(2) Spine1
+[2022.07.07-07.02.08:625][483]LogFbx: SortedLinks :(3) Spine2
+[2022.07.07-07.02.08:625][483]LogFbx: SortedLinks :(4) Neck
+[2022.07.07-07.02.08:625][483]LogFbx: SortedLinks :(5) Head
+[2022.07.07-07.02.08:625][483]LogFbx: SortedLinks :(6) HeadTop_End
+[2022.07.07-07.02.08:625][483]LogFbx: SortedLinks :(7) LeftEye
+[2022.07.07-07.02.08:625][483]LogFbx: SortedLinks :(8) RightEye
+[2022.07.07-07.02.08:625][483]LogFbx: SortedLinks :(9) LeftShoulder
+[2022.07.07-07.02.08:625][483]LogFbx: SortedLinks :(10) LeftArm
+[2022.07.07-07.02.08:625][483]LogFbx: SortedLinks :(11) LeftForeArm
+[2022.07.07-07.02.08:625][483]LogFbx: SortedLinks :(12) LeftHand
+[2022.07.07-07.02.08:625][483]LogFbx: SortedLinks :(13) LeftHandThumb1
+[2022.07.07-07.02.08:625][483]LogFbx: SortedLinks :(14) LeftHandThumb2
+[2022.07.07-07.02.08:625][483]LogFbx: SortedLinks :(15) LeftHandThumb3
+[2022.07.07-07.02.08:625][483]LogFbx: SortedLinks :(16) LeftHandThumb4
+[2022.07.07-07.02.08:625][483]LogFbx: SortedLinks :(17) LeftHandIndex1
+[2022.07.07-07.02.08:625][483]LogFbx: SortedLinks :(18) LeftHandIndex2
+[2022.07.07-07.02.08:625][483]LogFbx: SortedLinks :(19) LeftHandIndex3
+[2022.07.07-07.02.08:625][483]LogFbx: SortedLinks :(20) LeftHandIndex4
+[2022.07.07-07.02.08:625][483]LogFbx: SortedLinks :(21) LeftHandMiddle1
+[2022.07.07-07.02.08:625][483]LogFbx: SortedLinks :(22) LeftHandMiddle2
+[2022.07.07-07.02.08:625][483]LogFbx: SortedLinks :(23) LeftHandMiddle3
+[2022.07.07-07.02.08:625][483]LogFbx: SortedLinks :(24) LeftHandMiddle4
+[2022.07.07-07.02.08:625][483]LogFbx: SortedLinks :(25) LeftHandRing1
+[2022.07.07-07.02.08:625][483]LogFbx: SortedLinks :(26) LeftHandRing2
+[2022.07.07-07.02.08:625][483]LogFbx: SortedLinks :(27) LeftHandRing3
+[2022.07.07-07.02.08:625][483]LogFbx: SortedLinks :(28) LeftHandRing4
+[2022.07.07-07.02.08:625][483]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2022.07.07-07.02.08:625][483]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2022.07.07-07.02.08:625][483]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2022.07.07-07.02.08:625][483]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2022.07.07-07.02.08:625][483]LogFbx: SortedLinks :(33) RightShoulder
+[2022.07.07-07.02.08:625][483]LogFbx: SortedLinks :(34) RightArm
+[2022.07.07-07.02.08:625][483]LogFbx: SortedLinks :(35) RightForeArm
+[2022.07.07-07.02.08:625][483]LogFbx: SortedLinks :(36) RightHand
+[2022.07.07-07.02.08:625][483]LogFbx: SortedLinks :(37) RightHandPinky1
+[2022.07.07-07.02.08:625][483]LogFbx: SortedLinks :(38) RightHandPinky2
+[2022.07.07-07.02.08:625][483]LogFbx: SortedLinks :(39) RightHandPinky3
+[2022.07.07-07.02.08:625][483]LogFbx: SortedLinks :(40) RightHandPinky4
+[2022.07.07-07.02.08:625][483]LogFbx: SortedLinks :(41) RightHandRing1
+[2022.07.07-07.02.08:625][483]LogFbx: SortedLinks :(42) RightHandRing2
+[2022.07.07-07.02.08:625][483]LogFbx: SortedLinks :(43) RightHandRing3
+[2022.07.07-07.02.08:625][483]LogFbx: SortedLinks :(44) RightHandRing4
+[2022.07.07-07.02.08:625][483]LogFbx: SortedLinks :(45) RightHandMiddle1
+[2022.07.07-07.02.08:625][483]LogFbx: SortedLinks :(46) RightHandMiddle2
+[2022.07.07-07.02.08:625][483]LogFbx: SortedLinks :(47) RightHandMiddle3
+[2022.07.07-07.02.08:625][483]LogFbx: SortedLinks :(48) RightHandMiddle4
+[2022.07.07-07.02.08:625][483]LogFbx: SortedLinks :(49) RightHandIndex1
+[2022.07.07-07.02.08:625][483]LogFbx: SortedLinks :(50) RightHandIndex2
+[2022.07.07-07.02.08:625][483]LogFbx: SortedLinks :(51) RightHandIndex3
+[2022.07.07-07.02.08:625][483]LogFbx: SortedLinks :(52) RightHandIndex4
+[2022.07.07-07.02.08:625][483]LogFbx: SortedLinks :(53) RightHandThumb1
+[2022.07.07-07.02.08:625][483]LogFbx: SortedLinks :(54) RightHandThumb2
+[2022.07.07-07.02.08:625][483]LogFbx: SortedLinks :(55) RightHandThumb3
+[2022.07.07-07.02.08:626][483]LogFbx: SortedLinks :(56) RightHandThumb4
+[2022.07.07-07.02.08:626][483]LogFbx: SortedLinks :(57) LeftUpLeg
+[2022.07.07-07.02.08:626][483]LogFbx: SortedLinks :(58) LeftLeg
+[2022.07.07-07.02.08:626][483]LogFbx: SortedLinks :(59) LeftFoot
+[2022.07.07-07.02.08:626][483]LogFbx: SortedLinks :(60) LeftToeBase
+[2022.07.07-07.02.08:626][483]LogFbx: SortedLinks :(61) LeftToe_End
+[2022.07.07-07.02.08:626][483]LogFbx: SortedLinks :(62) RightUpLeg
+[2022.07.07-07.02.08:626][483]LogFbx: SortedLinks :(63) RightLeg
+[2022.07.07-07.02.08:626][483]LogFbx: SortedLinks :(64) RightFoot
+[2022.07.07-07.02.08:626][483]LogFbx: SortedLinks :(65) RightToeBase
+[2022.07.07-07.02.08:626][483]LogFbx: SortedLinks :(66) RightToe_End
+[2022.07.07-07.02.08:626][483]LogFbx: Parsing AnimStack Take 001
+[2022.07.07-07.02.10:414][483]LogFbx: Parsing AnimStack mixamo.com
+[2022.07.07-07.02.16:807][483]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TopDownBP/MichaelM/Animations/Unarmed_Equip_Torch_01_mixamo_com.Unarmed_Equip_Torch_01_mixamo_com
+[2022.07.07-07.02.16:807][483]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TopDownBP/MichaelM/Animations/Unarmed_Equip_Torch_01_Take_001.Unarmed_Equip_Torch_01_Take_001
+[2022.07.07-07.02.16:807][483]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TopDownBP/MichaelM/Animations/Standing_W_Briefcase_Idle_mixamo_com.Standing_W_Briefcase_Idle_mixamo_com
+[2022.07.07-07.02.16:807][483]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 E:\School\GDS213\Disorder\Animations\Climbing Down Wall.fbx)
+[2022.07.07-07.02.16:839][483]LogFbx: Loading FBX Scene from E:\School\GDS213\Disorder\Animations\Climbing Down Wall.fbx
+[2022.07.07-07.02.16:987][483]LogFbx: FBX Scene Loaded Succesfully
+[2022.07.07-07.02.16:994][483]LogFbx: SortedLinks :(0) Hips
+[2022.07.07-07.02.16:995][483]LogFbx: SortedLinks :(1) Spine
+[2022.07.07-07.02.16:995][483]LogFbx: SortedLinks :(2) Spine1
+[2022.07.07-07.02.16:995][483]LogFbx: SortedLinks :(3) Spine2
+[2022.07.07-07.02.16:995][483]LogFbx: SortedLinks :(4) Neck
+[2022.07.07-07.02.16:995][483]LogFbx: SortedLinks :(5) Head
+[2022.07.07-07.02.16:995][483]LogFbx: SortedLinks :(6) HeadTop_End
+[2022.07.07-07.02.16:995][483]LogFbx: SortedLinks :(7) LeftEye
+[2022.07.07-07.02.16:995][483]LogFbx: SortedLinks :(8) RightEye
+[2022.07.07-07.02.16:995][483]LogFbx: SortedLinks :(9) LeftShoulder
+[2022.07.07-07.02.16:995][483]LogFbx: SortedLinks :(10) LeftArm
+[2022.07.07-07.02.16:995][483]LogFbx: SortedLinks :(11) LeftForeArm
+[2022.07.07-07.02.16:995][483]LogFbx: SortedLinks :(12) LeftHand
+[2022.07.07-07.02.16:995][483]LogFbx: SortedLinks :(13) LeftHandThumb1
+[2022.07.07-07.02.16:995][483]LogFbx: SortedLinks :(14) LeftHandThumb2
+[2022.07.07-07.02.16:995][483]LogFbx: SortedLinks :(15) LeftHandThumb3
+[2022.07.07-07.02.16:995][483]LogFbx: SortedLinks :(16) LeftHandThumb4
+[2022.07.07-07.02.16:995][483]LogFbx: SortedLinks :(17) LeftHandIndex1
+[2022.07.07-07.02.16:995][483]LogFbx: SortedLinks :(18) LeftHandIndex2
+[2022.07.07-07.02.16:995][483]LogFbx: SortedLinks :(19) LeftHandIndex3
+[2022.07.07-07.02.16:995][483]LogFbx: SortedLinks :(20) LeftHandIndex4
+[2022.07.07-07.02.16:995][483]LogFbx: SortedLinks :(21) LeftHandMiddle1
+[2022.07.07-07.02.16:995][483]LogFbx: SortedLinks :(22) LeftHandMiddle2
+[2022.07.07-07.02.16:995][483]LogFbx: SortedLinks :(23) LeftHandMiddle3
+[2022.07.07-07.02.16:995][483]LogFbx: SortedLinks :(24) LeftHandMiddle4
+[2022.07.07-07.02.16:995][483]LogFbx: SortedLinks :(25) LeftHandRing1
+[2022.07.07-07.02.16:995][483]LogFbx: SortedLinks :(26) LeftHandRing2
+[2022.07.07-07.02.16:995][483]LogFbx: SortedLinks :(27) LeftHandRing3
+[2022.07.07-07.02.16:995][483]LogFbx: SortedLinks :(28) LeftHandRing4
+[2022.07.07-07.02.16:995][483]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2022.07.07-07.02.16:995][483]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2022.07.07-07.02.16:995][483]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2022.07.07-07.02.16:995][483]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2022.07.07-07.02.16:995][483]LogFbx: SortedLinks :(33) RightShoulder
+[2022.07.07-07.02.16:995][483]LogFbx: SortedLinks :(34) RightArm
+[2022.07.07-07.02.16:995][483]LogFbx: SortedLinks :(35) RightForeArm
+[2022.07.07-07.02.16:995][483]LogFbx: SortedLinks :(36) RightHand
+[2022.07.07-07.02.16:995][483]LogFbx: SortedLinks :(37) RightHandPinky1
+[2022.07.07-07.02.16:995][483]LogFbx: SortedLinks :(38) RightHandPinky2
+[2022.07.07-07.02.16:995][483]LogFbx: SortedLinks :(39) RightHandPinky3
+[2022.07.07-07.02.16:995][483]LogFbx: SortedLinks :(40) RightHandPinky4
+[2022.07.07-07.02.16:995][483]LogFbx: SortedLinks :(41) RightHandRing1
+[2022.07.07-07.02.16:995][483]LogFbx: SortedLinks :(42) RightHandRing2
+[2022.07.07-07.02.16:995][483]LogFbx: SortedLinks :(43) RightHandRing3
+[2022.07.07-07.02.16:995][483]LogFbx: SortedLinks :(44) RightHandRing4
+[2022.07.07-07.02.16:995][483]LogFbx: SortedLinks :(45) RightHandMiddle1
+[2022.07.07-07.02.16:995][483]LogFbx: SortedLinks :(46) RightHandMiddle2
+[2022.07.07-07.02.16:995][483]LogFbx: SortedLinks :(47) RightHandMiddle3
+[2022.07.07-07.02.16:995][483]LogFbx: SortedLinks :(48) RightHandMiddle4
+[2022.07.07-07.02.16:995][483]LogFbx: SortedLinks :(49) RightHandIndex1
+[2022.07.07-07.02.16:995][483]LogFbx: SortedLinks :(50) RightHandIndex2
+[2022.07.07-07.02.16:995][483]LogFbx: SortedLinks :(51) RightHandIndex3
+[2022.07.07-07.02.16:995][483]LogFbx: SortedLinks :(52) RightHandIndex4
+[2022.07.07-07.02.16:995][483]LogFbx: SortedLinks :(53) RightHandThumb1
+[2022.07.07-07.02.16:995][483]LogFbx: SortedLinks :(54) RightHandThumb2
+[2022.07.07-07.02.16:995][483]LogFbx: SortedLinks :(55) RightHandThumb3
+[2022.07.07-07.02.16:995][483]LogFbx: SortedLinks :(56) RightHandThumb4
+[2022.07.07-07.02.16:995][483]LogFbx: SortedLinks :(57) LeftUpLeg
+[2022.07.07-07.02.16:995][483]LogFbx: SortedLinks :(58) LeftLeg
+[2022.07.07-07.02.16:995][483]LogFbx: SortedLinks :(59) LeftFoot
+[2022.07.07-07.02.16:995][483]LogFbx: SortedLinks :(60) LeftToeBase
+[2022.07.07-07.02.16:995][483]LogFbx: SortedLinks :(61) LeftToe_End
+[2022.07.07-07.02.16:995][483]LogFbx: SortedLinks :(62) RightUpLeg
+[2022.07.07-07.02.16:995][483]LogFbx: SortedLinks :(63) RightLeg
+[2022.07.07-07.02.16:995][483]LogFbx: SortedLinks :(64) RightFoot
+[2022.07.07-07.02.16:995][483]LogFbx: SortedLinks :(65) RightToeBase
+[2022.07.07-07.02.16:995][483]LogFbx: SortedLinks :(66) RightToe_End
+[2022.07.07-07.02.16:995][483]LogFbx: SortedLinks :(0) Hips
+[2022.07.07-07.02.16:995][483]LogFbx: SortedLinks :(1) Spine
+[2022.07.07-07.02.16:995][483]LogFbx: SortedLinks :(2) Spine1
+[2022.07.07-07.02.16:995][483]LogFbx: SortedLinks :(3) Spine2
+[2022.07.07-07.02.16:995][483]LogFbx: SortedLinks :(4) Neck
+[2022.07.07-07.02.16:996][483]LogFbx: SortedLinks :(5) Head
+[2022.07.07-07.02.16:996][483]LogFbx: SortedLinks :(6) HeadTop_End
+[2022.07.07-07.02.16:996][483]LogFbx: SortedLinks :(7) LeftEye
+[2022.07.07-07.02.16:996][483]LogFbx: SortedLinks :(8) RightEye
+[2022.07.07-07.02.16:996][483]LogFbx: SortedLinks :(9) LeftShoulder
+[2022.07.07-07.02.16:996][483]LogFbx: SortedLinks :(10) LeftArm
+[2022.07.07-07.02.16:996][483]LogFbx: SortedLinks :(11) LeftForeArm
+[2022.07.07-07.02.16:996][483]LogFbx: SortedLinks :(12) LeftHand
+[2022.07.07-07.02.16:996][483]LogFbx: SortedLinks :(13) LeftHandThumb1
+[2022.07.07-07.02.16:996][483]LogFbx: SortedLinks :(14) LeftHandThumb2
+[2022.07.07-07.02.16:996][483]LogFbx: SortedLinks :(15) LeftHandThumb3
+[2022.07.07-07.02.16:996][483]LogFbx: SortedLinks :(16) LeftHandThumb4
+[2022.07.07-07.02.16:996][483]LogFbx: SortedLinks :(17) LeftHandIndex1
+[2022.07.07-07.02.16:996][483]LogFbx: SortedLinks :(18) LeftHandIndex2
+[2022.07.07-07.02.16:996][483]LogFbx: SortedLinks :(19) LeftHandIndex3
+[2022.07.07-07.02.16:996][483]LogFbx: SortedLinks :(20) LeftHandIndex4
+[2022.07.07-07.02.16:996][483]LogFbx: SortedLinks :(21) LeftHandMiddle1
+[2022.07.07-07.02.16:996][483]LogFbx: SortedLinks :(22) LeftHandMiddle2
+[2022.07.07-07.02.16:996][483]LogFbx: SortedLinks :(23) LeftHandMiddle3
+[2022.07.07-07.02.16:996][483]LogFbx: SortedLinks :(24) LeftHandMiddle4
+[2022.07.07-07.02.16:996][483]LogFbx: SortedLinks :(25) LeftHandRing1
+[2022.07.07-07.02.16:996][483]LogFbx: SortedLinks :(26) LeftHandRing2
+[2022.07.07-07.02.16:996][483]LogFbx: SortedLinks :(27) LeftHandRing3
+[2022.07.07-07.02.16:996][483]LogFbx: SortedLinks :(28) LeftHandRing4
+[2022.07.07-07.02.16:996][483]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2022.07.07-07.02.16:996][483]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2022.07.07-07.02.16:996][483]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2022.07.07-07.02.16:996][483]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2022.07.07-07.02.16:996][483]LogFbx: SortedLinks :(33) RightShoulder
+[2022.07.07-07.02.16:996][483]LogFbx: SortedLinks :(34) RightArm
+[2022.07.07-07.02.16:996][483]LogFbx: SortedLinks :(35) RightForeArm
+[2022.07.07-07.02.16:996][483]LogFbx: SortedLinks :(36) RightHand
+[2022.07.07-07.02.16:996][483]LogFbx: SortedLinks :(37) RightHandPinky1
+[2022.07.07-07.02.16:996][483]LogFbx: SortedLinks :(38) RightHandPinky2
+[2022.07.07-07.02.16:996][483]LogFbx: SortedLinks :(39) RightHandPinky3
+[2022.07.07-07.02.16:996][483]LogFbx: SortedLinks :(40) RightHandPinky4
+[2022.07.07-07.02.16:996][483]LogFbx: SortedLinks :(41) RightHandRing1
+[2022.07.07-07.02.16:996][483]LogFbx: SortedLinks :(42) RightHandRing2
+[2022.07.07-07.02.16:996][483]LogFbx: SortedLinks :(43) RightHandRing3
+[2022.07.07-07.02.16:996][483]LogFbx: SortedLinks :(44) RightHandRing4
+[2022.07.07-07.02.16:996][483]LogFbx: SortedLinks :(45) RightHandMiddle1
+[2022.07.07-07.02.16:996][483]LogFbx: SortedLinks :(46) RightHandMiddle2
+[2022.07.07-07.02.16:997][483]LogFbx: SortedLinks :(47) RightHandMiddle3
+[2022.07.07-07.02.16:997][483]LogFbx: SortedLinks :(48) RightHandMiddle4
+[2022.07.07-07.02.16:997][483]LogFbx: SortedLinks :(49) RightHandIndex1
+[2022.07.07-07.02.16:997][483]LogFbx: SortedLinks :(50) RightHandIndex2
+[2022.07.07-07.02.16:997][483]LogFbx: SortedLinks :(51) RightHandIndex3
+[2022.07.07-07.02.16:997][483]LogFbx: SortedLinks :(52) RightHandIndex4
+[2022.07.07-07.02.16:997][483]LogFbx: SortedLinks :(53) RightHandThumb1
+[2022.07.07-07.02.16:997][483]LogFbx: SortedLinks :(54) RightHandThumb2
+[2022.07.07-07.02.16:997][483]LogFbx: SortedLinks :(55) RightHandThumb3
+[2022.07.07-07.02.16:997][483]LogFbx: SortedLinks :(56) RightHandThumb4
+[2022.07.07-07.02.16:997][483]LogFbx: SortedLinks :(57) LeftUpLeg
+[2022.07.07-07.02.16:997][483]LogFbx: SortedLinks :(58) LeftLeg
+[2022.07.07-07.02.16:997][483]LogFbx: SortedLinks :(59) LeftFoot
+[2022.07.07-07.02.16:997][483]LogFbx: SortedLinks :(60) LeftToeBase
+[2022.07.07-07.02.16:997][483]LogFbx: SortedLinks :(61) LeftToe_End
+[2022.07.07-07.02.16:997][483]LogFbx: SortedLinks :(62) RightUpLeg
+[2022.07.07-07.02.16:997][483]LogFbx: SortedLinks :(63) RightLeg
+[2022.07.07-07.02.16:997][483]LogFbx: SortedLinks :(64) RightFoot
+[2022.07.07-07.02.16:997][483]LogFbx: SortedLinks :(65) RightToeBase
+[2022.07.07-07.02.16:997][483]LogFbx: SortedLinks :(66) RightToe_End
+[2022.07.07-07.02.16:999][483]LogFbx: Parsing AnimStack Take 001
+[2022.07.07-07.02.21:026][483]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TopDownBP/MichaelM/Animations/Unarmed_Equip_Torch_01_mixamo_com.Unarmed_Equip_Torch_01_mixamo_com
+[2022.07.07-07.02.21:026][483]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TopDownBP/MichaelM/Animations/Climbing_Down_Wall_Take_001.Climbing_Down_Wall_Take_001
+[2022.07.07-07.02.21:026][483]LogFbx: Parsing AnimStack mixamo.com
+[2022.07.07-07.02.35:027][483]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TopDownBP/MichaelM/Animations/Climbing_Down_Wall_mixamo_com.Climbing_Down_Wall_mixamo_com
+[2022.07.07-07.02.35:027][483]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TopDownBP/MichaelM/Animations/Climbing_Down_Wall_mixamo_com.Climbing_Down_Wall_mixamo_com
+[2022.07.07-07.02.35:027][483]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 E:\School\GDS213\Disorder\Animations\Climbing Up Wall.fbx)
+[2022.07.07-07.02.35:062][483]LogFbx: Loading FBX Scene from E:\School\GDS213\Disorder\Animations\Climbing Up Wall.fbx
+[2022.07.07-07.02.35:115][483]LogFbx: FBX Scene Loaded Succesfully
+[2022.07.07-07.02.35:120][483]LogFbx: SortedLinks :(0) Hips
+[2022.07.07-07.02.35:120][483]LogFbx: SortedLinks :(1) Spine
+[2022.07.07-07.02.35:120][483]LogFbx: SortedLinks :(2) Spine1
+[2022.07.07-07.02.35:120][483]LogFbx: SortedLinks :(3) Spine2
+[2022.07.07-07.02.35:120][483]LogFbx: SortedLinks :(4) Neck
+[2022.07.07-07.02.35:120][483]LogFbx: SortedLinks :(5) Head
+[2022.07.07-07.02.35:120][483]LogFbx: SortedLinks :(6) HeadTop_End
+[2022.07.07-07.02.35:120][483]LogFbx: SortedLinks :(7) LeftEye
+[2022.07.07-07.02.35:120][483]LogFbx: SortedLinks :(8) RightEye
+[2022.07.07-07.02.35:120][483]LogFbx: SortedLinks :(9) LeftShoulder
+[2022.07.07-07.02.35:120][483]LogFbx: SortedLinks :(10) LeftArm
+[2022.07.07-07.02.35:120][483]LogFbx: SortedLinks :(11) LeftForeArm
+[2022.07.07-07.02.35:120][483]LogFbx: SortedLinks :(12) LeftHand
+[2022.07.07-07.02.35:120][483]LogFbx: SortedLinks :(13) LeftHandThumb1
+[2022.07.07-07.02.35:120][483]LogFbx: SortedLinks :(14) LeftHandThumb2
+[2022.07.07-07.02.35:120][483]LogFbx: SortedLinks :(15) LeftHandThumb3
+[2022.07.07-07.02.35:120][483]LogFbx: SortedLinks :(16) LeftHandThumb4
+[2022.07.07-07.02.35:120][483]LogFbx: SortedLinks :(17) LeftHandIndex1
+[2022.07.07-07.02.35:120][483]LogFbx: SortedLinks :(18) LeftHandIndex2
+[2022.07.07-07.02.35:120][483]LogFbx: SortedLinks :(19) LeftHandIndex3
+[2022.07.07-07.02.35:120][483]LogFbx: SortedLinks :(20) LeftHandIndex4
+[2022.07.07-07.02.35:120][483]LogFbx: SortedLinks :(21) LeftHandMiddle1
+[2022.07.07-07.02.35:120][483]LogFbx: SortedLinks :(22) LeftHandMiddle2
+[2022.07.07-07.02.35:120][483]LogFbx: SortedLinks :(23) LeftHandMiddle3
+[2022.07.07-07.02.35:120][483]LogFbx: SortedLinks :(24) LeftHandMiddle4
+[2022.07.07-07.02.35:120][483]LogFbx: SortedLinks :(25) LeftHandRing1
+[2022.07.07-07.02.35:120][483]LogFbx: SortedLinks :(26) LeftHandRing2
+[2022.07.07-07.02.35:120][483]LogFbx: SortedLinks :(27) LeftHandRing3
+[2022.07.07-07.02.35:120][483]LogFbx: SortedLinks :(28) LeftHandRing4
+[2022.07.07-07.02.35:120][483]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2022.07.07-07.02.35:120][483]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2022.07.07-07.02.35:120][483]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2022.07.07-07.02.35:120][483]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2022.07.07-07.02.35:120][483]LogFbx: SortedLinks :(33) RightShoulder
+[2022.07.07-07.02.35:120][483]LogFbx: SortedLinks :(34) RightArm
+[2022.07.07-07.02.35:120][483]LogFbx: SortedLinks :(35) RightForeArm
+[2022.07.07-07.02.35:120][483]LogFbx: SortedLinks :(36) RightHand
+[2022.07.07-07.02.35:120][483]LogFbx: SortedLinks :(37) RightHandPinky1
+[2022.07.07-07.02.35:120][483]LogFbx: SortedLinks :(38) RightHandPinky2
+[2022.07.07-07.02.35:120][483]LogFbx: SortedLinks :(39) RightHandPinky3
+[2022.07.07-07.02.35:120][483]LogFbx: SortedLinks :(40) RightHandPinky4
+[2022.07.07-07.02.35:120][483]LogFbx: SortedLinks :(41) RightHandRing1
+[2022.07.07-07.02.35:120][483]LogFbx: SortedLinks :(42) RightHandRing2
+[2022.07.07-07.02.35:120][483]LogFbx: SortedLinks :(43) RightHandRing3
+[2022.07.07-07.02.35:120][483]LogFbx: SortedLinks :(44) RightHandRing4
+[2022.07.07-07.02.35:120][483]LogFbx: SortedLinks :(45) RightHandMiddle1
+[2022.07.07-07.02.35:120][483]LogFbx: SortedLinks :(46) RightHandMiddle2
+[2022.07.07-07.02.35:121][483]LogFbx: SortedLinks :(47) RightHandMiddle3
+[2022.07.07-07.02.35:121][483]LogFbx: SortedLinks :(48) RightHandMiddle4
+[2022.07.07-07.02.35:121][483]LogFbx: SortedLinks :(49) RightHandIndex1
+[2022.07.07-07.02.35:121][483]LogFbx: SortedLinks :(50) RightHandIndex2
+[2022.07.07-07.02.35:121][483]LogFbx: SortedLinks :(51) RightHandIndex3
+[2022.07.07-07.02.35:121][483]LogFbx: SortedLinks :(52) RightHandIndex4
+[2022.07.07-07.02.35:121][483]LogFbx: SortedLinks :(53) RightHandThumb1
+[2022.07.07-07.02.35:121][483]LogFbx: SortedLinks :(54) RightHandThumb2
+[2022.07.07-07.02.35:121][483]LogFbx: SortedLinks :(55) RightHandThumb3
+[2022.07.07-07.02.35:121][483]LogFbx: SortedLinks :(56) RightHandThumb4
+[2022.07.07-07.02.35:121][483]LogFbx: SortedLinks :(57) LeftUpLeg
+[2022.07.07-07.02.35:121][483]LogFbx: SortedLinks :(58) LeftLeg
+[2022.07.07-07.02.35:121][483]LogFbx: SortedLinks :(59) LeftFoot
+[2022.07.07-07.02.35:121][483]LogFbx: SortedLinks :(60) LeftToeBase
+[2022.07.07-07.02.35:121][483]LogFbx: SortedLinks :(61) LeftToe_End
+[2022.07.07-07.02.35:121][483]LogFbx: SortedLinks :(62) RightUpLeg
+[2022.07.07-07.02.35:121][483]LogFbx: SortedLinks :(63) RightLeg
+[2022.07.07-07.02.35:121][483]LogFbx: SortedLinks :(64) RightFoot
+[2022.07.07-07.02.35:121][483]LogFbx: SortedLinks :(65) RightToeBase
+[2022.07.07-07.02.35:121][483]LogFbx: SortedLinks :(66) RightToe_End
+[2022.07.07-07.02.35:121][483]LogFbx: SortedLinks :(0) Hips
+[2022.07.07-07.02.35:121][483]LogFbx: SortedLinks :(1) Spine
+[2022.07.07-07.02.35:121][483]LogFbx: SortedLinks :(2) Spine1
+[2022.07.07-07.02.35:121][483]LogFbx: SortedLinks :(3) Spine2
+[2022.07.07-07.02.35:121][483]LogFbx: SortedLinks :(4) Neck
+[2022.07.07-07.02.35:121][483]LogFbx: SortedLinks :(5) Head
+[2022.07.07-07.02.35:121][483]LogFbx: SortedLinks :(6) HeadTop_End
+[2022.07.07-07.02.35:121][483]LogFbx: SortedLinks :(7) LeftEye
+[2022.07.07-07.02.35:121][483]LogFbx: SortedLinks :(8) RightEye
+[2022.07.07-07.02.35:121][483]LogFbx: SortedLinks :(9) LeftShoulder
+[2022.07.07-07.02.35:121][483]LogFbx: SortedLinks :(10) LeftArm
+[2022.07.07-07.02.35:121][483]LogFbx: SortedLinks :(11) LeftForeArm
+[2022.07.07-07.02.35:121][483]LogFbx: SortedLinks :(12) LeftHand
+[2022.07.07-07.02.35:121][483]LogFbx: SortedLinks :(13) LeftHandThumb1
+[2022.07.07-07.02.35:121][483]LogFbx: SortedLinks :(14) LeftHandThumb2
+[2022.07.07-07.02.35:121][483]LogFbx: SortedLinks :(15) LeftHandThumb3
+[2022.07.07-07.02.35:121][483]LogFbx: SortedLinks :(16) LeftHandThumb4
+[2022.07.07-07.02.35:121][483]LogFbx: SortedLinks :(17) LeftHandIndex1
+[2022.07.07-07.02.35:121][483]LogFbx: SortedLinks :(18) LeftHandIndex2
+[2022.07.07-07.02.35:121][483]LogFbx: SortedLinks :(19) LeftHandIndex3
+[2022.07.07-07.02.35:121][483]LogFbx: SortedLinks :(20) LeftHandIndex4
+[2022.07.07-07.02.35:121][483]LogFbx: SortedLinks :(21) LeftHandMiddle1
+[2022.07.07-07.02.35:121][483]LogFbx: SortedLinks :(22) LeftHandMiddle2
+[2022.07.07-07.02.35:121][483]LogFbx: SortedLinks :(23) LeftHandMiddle3
+[2022.07.07-07.02.35:121][483]LogFbx: SortedLinks :(24) LeftHandMiddle4
+[2022.07.07-07.02.35:121][483]LogFbx: SortedLinks :(25) LeftHandRing1
+[2022.07.07-07.02.35:121][483]LogFbx: SortedLinks :(26) LeftHandRing2
+[2022.07.07-07.02.35:121][483]LogFbx: SortedLinks :(27) LeftHandRing3
+[2022.07.07-07.02.35:121][483]LogFbx: SortedLinks :(28) LeftHandRing4
+[2022.07.07-07.02.35:121][483]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2022.07.07-07.02.35:121][483]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2022.07.07-07.02.35:121][483]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2022.07.07-07.02.35:121][483]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2022.07.07-07.02.35:121][483]LogFbx: SortedLinks :(33) RightShoulder
+[2022.07.07-07.02.35:121][483]LogFbx: SortedLinks :(34) RightArm
+[2022.07.07-07.02.35:121][483]LogFbx: SortedLinks :(35) RightForeArm
+[2022.07.07-07.02.35:121][483]LogFbx: SortedLinks :(36) RightHand
+[2022.07.07-07.02.35:121][483]LogFbx: SortedLinks :(37) RightHandPinky1
+[2022.07.07-07.02.35:121][483]LogFbx: SortedLinks :(38) RightHandPinky2
+[2022.07.07-07.02.35:121][483]LogFbx: SortedLinks :(39) RightHandPinky3
+[2022.07.07-07.02.35:121][483]LogFbx: SortedLinks :(40) RightHandPinky4
+[2022.07.07-07.02.35:121][483]LogFbx: SortedLinks :(41) RightHandRing1
+[2022.07.07-07.02.35:121][483]LogFbx: SortedLinks :(42) RightHandRing2
+[2022.07.07-07.02.35:121][483]LogFbx: SortedLinks :(43) RightHandRing3
+[2022.07.07-07.02.35:121][483]LogFbx: SortedLinks :(44) RightHandRing4
+[2022.07.07-07.02.35:122][483]LogFbx: SortedLinks :(45) RightHandMiddle1
+[2022.07.07-07.02.35:122][483]LogFbx: SortedLinks :(46) RightHandMiddle2
+[2022.07.07-07.02.35:122][483]LogFbx: SortedLinks :(47) RightHandMiddle3
+[2022.07.07-07.02.35:122][483]LogFbx: SortedLinks :(48) RightHandMiddle4
+[2022.07.07-07.02.35:122][483]LogFbx: SortedLinks :(49) RightHandIndex1
+[2022.07.07-07.02.35:122][483]LogFbx: SortedLinks :(50) RightHandIndex2
+[2022.07.07-07.02.35:122][483]LogFbx: SortedLinks :(51) RightHandIndex3
+[2022.07.07-07.02.35:122][483]LogFbx: SortedLinks :(52) RightHandIndex4
+[2022.07.07-07.02.35:122][483]LogFbx: SortedLinks :(53) RightHandThumb1
+[2022.07.07-07.02.35:122][483]LogFbx: SortedLinks :(54) RightHandThumb2
+[2022.07.07-07.02.35:122][483]LogFbx: SortedLinks :(55) RightHandThumb3
+[2022.07.07-07.02.35:122][483]LogFbx: SortedLinks :(56) RightHandThumb4
+[2022.07.07-07.02.35:122][483]LogFbx: SortedLinks :(57) LeftUpLeg
+[2022.07.07-07.02.35:122][483]LogFbx: SortedLinks :(58) LeftLeg
+[2022.07.07-07.02.35:122][483]LogFbx: SortedLinks :(59) LeftFoot
+[2022.07.07-07.02.35:122][483]LogFbx: SortedLinks :(60) LeftToeBase
+[2022.07.07-07.02.35:122][483]LogFbx: SortedLinks :(61) LeftToe_End
+[2022.07.07-07.02.35:122][483]LogFbx: SortedLinks :(62) RightUpLeg
+[2022.07.07-07.02.35:122][483]LogFbx: SortedLinks :(63) RightLeg
+[2022.07.07-07.02.35:122][483]LogFbx: SortedLinks :(64) RightFoot
+[2022.07.07-07.02.35:122][483]LogFbx: SortedLinks :(65) RightToeBase
+[2022.07.07-07.02.35:122][483]LogFbx: SortedLinks :(66) RightToe_End
+[2022.07.07-07.02.35:123][483]LogFbx: Parsing AnimStack Take 001
+[2022.07.07-07.02.38:939][483]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TopDownBP/MichaelM/Animations/Climbing_Up_Wall_Take_001.Climbing_Up_Wall_Take_001
+[2022.07.07-07.02.38:939][483]LogFbx: Parsing AnimStack mixamo.com
+[2022.07.07-07.02.50:729][483]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TopDownBP/MichaelM/Animations/Climbing_Up_Wall_mixamo_com.Climbing_Up_Wall_mixamo_com
+[2022.07.07-07.02.50:729][483]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TopDownBP/MichaelM/Animations/Climbing_Up_Wall_mixamo_com.Climbing_Up_Wall_mixamo_com
+[2022.07.07-07.02.50:729][483]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 E:\School\GDS213\Disorder\Animations\Climbing.fbx)
+[2022.07.07-07.02.50:749][483]LogFbx: Loading FBX Scene from E:\School\GDS213\Disorder\Animations\Climbing.fbx
+[2022.07.07-07.02.50:802][483]LogFbx: FBX Scene Loaded Succesfully
+[2022.07.07-07.02.50:807][483]LogFbx: SortedLinks :(0) Hips
+[2022.07.07-07.02.50:807][483]LogFbx: SortedLinks :(1) Spine
+[2022.07.07-07.02.50:807][483]LogFbx: SortedLinks :(2) Spine1
+[2022.07.07-07.02.50:807][483]LogFbx: SortedLinks :(3) Spine2
+[2022.07.07-07.02.50:807][483]LogFbx: SortedLinks :(4) Neck
+[2022.07.07-07.02.50:807][483]LogFbx: SortedLinks :(5) Head
+[2022.07.07-07.02.50:807][483]LogFbx: SortedLinks :(6) HeadTop_End
+[2022.07.07-07.02.50:807][483]LogFbx: SortedLinks :(7) LeftEye
+[2022.07.07-07.02.50:807][483]LogFbx: SortedLinks :(8) RightEye
+[2022.07.07-07.02.50:807][483]LogFbx: SortedLinks :(9) LeftShoulder
+[2022.07.07-07.02.50:807][483]LogFbx: SortedLinks :(10) LeftArm
+[2022.07.07-07.02.50:807][483]LogFbx: SortedLinks :(11) LeftForeArm
+[2022.07.07-07.02.50:807][483]LogFbx: SortedLinks :(12) LeftHand
+[2022.07.07-07.02.50:807][483]LogFbx: SortedLinks :(13) LeftHandThumb1
+[2022.07.07-07.02.50:807][483]LogFbx: SortedLinks :(14) LeftHandThumb2
+[2022.07.07-07.02.50:807][483]LogFbx: SortedLinks :(15) LeftHandThumb3
+[2022.07.07-07.02.50:807][483]LogFbx: SortedLinks :(16) LeftHandThumb4
+[2022.07.07-07.02.50:807][483]LogFbx: SortedLinks :(17) LeftHandIndex1
+[2022.07.07-07.02.50:807][483]LogFbx: SortedLinks :(18) LeftHandIndex2
+[2022.07.07-07.02.50:807][483]LogFbx: SortedLinks :(19) LeftHandIndex3
+[2022.07.07-07.02.50:807][483]LogFbx: SortedLinks :(20) LeftHandIndex4
+[2022.07.07-07.02.50:807][483]LogFbx: SortedLinks :(21) LeftHandMiddle1
+[2022.07.07-07.02.50:807][483]LogFbx: SortedLinks :(22) LeftHandMiddle2
+[2022.07.07-07.02.50:807][483]LogFbx: SortedLinks :(23) LeftHandMiddle3
+[2022.07.07-07.02.50:807][483]LogFbx: SortedLinks :(24) LeftHandMiddle4
+[2022.07.07-07.02.50:807][483]LogFbx: SortedLinks :(25) LeftHandRing1
+[2022.07.07-07.02.50:807][483]LogFbx: SortedLinks :(26) LeftHandRing2
+[2022.07.07-07.02.50:807][483]LogFbx: SortedLinks :(27) LeftHandRing3
+[2022.07.07-07.02.50:807][483]LogFbx: SortedLinks :(28) LeftHandRing4
+[2022.07.07-07.02.50:807][483]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2022.07.07-07.02.50:807][483]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2022.07.07-07.02.50:807][483]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2022.07.07-07.02.50:807][483]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2022.07.07-07.02.50:807][483]LogFbx: SortedLinks :(33) RightShoulder
+[2022.07.07-07.02.50:807][483]LogFbx: SortedLinks :(34) RightArm
+[2022.07.07-07.02.50:807][483]LogFbx: SortedLinks :(35) RightForeArm
+[2022.07.07-07.02.50:807][483]LogFbx: SortedLinks :(36) RightHand
+[2022.07.07-07.02.50:807][483]LogFbx: SortedLinks :(37) RightHandPinky1
+[2022.07.07-07.02.50:807][483]LogFbx: SortedLinks :(38) RightHandPinky2
+[2022.07.07-07.02.50:807][483]LogFbx: SortedLinks :(39) RightHandPinky3
+[2022.07.07-07.02.50:807][483]LogFbx: SortedLinks :(40) RightHandPinky4
+[2022.07.07-07.02.50:807][483]LogFbx: SortedLinks :(41) RightHandRing1
+[2022.07.07-07.02.50:807][483]LogFbx: SortedLinks :(42) RightHandRing2
+[2022.07.07-07.02.50:807][483]LogFbx: SortedLinks :(43) RightHandRing3
+[2022.07.07-07.02.50:808][483]LogFbx: SortedLinks :(44) RightHandRing4
+[2022.07.07-07.02.50:808][483]LogFbx: SortedLinks :(45) RightHandMiddle1
+[2022.07.07-07.02.50:808][483]LogFbx: SortedLinks :(46) RightHandMiddle2
+[2022.07.07-07.02.50:808][483]LogFbx: SortedLinks :(47) RightHandMiddle3
+[2022.07.07-07.02.50:808][483]LogFbx: SortedLinks :(48) RightHandMiddle4
+[2022.07.07-07.02.50:808][483]LogFbx: SortedLinks :(49) RightHandIndex1
+[2022.07.07-07.02.50:808][483]LogFbx: SortedLinks :(50) RightHandIndex2
+[2022.07.07-07.02.50:808][483]LogFbx: SortedLinks :(51) RightHandIndex3
+[2022.07.07-07.02.50:808][483]LogFbx: SortedLinks :(52) RightHandIndex4
+[2022.07.07-07.02.50:808][483]LogFbx: SortedLinks :(53) RightHandThumb1
+[2022.07.07-07.02.50:808][483]LogFbx: SortedLinks :(54) RightHandThumb2
+[2022.07.07-07.02.50:808][483]LogFbx: SortedLinks :(55) RightHandThumb3
+[2022.07.07-07.02.50:808][483]LogFbx: SortedLinks :(56) RightHandThumb4
+[2022.07.07-07.02.50:808][483]LogFbx: SortedLinks :(57) LeftUpLeg
+[2022.07.07-07.02.50:808][483]LogFbx: SortedLinks :(58) LeftLeg
+[2022.07.07-07.02.50:808][483]LogFbx: SortedLinks :(59) LeftFoot
+[2022.07.07-07.02.50:808][483]LogFbx: SortedLinks :(60) LeftToeBase
+[2022.07.07-07.02.50:808][483]LogFbx: SortedLinks :(61) LeftToe_End
+[2022.07.07-07.02.50:808][483]LogFbx: SortedLinks :(62) RightUpLeg
+[2022.07.07-07.02.50:808][483]LogFbx: SortedLinks :(63) RightLeg
+[2022.07.07-07.02.50:808][483]LogFbx: SortedLinks :(64) RightFoot
+[2022.07.07-07.02.50:808][483]LogFbx: SortedLinks :(65) RightToeBase
+[2022.07.07-07.02.50:808][483]LogFbx: SortedLinks :(66) RightToe_End
+[2022.07.07-07.02.50:808][483]LogFbx: SortedLinks :(0) Hips
+[2022.07.07-07.02.50:808][483]LogFbx: SortedLinks :(1) Spine
+[2022.07.07-07.02.50:808][483]LogFbx: SortedLinks :(2) Spine1
+[2022.07.07-07.02.50:808][483]LogFbx: SortedLinks :(3) Spine2
+[2022.07.07-07.02.50:808][483]LogFbx: SortedLinks :(4) Neck
+[2022.07.07-07.02.50:808][483]LogFbx: SortedLinks :(5) Head
+[2022.07.07-07.02.50:808][483]LogFbx: SortedLinks :(6) HeadTop_End
+[2022.07.07-07.02.50:808][483]LogFbx: SortedLinks :(7) LeftEye
+[2022.07.07-07.02.50:808][483]LogFbx: SortedLinks :(8) RightEye
+[2022.07.07-07.02.50:808][483]LogFbx: SortedLinks :(9) LeftShoulder
+[2022.07.07-07.02.50:808][483]LogFbx: SortedLinks :(10) LeftArm
+[2022.07.07-07.02.50:808][483]LogFbx: SortedLinks :(11) LeftForeArm
+[2022.07.07-07.02.50:808][483]LogFbx: SortedLinks :(12) LeftHand
+[2022.07.07-07.02.50:808][483]LogFbx: SortedLinks :(13) LeftHandThumb1
+[2022.07.07-07.02.50:808][483]LogFbx: SortedLinks :(14) LeftHandThumb2
+[2022.07.07-07.02.50:808][483]LogFbx: SortedLinks :(15) LeftHandThumb3
+[2022.07.07-07.02.50:808][483]LogFbx: SortedLinks :(16) LeftHandThumb4
+[2022.07.07-07.02.50:808][483]LogFbx: SortedLinks :(17) LeftHandIndex1
+[2022.07.07-07.02.50:808][483]LogFbx: SortedLinks :(18) LeftHandIndex2
+[2022.07.07-07.02.50:808][483]LogFbx: SortedLinks :(19) LeftHandIndex3
+[2022.07.07-07.02.50:808][483]LogFbx: SortedLinks :(20) LeftHandIndex4
+[2022.07.07-07.02.50:808][483]LogFbx: SortedLinks :(21) LeftHandMiddle1
+[2022.07.07-07.02.50:808][483]LogFbx: SortedLinks :(22) LeftHandMiddle2
+[2022.07.07-07.02.50:808][483]LogFbx: SortedLinks :(23) LeftHandMiddle3
+[2022.07.07-07.02.50:808][483]LogFbx: SortedLinks :(24) LeftHandMiddle4
+[2022.07.07-07.02.50:808][483]LogFbx: SortedLinks :(25) LeftHandRing1
+[2022.07.07-07.02.50:808][483]LogFbx: SortedLinks :(26) LeftHandRing2
+[2022.07.07-07.02.50:808][483]LogFbx: SortedLinks :(27) LeftHandRing3
+[2022.07.07-07.02.50:808][483]LogFbx: SortedLinks :(28) LeftHandRing4
+[2022.07.07-07.02.50:808][483]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2022.07.07-07.02.50:808][483]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2022.07.07-07.02.50:808][483]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2022.07.07-07.02.50:808][483]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2022.07.07-07.02.50:808][483]LogFbx: SortedLinks :(33) RightShoulder
+[2022.07.07-07.02.50:808][483]LogFbx: SortedLinks :(34) RightArm
+[2022.07.07-07.02.50:808][483]LogFbx: SortedLinks :(35) RightForeArm
+[2022.07.07-07.02.50:808][483]LogFbx: SortedLinks :(36) RightHand
+[2022.07.07-07.02.50:808][483]LogFbx: SortedLinks :(37) RightHandPinky1
+[2022.07.07-07.02.50:808][483]LogFbx: SortedLinks :(38) RightHandPinky2
+[2022.07.07-07.02.50:809][483]LogFbx: SortedLinks :(39) RightHandPinky3
+[2022.07.07-07.02.50:809][483]LogFbx: SortedLinks :(40) RightHandPinky4
+[2022.07.07-07.02.50:809][483]LogFbx: SortedLinks :(41) RightHandRing1
+[2022.07.07-07.02.50:809][483]LogFbx: SortedLinks :(42) RightHandRing2
+[2022.07.07-07.02.50:809][483]LogFbx: SortedLinks :(43) RightHandRing3
+[2022.07.07-07.02.50:809][483]LogFbx: SortedLinks :(44) RightHandRing4
+[2022.07.07-07.02.50:809][483]LogFbx: SortedLinks :(45) RightHandMiddle1
+[2022.07.07-07.02.50:809][483]LogFbx: SortedLinks :(46) RightHandMiddle2
+[2022.07.07-07.02.50:809][483]LogFbx: SortedLinks :(47) RightHandMiddle3
+[2022.07.07-07.02.50:809][483]LogFbx: SortedLinks :(48) RightHandMiddle4
+[2022.07.07-07.02.50:809][483]LogFbx: SortedLinks :(49) RightHandIndex1
+[2022.07.07-07.02.50:809][483]LogFbx: SortedLinks :(50) RightHandIndex2
+[2022.07.07-07.02.50:809][483]LogFbx: SortedLinks :(51) RightHandIndex3
+[2022.07.07-07.02.50:809][483]LogFbx: SortedLinks :(52) RightHandIndex4
+[2022.07.07-07.02.50:809][483]LogFbx: SortedLinks :(53) RightHandThumb1
+[2022.07.07-07.02.50:809][483]LogFbx: SortedLinks :(54) RightHandThumb2
+[2022.07.07-07.02.50:809][483]LogFbx: SortedLinks :(55) RightHandThumb3
+[2022.07.07-07.02.50:809][483]LogFbx: SortedLinks :(56) RightHandThumb4
+[2022.07.07-07.02.50:809][483]LogFbx: SortedLinks :(57) LeftUpLeg
+[2022.07.07-07.02.50:809][483]LogFbx: SortedLinks :(58) LeftLeg
+[2022.07.07-07.02.50:809][483]LogFbx: SortedLinks :(59) LeftFoot
+[2022.07.07-07.02.50:809][483]LogFbx: SortedLinks :(60) LeftToeBase
+[2022.07.07-07.02.50:809][483]LogFbx: SortedLinks :(61) LeftToe_End
+[2022.07.07-07.02.50:809][483]LogFbx: SortedLinks :(62) RightUpLeg
+[2022.07.07-07.02.50:809][483]LogFbx: SortedLinks :(63) RightLeg
+[2022.07.07-07.02.50:809][483]LogFbx: SortedLinks :(64) RightFoot
+[2022.07.07-07.02.50:809][483]LogFbx: SortedLinks :(65) RightToeBase
+[2022.07.07-07.02.50:809][483]LogFbx: SortedLinks :(66) RightToe_End
+[2022.07.07-07.02.50:810][483]LogFbx: Parsing AnimStack Take 001
+[2022.07.07-07.02.50:916][483]LogFbx: Parsing AnimStack mixamo.com
+[2022.07.07-07.02.51:453][483]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 E:\School\GDS213\Disorder\Animations\Grab Rifle From The Side And Put Back.fbx)
+[2022.07.07-07.02.51:477][483]LogFbx: Loading FBX Scene from E:\School\GDS213\Disorder\Animations\Grab Rifle From The Side And Put Back.fbx
+[2022.07.07-07.02.51:532][483]LogFbx: FBX Scene Loaded Succesfully
+[2022.07.07-07.02.51:537][483]LogFbx: SortedLinks :(0) Hips
+[2022.07.07-07.02.51:537][483]LogFbx: SortedLinks :(1) Spine
+[2022.07.07-07.02.51:537][483]LogFbx: SortedLinks :(2) Spine1
+[2022.07.07-07.02.51:537][483]LogFbx: SortedLinks :(3) Spine2
+[2022.07.07-07.02.51:537][483]LogFbx: SortedLinks :(4) Neck
+[2022.07.07-07.02.51:537][483]LogFbx: SortedLinks :(5) Head
+[2022.07.07-07.02.51:537][483]LogFbx: SortedLinks :(6) HeadTop_End
+[2022.07.07-07.02.51:537][483]LogFbx: SortedLinks :(7) LeftEye
+[2022.07.07-07.02.51:537][483]LogFbx: SortedLinks :(8) RightEye
+[2022.07.07-07.02.51:537][483]LogFbx: SortedLinks :(9) LeftShoulder
+[2022.07.07-07.02.51:537][483]LogFbx: SortedLinks :(10) LeftArm
+[2022.07.07-07.02.51:537][483]LogFbx: SortedLinks :(11) LeftForeArm
+[2022.07.07-07.02.51:537][483]LogFbx: SortedLinks :(12) LeftHand
+[2022.07.07-07.02.51:537][483]LogFbx: SortedLinks :(13) LeftHandThumb1
+[2022.07.07-07.02.51:537][483]LogFbx: SortedLinks :(14) LeftHandThumb2
+[2022.07.07-07.02.51:537][483]LogFbx: SortedLinks :(15) LeftHandThumb3
+[2022.07.07-07.02.51:537][483]LogFbx: SortedLinks :(16) LeftHandThumb4
+[2022.07.07-07.02.51:537][483]LogFbx: SortedLinks :(17) LeftHandIndex1
+[2022.07.07-07.02.51:537][483]LogFbx: SortedLinks :(18) LeftHandIndex2
+[2022.07.07-07.02.51:537][483]LogFbx: SortedLinks :(19) LeftHandIndex3
+[2022.07.07-07.02.51:537][483]LogFbx: SortedLinks :(20) LeftHandIndex4
+[2022.07.07-07.02.51:537][483]LogFbx: SortedLinks :(21) LeftHandMiddle1
+[2022.07.07-07.02.51:537][483]LogFbx: SortedLinks :(22) LeftHandMiddle2
+[2022.07.07-07.02.51:537][483]LogFbx: SortedLinks :(23) LeftHandMiddle3
+[2022.07.07-07.02.51:537][483]LogFbx: SortedLinks :(24) LeftHandMiddle4
+[2022.07.07-07.02.51:537][483]LogFbx: SortedLinks :(25) LeftHandRing1
+[2022.07.07-07.02.51:537][483]LogFbx: SortedLinks :(26) LeftHandRing2
+[2022.07.07-07.02.51:537][483]LogFbx: SortedLinks :(27) LeftHandRing3
+[2022.07.07-07.02.51:537][483]LogFbx: SortedLinks :(28) LeftHandRing4
+[2022.07.07-07.02.51:537][483]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2022.07.07-07.02.51:537][483]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2022.07.07-07.02.51:537][483]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2022.07.07-07.02.51:537][483]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2022.07.07-07.02.51:537][483]LogFbx: SortedLinks :(33) RightShoulder
+[2022.07.07-07.02.51:537][483]LogFbx: SortedLinks :(34) RightArm
+[2022.07.07-07.02.51:537][483]LogFbx: SortedLinks :(35) RightForeArm
+[2022.07.07-07.02.51:537][483]LogFbx: SortedLinks :(36) RightHand
+[2022.07.07-07.02.51:537][483]LogFbx: SortedLinks :(37) RightHandPinky1
+[2022.07.07-07.02.51:537][483]LogFbx: SortedLinks :(38) RightHandPinky2
+[2022.07.07-07.02.51:537][483]LogFbx: SortedLinks :(39) RightHandPinky3
+[2022.07.07-07.02.51:537][483]LogFbx: SortedLinks :(40) RightHandPinky4
+[2022.07.07-07.02.51:537][483]LogFbx: SortedLinks :(41) RightHandRing1
+[2022.07.07-07.02.51:538][483]LogFbx: SortedLinks :(42) RightHandRing2
+[2022.07.07-07.02.51:538][483]LogFbx: SortedLinks :(43) RightHandRing3
+[2022.07.07-07.02.51:538][483]LogFbx: SortedLinks :(44) RightHandRing4
+[2022.07.07-07.02.51:538][483]LogFbx: SortedLinks :(45) RightHandMiddle1
+[2022.07.07-07.02.51:538][483]LogFbx: SortedLinks :(46) RightHandMiddle2
+[2022.07.07-07.02.51:538][483]LogFbx: SortedLinks :(47) RightHandMiddle3
+[2022.07.07-07.02.51:538][483]LogFbx: SortedLinks :(48) RightHandMiddle4
+[2022.07.07-07.02.51:538][483]LogFbx: SortedLinks :(49) RightHandIndex1
+[2022.07.07-07.02.51:538][483]LogFbx: SortedLinks :(50) RightHandIndex2
+[2022.07.07-07.02.51:538][483]LogFbx: SortedLinks :(51) RightHandIndex3
+[2022.07.07-07.02.51:538][483]LogFbx: SortedLinks :(52) RightHandIndex4
+[2022.07.07-07.02.51:538][483]LogFbx: SortedLinks :(53) RightHandThumb1
+[2022.07.07-07.02.51:538][483]LogFbx: SortedLinks :(54) RightHandThumb2
+[2022.07.07-07.02.51:538][483]LogFbx: SortedLinks :(55) RightHandThumb3
+[2022.07.07-07.02.51:538][483]LogFbx: SortedLinks :(56) RightHandThumb4
+[2022.07.07-07.02.51:538][483]LogFbx: SortedLinks :(57) LeftUpLeg
+[2022.07.07-07.02.51:538][483]LogFbx: SortedLinks :(58) LeftLeg
+[2022.07.07-07.02.51:538][483]LogFbx: SortedLinks :(59) LeftFoot
+[2022.07.07-07.02.51:538][483]LogFbx: SortedLinks :(60) LeftToeBase
+[2022.07.07-07.02.51:538][483]LogFbx: SortedLinks :(61) LeftToe_End
+[2022.07.07-07.02.51:538][483]LogFbx: SortedLinks :(62) RightUpLeg
+[2022.07.07-07.02.51:538][483]LogFbx: SortedLinks :(63) RightLeg
+[2022.07.07-07.02.51:538][483]LogFbx: SortedLinks :(64) RightFoot
+[2022.07.07-07.02.51:538][483]LogFbx: SortedLinks :(65) RightToeBase
+[2022.07.07-07.02.51:538][483]LogFbx: SortedLinks :(66) RightToe_End
+[2022.07.07-07.02.51:538][483]LogFbx: SortedLinks :(0) Hips
+[2022.07.07-07.02.51:538][483]LogFbx: SortedLinks :(1) Spine
+[2022.07.07-07.02.51:538][483]LogFbx: SortedLinks :(2) Spine1
+[2022.07.07-07.02.51:538][483]LogFbx: SortedLinks :(3) Spine2
+[2022.07.07-07.02.51:538][483]LogFbx: SortedLinks :(4) Neck
+[2022.07.07-07.02.51:538][483]LogFbx: SortedLinks :(5) Head
+[2022.07.07-07.02.51:538][483]LogFbx: SortedLinks :(6) HeadTop_End
+[2022.07.07-07.02.51:538][483]LogFbx: SortedLinks :(7) LeftEye
+[2022.07.07-07.02.51:538][483]LogFbx: SortedLinks :(8) RightEye
+[2022.07.07-07.02.51:538][483]LogFbx: SortedLinks :(9) LeftShoulder
+[2022.07.07-07.02.51:538][483]LogFbx: SortedLinks :(10) LeftArm
+[2022.07.07-07.02.51:538][483]LogFbx: SortedLinks :(11) LeftForeArm
+[2022.07.07-07.02.51:538][483]LogFbx: SortedLinks :(12) LeftHand
+[2022.07.07-07.02.51:538][483]LogFbx: SortedLinks :(13) LeftHandThumb1
+[2022.07.07-07.02.51:538][483]LogFbx: SortedLinks :(14) LeftHandThumb2
+[2022.07.07-07.02.51:538][483]LogFbx: SortedLinks :(15) LeftHandThumb3
+[2022.07.07-07.02.51:538][483]LogFbx: SortedLinks :(16) LeftHandThumb4
+[2022.07.07-07.02.51:538][483]LogFbx: SortedLinks :(17) LeftHandIndex1
+[2022.07.07-07.02.51:538][483]LogFbx: SortedLinks :(18) LeftHandIndex2
+[2022.07.07-07.02.51:538][483]LogFbx: SortedLinks :(19) LeftHandIndex3
+[2022.07.07-07.02.51:538][483]LogFbx: SortedLinks :(20) LeftHandIndex4
+[2022.07.07-07.02.51:538][483]LogFbx: SortedLinks :(21) LeftHandMiddle1
+[2022.07.07-07.02.51:538][483]LogFbx: SortedLinks :(22) LeftHandMiddle2
+[2022.07.07-07.02.51:538][483]LogFbx: SortedLinks :(23) LeftHandMiddle3
+[2022.07.07-07.02.51:538][483]LogFbx: SortedLinks :(24) LeftHandMiddle4
+[2022.07.07-07.02.51:538][483]LogFbx: SortedLinks :(25) LeftHandRing1
+[2022.07.07-07.02.51:538][483]LogFbx: SortedLinks :(26) LeftHandRing2
+[2022.07.07-07.02.51:538][483]LogFbx: SortedLinks :(27) LeftHandRing3
+[2022.07.07-07.02.51:538][483]LogFbx: SortedLinks :(28) LeftHandRing4
+[2022.07.07-07.02.51:538][483]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2022.07.07-07.02.51:538][483]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2022.07.07-07.02.51:538][483]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2022.07.07-07.02.51:538][483]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2022.07.07-07.02.51:538][483]LogFbx: SortedLinks :(33) RightShoulder
+[2022.07.07-07.02.51:538][483]LogFbx: SortedLinks :(34) RightArm
+[2022.07.07-07.02.51:538][483]LogFbx: SortedLinks :(35) RightForeArm
+[2022.07.07-07.02.51:538][483]LogFbx: SortedLinks :(36) RightHand
+[2022.07.07-07.02.51:538][483]LogFbx: SortedLinks :(37) RightHandPinky1
+[2022.07.07-07.02.51:539][483]LogFbx: SortedLinks :(38) RightHandPinky2
+[2022.07.07-07.02.51:539][483]LogFbx: SortedLinks :(39) RightHandPinky3
+[2022.07.07-07.02.51:539][483]LogFbx: SortedLinks :(40) RightHandPinky4
+[2022.07.07-07.02.51:539][483]LogFbx: SortedLinks :(41) RightHandRing1
+[2022.07.07-07.02.51:539][483]LogFbx: SortedLinks :(42) RightHandRing2
+[2022.07.07-07.02.51:539][483]LogFbx: SortedLinks :(43) RightHandRing3
+[2022.07.07-07.02.51:539][483]LogFbx: SortedLinks :(44) RightHandRing4
+[2022.07.07-07.02.51:539][483]LogFbx: SortedLinks :(45) RightHandMiddle1
+[2022.07.07-07.02.51:539][483]LogFbx: SortedLinks :(46) RightHandMiddle2
+[2022.07.07-07.02.51:539][483]LogFbx: SortedLinks :(47) RightHandMiddle3
+[2022.07.07-07.02.51:539][483]LogFbx: SortedLinks :(48) RightHandMiddle4
+[2022.07.07-07.02.51:539][483]LogFbx: SortedLinks :(49) RightHandIndex1
+[2022.07.07-07.02.51:539][483]LogFbx: SortedLinks :(50) RightHandIndex2
+[2022.07.07-07.02.51:539][483]LogFbx: SortedLinks :(51) RightHandIndex3
+[2022.07.07-07.02.51:539][483]LogFbx: SortedLinks :(52) RightHandIndex4
+[2022.07.07-07.02.51:539][483]LogFbx: SortedLinks :(53) RightHandThumb1
+[2022.07.07-07.02.51:539][483]LogFbx: SortedLinks :(54) RightHandThumb2
+[2022.07.07-07.02.51:539][483]LogFbx: SortedLinks :(55) RightHandThumb3
+[2022.07.07-07.02.51:539][483]LogFbx: SortedLinks :(56) RightHandThumb4
+[2022.07.07-07.02.51:539][483]LogFbx: SortedLinks :(57) LeftUpLeg
+[2022.07.07-07.02.51:539][483]LogFbx: SortedLinks :(58) LeftLeg
+[2022.07.07-07.02.51:539][483]LogFbx: SortedLinks :(59) LeftFoot
+[2022.07.07-07.02.51:539][483]LogFbx: SortedLinks :(60) LeftToeBase
+[2022.07.07-07.02.51:539][483]LogFbx: SortedLinks :(61) LeftToe_End
+[2022.07.07-07.02.51:539][483]LogFbx: SortedLinks :(62) RightUpLeg
+[2022.07.07-07.02.51:539][483]LogFbx: SortedLinks :(63) RightLeg
+[2022.07.07-07.02.51:539][483]LogFbx: SortedLinks :(64) RightFoot
+[2022.07.07-07.02.51:539][483]LogFbx: SortedLinks :(65) RightToeBase
+[2022.07.07-07.02.51:539][483]LogFbx: SortedLinks :(66) RightToe_End
+[2022.07.07-07.02.51:540][483]LogFbx: Parsing AnimStack Take 001
+[2022.07.07-07.02.51:637][483]LogFbx: Parsing AnimStack mixamo.com
+[2022.07.07-07.02.52:010][483]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 E:\School\GDS213\Disorder\Animations\Injured Idle.fbx)
+[2022.07.07-07.02.52:029][483]LogFbx: Loading FBX Scene from E:\School\GDS213\Disorder\Animations\Injured Idle.fbx
+[2022.07.07-07.02.52:101][483]LogFbx: FBX Scene Loaded Succesfully
+[2022.07.07-07.02.52:107][483]LogFbx: SortedLinks :(0) Hips
+[2022.07.07-07.02.52:107][483]LogFbx: SortedLinks :(1) Spine
+[2022.07.07-07.02.52:107][483]LogFbx: SortedLinks :(2) Spine1
+[2022.07.07-07.02.52:107][483]LogFbx: SortedLinks :(3) Spine2
+[2022.07.07-07.02.52:107][483]LogFbx: SortedLinks :(4) Neck
+[2022.07.07-07.02.52:107][483]LogFbx: SortedLinks :(5) Head
+[2022.07.07-07.02.52:107][483]LogFbx: SortedLinks :(6) HeadTop_End
+[2022.07.07-07.02.52:107][483]LogFbx: SortedLinks :(7) LeftEye
+[2022.07.07-07.02.52:107][483]LogFbx: SortedLinks :(8) RightEye
+[2022.07.07-07.02.52:107][483]LogFbx: SortedLinks :(9) LeftShoulder
+[2022.07.07-07.02.52:107][483]LogFbx: SortedLinks :(10) LeftArm
+[2022.07.07-07.02.52:107][483]LogFbx: SortedLinks :(11) LeftForeArm
+[2022.07.07-07.02.52:107][483]LogFbx: SortedLinks :(12) LeftHand
+[2022.07.07-07.02.52:107][483]LogFbx: SortedLinks :(13) LeftHandThumb1
+[2022.07.07-07.02.52:107][483]LogFbx: SortedLinks :(14) LeftHandThumb2
+[2022.07.07-07.02.52:107][483]LogFbx: SortedLinks :(15) LeftHandThumb3
+[2022.07.07-07.02.52:107][483]LogFbx: SortedLinks :(16) LeftHandThumb4
+[2022.07.07-07.02.52:107][483]LogFbx: SortedLinks :(17) LeftHandIndex1
+[2022.07.07-07.02.52:107][483]LogFbx: SortedLinks :(18) LeftHandIndex2
+[2022.07.07-07.02.52:107][483]LogFbx: SortedLinks :(19) LeftHandIndex3
+[2022.07.07-07.02.52:107][483]LogFbx: SortedLinks :(20) LeftHandIndex4
+[2022.07.07-07.02.52:107][483]LogFbx: SortedLinks :(21) LeftHandMiddle1
+[2022.07.07-07.02.52:107][483]LogFbx: SortedLinks :(22) LeftHandMiddle2
+[2022.07.07-07.02.52:107][483]LogFbx: SortedLinks :(23) LeftHandMiddle3
+[2022.07.07-07.02.52:108][483]LogFbx: SortedLinks :(24) LeftHandMiddle4
+[2022.07.07-07.02.52:108][483]LogFbx: SortedLinks :(25) LeftHandRing1
+[2022.07.07-07.02.52:108][483]LogFbx: SortedLinks :(26) LeftHandRing2
+[2022.07.07-07.02.52:108][483]LogFbx: SortedLinks :(27) LeftHandRing3
+[2022.07.07-07.02.52:108][483]LogFbx: SortedLinks :(28) LeftHandRing4
+[2022.07.07-07.02.52:108][483]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2022.07.07-07.02.52:108][483]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2022.07.07-07.02.52:108][483]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2022.07.07-07.02.52:108][483]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2022.07.07-07.02.52:108][483]LogFbx: SortedLinks :(33) RightShoulder
+[2022.07.07-07.02.52:108][483]LogFbx: SortedLinks :(34) RightArm
+[2022.07.07-07.02.52:108][483]LogFbx: SortedLinks :(35) RightForeArm
+[2022.07.07-07.02.52:108][483]LogFbx: SortedLinks :(36) RightHand
+[2022.07.07-07.02.52:108][483]LogFbx: SortedLinks :(37) RightHandPinky1
+[2022.07.07-07.02.52:108][483]LogFbx: SortedLinks :(38) RightHandPinky2
+[2022.07.07-07.02.52:108][483]LogFbx: SortedLinks :(39) RightHandPinky3
+[2022.07.07-07.02.52:108][483]LogFbx: SortedLinks :(40) RightHandPinky4
+[2022.07.07-07.02.52:108][483]LogFbx: SortedLinks :(41) RightHandRing1
+[2022.07.07-07.02.52:108][483]LogFbx: SortedLinks :(42) RightHandRing2
+[2022.07.07-07.02.52:108][483]LogFbx: SortedLinks :(43) RightHandRing3
+[2022.07.07-07.02.52:108][483]LogFbx: SortedLinks :(44) RightHandRing4
+[2022.07.07-07.02.52:108][483]LogFbx: SortedLinks :(45) RightHandMiddle1
+[2022.07.07-07.02.52:108][483]LogFbx: SortedLinks :(46) RightHandMiddle2
+[2022.07.07-07.02.52:108][483]LogFbx: SortedLinks :(47) RightHandMiddle3
+[2022.07.07-07.02.52:108][483]LogFbx: SortedLinks :(48) RightHandMiddle4
+[2022.07.07-07.02.52:108][483]LogFbx: SortedLinks :(49) RightHandIndex1
+[2022.07.07-07.02.52:108][483]LogFbx: SortedLinks :(50) RightHandIndex2
+[2022.07.07-07.02.52:108][483]LogFbx: SortedLinks :(51) RightHandIndex3
+[2022.07.07-07.02.52:108][483]LogFbx: SortedLinks :(52) RightHandIndex4
+[2022.07.07-07.02.52:108][483]LogFbx: SortedLinks :(53) RightHandThumb1
+[2022.07.07-07.02.52:108][483]LogFbx: SortedLinks :(54) RightHandThumb2
+[2022.07.07-07.02.52:108][483]LogFbx: SortedLinks :(55) RightHandThumb3
+[2022.07.07-07.02.52:108][483]LogFbx: SortedLinks :(56) RightHandThumb4
+[2022.07.07-07.02.52:108][483]LogFbx: SortedLinks :(57) LeftUpLeg
+[2022.07.07-07.02.52:108][483]LogFbx: SortedLinks :(58) LeftLeg
+[2022.07.07-07.02.52:108][483]LogFbx: SortedLinks :(59) LeftFoot
+[2022.07.07-07.02.52:108][483]LogFbx: SortedLinks :(60) LeftToeBase
+[2022.07.07-07.02.52:108][483]LogFbx: SortedLinks :(61) LeftToe_End
+[2022.07.07-07.02.52:108][483]LogFbx: SortedLinks :(62) RightUpLeg
+[2022.07.07-07.02.52:108][483]LogFbx: SortedLinks :(63) RightLeg
+[2022.07.07-07.02.52:108][483]LogFbx: SortedLinks :(64) RightFoot
+[2022.07.07-07.02.52:108][483]LogFbx: SortedLinks :(65) RightToeBase
+[2022.07.07-07.02.52:108][483]LogFbx: SortedLinks :(66) RightToe_End
+[2022.07.07-07.02.52:108][483]LogFbx: SortedLinks :(0) Hips
+[2022.07.07-07.02.52:108][483]LogFbx: SortedLinks :(1) Spine
+[2022.07.07-07.02.52:108][483]LogFbx: SortedLinks :(2) Spine1
+[2022.07.07-07.02.52:108][483]LogFbx: SortedLinks :(3) Spine2
+[2022.07.07-07.02.52:108][483]LogFbx: SortedLinks :(4) Neck
+[2022.07.07-07.02.52:108][483]LogFbx: SortedLinks :(5) Head
+[2022.07.07-07.02.52:108][483]LogFbx: SortedLinks :(6) HeadTop_End
+[2022.07.07-07.02.52:108][483]LogFbx: SortedLinks :(7) LeftEye
+[2022.07.07-07.02.52:108][483]LogFbx: SortedLinks :(8) RightEye
+[2022.07.07-07.02.52:108][483]LogFbx: SortedLinks :(9) LeftShoulder
+[2022.07.07-07.02.52:108][483]LogFbx: SortedLinks :(10) LeftArm
+[2022.07.07-07.02.52:108][483]LogFbx: SortedLinks :(11) LeftForeArm
+[2022.07.07-07.02.52:108][483]LogFbx: SortedLinks :(12) LeftHand
+[2022.07.07-07.02.52:108][483]LogFbx: SortedLinks :(13) LeftHandThumb1
+[2022.07.07-07.02.52:108][483]LogFbx: SortedLinks :(14) LeftHandThumb2
+[2022.07.07-07.02.52:108][483]LogFbx: SortedLinks :(15) LeftHandThumb3
+[2022.07.07-07.02.52:108][483]LogFbx: SortedLinks :(16) LeftHandThumb4
+[2022.07.07-07.02.52:108][483]LogFbx: SortedLinks :(17) LeftHandIndex1
+[2022.07.07-07.02.52:108][483]LogFbx: SortedLinks :(18) LeftHandIndex2
+[2022.07.07-07.02.52:108][483]LogFbx: SortedLinks :(19) LeftHandIndex3
+[2022.07.07-07.02.52:108][483]LogFbx: SortedLinks :(20) LeftHandIndex4
+[2022.07.07-07.02.52:108][483]LogFbx: SortedLinks :(21) LeftHandMiddle1
+[2022.07.07-07.02.52:108][483]LogFbx: SortedLinks :(22) LeftHandMiddle2
+[2022.07.07-07.02.52:108][483]LogFbx: SortedLinks :(23) LeftHandMiddle3
+[2022.07.07-07.02.52:108][483]LogFbx: SortedLinks :(24) LeftHandMiddle4
+[2022.07.07-07.02.52:108][483]LogFbx: SortedLinks :(25) LeftHandRing1
+[2022.07.07-07.02.52:108][483]LogFbx: SortedLinks :(26) LeftHandRing2
+[2022.07.07-07.02.52:108][483]LogFbx: SortedLinks :(27) LeftHandRing3
+[2022.07.07-07.02.52:108][483]LogFbx: SortedLinks :(28) LeftHandRing4
+[2022.07.07-07.02.52:108][483]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2022.07.07-07.02.52:108][483]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2022.07.07-07.02.52:108][483]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2022.07.07-07.02.52:108][483]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2022.07.07-07.02.52:108][483]LogFbx: SortedLinks :(33) RightShoulder
+[2022.07.07-07.02.52:108][483]LogFbx: SortedLinks :(34) RightArm
+[2022.07.07-07.02.52:108][483]LogFbx: SortedLinks :(35) RightForeArm
+[2022.07.07-07.02.52:108][483]LogFbx: SortedLinks :(36) RightHand
+[2022.07.07-07.02.52:108][483]LogFbx: SortedLinks :(37) RightHandPinky1
+[2022.07.07-07.02.52:108][483]LogFbx: SortedLinks :(38) RightHandPinky2
+[2022.07.07-07.02.52:108][483]LogFbx: SortedLinks :(39) RightHandPinky3
+[2022.07.07-07.02.52:108][483]LogFbx: SortedLinks :(40) RightHandPinky4
+[2022.07.07-07.02.52:109][483]LogFbx: SortedLinks :(41) RightHandRing1
+[2022.07.07-07.02.52:109][483]LogFbx: SortedLinks :(42) RightHandRing2
+[2022.07.07-07.02.52:109][483]LogFbx: SortedLinks :(43) RightHandRing3
+[2022.07.07-07.02.52:109][483]LogFbx: SortedLinks :(44) RightHandRing4
+[2022.07.07-07.02.52:109][483]LogFbx: SortedLinks :(45) RightHandMiddle1
+[2022.07.07-07.02.52:109][483]LogFbx: SortedLinks :(46) RightHandMiddle2
+[2022.07.07-07.02.52:109][483]LogFbx: SortedLinks :(47) RightHandMiddle3
+[2022.07.07-07.02.52:109][483]LogFbx: SortedLinks :(48) RightHandMiddle4
+[2022.07.07-07.02.52:109][483]LogFbx: SortedLinks :(49) RightHandIndex1
+[2022.07.07-07.02.52:109][483]LogFbx: SortedLinks :(50) RightHandIndex2
+[2022.07.07-07.02.52:109][483]LogFbx: SortedLinks :(51) RightHandIndex3
+[2022.07.07-07.02.52:109][483]LogFbx: SortedLinks :(52) RightHandIndex4
+[2022.07.07-07.02.52:109][483]LogFbx: SortedLinks :(53) RightHandThumb1
+[2022.07.07-07.02.52:109][483]LogFbx: SortedLinks :(54) RightHandThumb2
+[2022.07.07-07.02.52:109][483]LogFbx: SortedLinks :(55) RightHandThumb3
+[2022.07.07-07.02.52:109][483]LogFbx: SortedLinks :(56) RightHandThumb4
+[2022.07.07-07.02.52:109][483]LogFbx: SortedLinks :(57) LeftUpLeg
+[2022.07.07-07.02.52:109][483]LogFbx: SortedLinks :(58) LeftLeg
+[2022.07.07-07.02.52:109][483]LogFbx: SortedLinks :(59) LeftFoot
+[2022.07.07-07.02.52:109][483]LogFbx: SortedLinks :(60) LeftToeBase
+[2022.07.07-07.02.52:109][483]LogFbx: SortedLinks :(61) LeftToe_End
+[2022.07.07-07.02.52:109][483]LogFbx: SortedLinks :(62) RightUpLeg
+[2022.07.07-07.02.52:109][483]LogFbx: SortedLinks :(63) RightLeg
+[2022.07.07-07.02.52:109][483]LogFbx: SortedLinks :(64) RightFoot
+[2022.07.07-07.02.52:109][483]LogFbx: SortedLinks :(65) RightToeBase
+[2022.07.07-07.02.52:109][483]LogFbx: SortedLinks :(66) RightToe_End
+[2022.07.07-07.02.52:110][483]LogFbx: Parsing AnimStack Take 001
+[2022.07.07-07.02.52:196][483]LogFbx: Parsing AnimStack mixamo.com
+[2022.07.07-07.02.53:136][483]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TopDownBP/MichaelM/Animations/Injured_Idle_mixamo_com.Injured_Idle_mixamo_com
+[2022.07.07-07.02.53:136][483]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TopDownBP/MichaelM/Animations/Injured_Idle_Take_001.Injured_Idle_Take_001
+[2022.07.07-07.02.53:136][483]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TopDownBP/MichaelM/Animations/Grab_Rifle_From_The_Side_And_Put_Back_Take_001.Grab_Rifle_From_The_Side_And_Put_Back_Take_001
+[2022.07.07-07.02.53:136][483]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TopDownBP/MichaelM/Animations/Grab_Rifle_From_The_Side_And_Put_Back_mixamo_com.Grab_Rifle_From_The_Side_And_Put_Back_mixamo_com
+[2022.07.07-07.02.53:136][483]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TopDownBP/MichaelM/Animations/Climbing_mixamo_com.Climbing_mixamo_com
+[2022.07.07-07.02.53:136][483]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TopDownBP/MichaelM/Animations/Climbing_Take_001.Climbing_Take_001
+[2022.07.07-07.02.53:136][483]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 E:\School\GDS213\Disorder\Animations\Injured Walking.fbx)
+[2022.07.07-07.02.53:160][483]LogFbx: Loading FBX Scene from E:\School\GDS213\Disorder\Animations\Injured Walking.fbx
+[2022.07.07-07.02.53:212][483]LogFbx: FBX Scene Loaded Succesfully
+[2022.07.07-07.02.53:217][483]LogFbx: SortedLinks :(0) Hips
+[2022.07.07-07.02.53:217][483]LogFbx: SortedLinks :(1) Spine
+[2022.07.07-07.02.53:217][483]LogFbx: SortedLinks :(2) Spine1
+[2022.07.07-07.02.53:217][483]LogFbx: SortedLinks :(3) Spine2
+[2022.07.07-07.02.53:217][483]LogFbx: SortedLinks :(4) Neck
+[2022.07.07-07.02.53:217][483]LogFbx: SortedLinks :(5) Head
+[2022.07.07-07.02.53:217][483]LogFbx: SortedLinks :(6) HeadTop_End
+[2022.07.07-07.02.53:217][483]LogFbx: SortedLinks :(7) LeftEye
+[2022.07.07-07.02.53:217][483]LogFbx: SortedLinks :(8) RightEye
+[2022.07.07-07.02.53:217][483]LogFbx: SortedLinks :(9) LeftShoulder
+[2022.07.07-07.02.53:217][483]LogFbx: SortedLinks :(10) LeftArm
+[2022.07.07-07.02.53:217][483]LogFbx: SortedLinks :(11) LeftForeArm
+[2022.07.07-07.02.53:217][483]LogFbx: SortedLinks :(12) LeftHand
+[2022.07.07-07.02.53:217][483]LogFbx: SortedLinks :(13) LeftHandThumb1
+[2022.07.07-07.02.53:217][483]LogFbx: SortedLinks :(14) LeftHandThumb2
+[2022.07.07-07.02.53:217][483]LogFbx: SortedLinks :(15) LeftHandThumb3
+[2022.07.07-07.02.53:217][483]LogFbx: SortedLinks :(16) LeftHandThumb4
+[2022.07.07-07.02.53:217][483]LogFbx: SortedLinks :(17) LeftHandIndex1
+[2022.07.07-07.02.53:218][483]LogFbx: SortedLinks :(18) LeftHandIndex2
+[2022.07.07-07.02.53:218][483]LogFbx: SortedLinks :(19) LeftHandIndex3
+[2022.07.07-07.02.53:218][483]LogFbx: SortedLinks :(20) LeftHandIndex4
+[2022.07.07-07.02.53:218][483]LogFbx: SortedLinks :(21) LeftHandMiddle1
+[2022.07.07-07.02.53:218][483]LogFbx: SortedLinks :(22) LeftHandMiddle2
+[2022.07.07-07.02.53:218][483]LogFbx: SortedLinks :(23) LeftHandMiddle3
+[2022.07.07-07.02.53:218][483]LogFbx: SortedLinks :(24) LeftHandMiddle4
+[2022.07.07-07.02.53:218][483]LogFbx: SortedLinks :(25) LeftHandRing1
+[2022.07.07-07.02.53:218][483]LogFbx: SortedLinks :(26) LeftHandRing2
+[2022.07.07-07.02.53:218][483]LogFbx: SortedLinks :(27) LeftHandRing3
+[2022.07.07-07.02.53:218][483]LogFbx: SortedLinks :(28) LeftHandRing4
+[2022.07.07-07.02.53:218][483]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2022.07.07-07.02.53:218][483]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2022.07.07-07.02.53:218][483]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2022.07.07-07.02.53:218][483]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2022.07.07-07.02.53:218][483]LogFbx: SortedLinks :(33) RightShoulder
+[2022.07.07-07.02.53:218][483]LogFbx: SortedLinks :(34) RightArm
+[2022.07.07-07.02.53:218][483]LogFbx: SortedLinks :(35) RightForeArm
+[2022.07.07-07.02.53:218][483]LogFbx: SortedLinks :(36) RightHand
+[2022.07.07-07.02.53:218][483]LogFbx: SortedLinks :(37) RightHandPinky1
+[2022.07.07-07.02.53:218][483]LogFbx: SortedLinks :(38) RightHandPinky2
+[2022.07.07-07.02.53:218][483]LogFbx: SortedLinks :(39) RightHandPinky3
+[2022.07.07-07.02.53:218][483]LogFbx: SortedLinks :(40) RightHandPinky4
+[2022.07.07-07.02.53:218][483]LogFbx: SortedLinks :(41) RightHandRing1
+[2022.07.07-07.02.53:218][483]LogFbx: SortedLinks :(42) RightHandRing2
+[2022.07.07-07.02.53:218][483]LogFbx: SortedLinks :(43) RightHandRing3
+[2022.07.07-07.02.53:218][483]LogFbx: SortedLinks :(44) RightHandRing4
+[2022.07.07-07.02.53:218][483]LogFbx: SortedLinks :(45) RightHandMiddle1
+[2022.07.07-07.02.53:218][483]LogFbx: SortedLinks :(46) RightHandMiddle2
+[2022.07.07-07.02.53:218][483]LogFbx: SortedLinks :(47) RightHandMiddle3
+[2022.07.07-07.02.53:218][483]LogFbx: SortedLinks :(48) RightHandMiddle4
+[2022.07.07-07.02.53:218][483]LogFbx: SortedLinks :(49) RightHandIndex1
+[2022.07.07-07.02.53:218][483]LogFbx: SortedLinks :(50) RightHandIndex2
+[2022.07.07-07.02.53:218][483]LogFbx: SortedLinks :(51) RightHandIndex3
+[2022.07.07-07.02.53:218][483]LogFbx: SortedLinks :(52) RightHandIndex4
+[2022.07.07-07.02.53:218][483]LogFbx: SortedLinks :(53) RightHandThumb1
+[2022.07.07-07.02.53:218][483]LogFbx: SortedLinks :(54) RightHandThumb2
+[2022.07.07-07.02.53:218][483]LogFbx: SortedLinks :(55) RightHandThumb3
+[2022.07.07-07.02.53:218][483]LogFbx: SortedLinks :(56) RightHandThumb4
+[2022.07.07-07.02.53:218][483]LogFbx: SortedLinks :(57) LeftUpLeg
+[2022.07.07-07.02.53:218][483]LogFbx: SortedLinks :(58) LeftLeg
+[2022.07.07-07.02.53:218][483]LogFbx: SortedLinks :(59) LeftFoot
+[2022.07.07-07.02.53:218][483]LogFbx: SortedLinks :(60) LeftToeBase
+[2022.07.07-07.02.53:218][483]LogFbx: SortedLinks :(61) LeftToe_End
+[2022.07.07-07.02.53:218][483]LogFbx: SortedLinks :(62) RightUpLeg
+[2022.07.07-07.02.53:218][483]LogFbx: SortedLinks :(63) RightLeg
+[2022.07.07-07.02.53:218][483]LogFbx: SortedLinks :(64) RightFoot
+[2022.07.07-07.02.53:218][483]LogFbx: SortedLinks :(65) RightToeBase
+[2022.07.07-07.02.53:218][483]LogFbx: SortedLinks :(66) RightToe_End
+[2022.07.07-07.02.53:218][483]LogFbx: SortedLinks :(0) Hips
+[2022.07.07-07.02.53:218][483]LogFbx: SortedLinks :(1) Spine
+[2022.07.07-07.02.53:218][483]LogFbx: SortedLinks :(2) Spine1
+[2022.07.07-07.02.53:218][483]LogFbx: SortedLinks :(3) Spine2
+[2022.07.07-07.02.53:218][483]LogFbx: SortedLinks :(4) Neck
+[2022.07.07-07.02.53:218][483]LogFbx: SortedLinks :(5) Head
+[2022.07.07-07.02.53:218][483]LogFbx: SortedLinks :(6) HeadTop_End
+[2022.07.07-07.02.53:218][483]LogFbx: SortedLinks :(7) LeftEye
+[2022.07.07-07.02.53:218][483]LogFbx: SortedLinks :(8) RightEye
+[2022.07.07-07.02.53:218][483]LogFbx: SortedLinks :(9) LeftShoulder
+[2022.07.07-07.02.53:218][483]LogFbx: SortedLinks :(10) LeftArm
+[2022.07.07-07.02.53:218][483]LogFbx: SortedLinks :(11) LeftForeArm
+[2022.07.07-07.02.53:218][483]LogFbx: SortedLinks :(12) LeftHand
+[2022.07.07-07.02.53:218][483]LogFbx: SortedLinks :(13) LeftHandThumb1
+[2022.07.07-07.02.53:218][483]LogFbx: SortedLinks :(14) LeftHandThumb2
+[2022.07.07-07.02.53:218][483]LogFbx: SortedLinks :(15) LeftHandThumb3
+[2022.07.07-07.02.53:218][483]LogFbx: SortedLinks :(16) LeftHandThumb4
+[2022.07.07-07.02.53:218][483]LogFbx: SortedLinks :(17) LeftHandIndex1
+[2022.07.07-07.02.53:218][483]LogFbx: SortedLinks :(18) LeftHandIndex2
+[2022.07.07-07.02.53:218][483]LogFbx: SortedLinks :(19) LeftHandIndex3
+[2022.07.07-07.02.53:218][483]LogFbx: SortedLinks :(20) LeftHandIndex4
+[2022.07.07-07.02.53:218][483]LogFbx: SortedLinks :(21) LeftHandMiddle1
+[2022.07.07-07.02.53:219][483]LogFbx: SortedLinks :(22) LeftHandMiddle2
+[2022.07.07-07.02.53:219][483]LogFbx: SortedLinks :(23) LeftHandMiddle3
+[2022.07.07-07.02.53:219][483]LogFbx: SortedLinks :(24) LeftHandMiddle4
+[2022.07.07-07.02.53:219][483]LogFbx: SortedLinks :(25) LeftHandRing1
+[2022.07.07-07.02.53:219][483]LogFbx: SortedLinks :(26) LeftHandRing2
+[2022.07.07-07.02.53:219][483]LogFbx: SortedLinks :(27) LeftHandRing3
+[2022.07.07-07.02.53:219][483]LogFbx: SortedLinks :(28) LeftHandRing4
+[2022.07.07-07.02.53:219][483]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2022.07.07-07.02.53:219][483]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2022.07.07-07.02.53:219][483]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2022.07.07-07.02.53:219][483]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2022.07.07-07.02.53:219][483]LogFbx: SortedLinks :(33) RightShoulder
+[2022.07.07-07.02.53:219][483]LogFbx: SortedLinks :(34) RightArm
+[2022.07.07-07.02.53:219][483]LogFbx: SortedLinks :(35) RightForeArm
+[2022.07.07-07.02.53:219][483]LogFbx: SortedLinks :(36) RightHand
+[2022.07.07-07.02.53:219][483]LogFbx: SortedLinks :(37) RightHandPinky1
+[2022.07.07-07.02.53:219][483]LogFbx: SortedLinks :(38) RightHandPinky2
+[2022.07.07-07.02.53:219][483]LogFbx: SortedLinks :(39) RightHandPinky3
+[2022.07.07-07.02.53:219][483]LogFbx: SortedLinks :(40) RightHandPinky4
+[2022.07.07-07.02.53:219][483]LogFbx: SortedLinks :(41) RightHandRing1
+[2022.07.07-07.02.53:219][483]LogFbx: SortedLinks :(42) RightHandRing2
+[2022.07.07-07.02.53:219][483]LogFbx: SortedLinks :(43) RightHandRing3
+[2022.07.07-07.02.53:219][483]LogFbx: SortedLinks :(44) RightHandRing4
+[2022.07.07-07.02.53:219][483]LogFbx: SortedLinks :(45) RightHandMiddle1
+[2022.07.07-07.02.53:219][483]LogFbx: SortedLinks :(46) RightHandMiddle2
+[2022.07.07-07.02.53:219][483]LogFbx: SortedLinks :(47) RightHandMiddle3
+[2022.07.07-07.02.53:219][483]LogFbx: SortedLinks :(48) RightHandMiddle4
+[2022.07.07-07.02.53:219][483]LogFbx: SortedLinks :(49) RightHandIndex1
+[2022.07.07-07.02.53:219][483]LogFbx: SortedLinks :(50) RightHandIndex2
+[2022.07.07-07.02.53:219][483]LogFbx: SortedLinks :(51) RightHandIndex3
+[2022.07.07-07.02.53:219][483]LogFbx: SortedLinks :(52) RightHandIndex4
+[2022.07.07-07.02.53:219][483]LogFbx: SortedLinks :(53) RightHandThumb1
+[2022.07.07-07.02.53:219][483]LogFbx: SortedLinks :(54) RightHandThumb2
+[2022.07.07-07.02.53:219][483]LogFbx: SortedLinks :(55) RightHandThumb3
+[2022.07.07-07.02.53:219][483]LogFbx: SortedLinks :(56) RightHandThumb4
+[2022.07.07-07.02.53:219][483]LogFbx: SortedLinks :(57) LeftUpLeg
+[2022.07.07-07.02.53:219][483]LogFbx: SortedLinks :(58) LeftLeg
+[2022.07.07-07.02.53:219][483]LogFbx: SortedLinks :(59) LeftFoot
+[2022.07.07-07.02.53:219][483]LogFbx: SortedLinks :(60) LeftToeBase
+[2022.07.07-07.02.53:219][483]LogFbx: SortedLinks :(61) LeftToe_End
+[2022.07.07-07.02.53:219][483]LogFbx: SortedLinks :(62) RightUpLeg
+[2022.07.07-07.02.53:219][483]LogFbx: SortedLinks :(63) RightLeg
+[2022.07.07-07.02.53:219][483]LogFbx: SortedLinks :(64) RightFoot
+[2022.07.07-07.02.53:219][483]LogFbx: SortedLinks :(65) RightToeBase
+[2022.07.07-07.02.53:219][483]LogFbx: SortedLinks :(66) RightToe_End
+[2022.07.07-07.02.53:220][483]LogFbx: Parsing AnimStack Take 001
+[2022.07.07-07.02.53:300][483]LogFbx: Parsing AnimStack mixamo.com
+[2022.07.07-07.02.53:453][483]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 E:\School\GDS213\Disorder\Animations\Standing Block React Large.fbx)
+[2022.07.07-07.02.53:467][483]LogFbx: Loading FBX Scene from E:\School\GDS213\Disorder\Animations\Standing Block React Large.fbx
+[2022.07.07-07.02.53:513][483]LogFbx: FBX Scene Loaded Succesfully
+[2022.07.07-07.02.53:518][483]LogFbx: SortedLinks :(0) Hips
+[2022.07.07-07.02.53:518][483]LogFbx: SortedLinks :(1) Spine
+[2022.07.07-07.02.53:518][483]LogFbx: SortedLinks :(2) Spine1
+[2022.07.07-07.02.53:518][483]LogFbx: SortedLinks :(3) Spine2
+[2022.07.07-07.02.53:518][483]LogFbx: SortedLinks :(4) Neck
+[2022.07.07-07.02.53:518][483]LogFbx: SortedLinks :(5) Head
+[2022.07.07-07.02.53:518][483]LogFbx: SortedLinks :(6) HeadTop_End
+[2022.07.07-07.02.53:518][483]LogFbx: SortedLinks :(7) LeftEye
+[2022.07.07-07.02.53:518][483]LogFbx: SortedLinks :(8) RightEye
+[2022.07.07-07.02.53:518][483]LogFbx: SortedLinks :(9) LeftShoulder
+[2022.07.07-07.02.53:518][483]LogFbx: SortedLinks :(10) LeftArm
+[2022.07.07-07.02.53:518][483]LogFbx: SortedLinks :(11) LeftForeArm
+[2022.07.07-07.02.53:518][483]LogFbx: SortedLinks :(12) LeftHand
+[2022.07.07-07.02.53:518][483]LogFbx: SortedLinks :(13) LeftHandThumb1
+[2022.07.07-07.02.53:518][483]LogFbx: SortedLinks :(14) LeftHandThumb2
+[2022.07.07-07.02.53:518][483]LogFbx: SortedLinks :(15) LeftHandThumb3
+[2022.07.07-07.02.53:518][483]LogFbx: SortedLinks :(16) LeftHandThumb4
+[2022.07.07-07.02.53:518][483]LogFbx: SortedLinks :(17) LeftHandIndex1
+[2022.07.07-07.02.53:518][483]LogFbx: SortedLinks :(18) LeftHandIndex2
+[2022.07.07-07.02.53:518][483]LogFbx: SortedLinks :(19) LeftHandIndex3
+[2022.07.07-07.02.53:518][483]LogFbx: SortedLinks :(20) LeftHandIndex4
+[2022.07.07-07.02.53:518][483]LogFbx: SortedLinks :(21) LeftHandMiddle1
+[2022.07.07-07.02.53:518][483]LogFbx: SortedLinks :(22) LeftHandMiddle2
+[2022.07.07-07.02.53:518][483]LogFbx: SortedLinks :(23) LeftHandMiddle3
+[2022.07.07-07.02.53:518][483]LogFbx: SortedLinks :(24) LeftHandMiddle4
+[2022.07.07-07.02.53:518][483]LogFbx: SortedLinks :(25) LeftHandRing1
+[2022.07.07-07.02.53:518][483]LogFbx: SortedLinks :(26) LeftHandRing2
+[2022.07.07-07.02.53:518][483]LogFbx: SortedLinks :(27) LeftHandRing3
+[2022.07.07-07.02.53:518][483]LogFbx: SortedLinks :(28) LeftHandRing4
+[2022.07.07-07.02.53:518][483]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2022.07.07-07.02.53:518][483]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2022.07.07-07.02.53:518][483]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2022.07.07-07.02.53:518][483]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2022.07.07-07.02.53:518][483]LogFbx: SortedLinks :(33) RightShoulder
+[2022.07.07-07.02.53:518][483]LogFbx: SortedLinks :(34) RightArm
+[2022.07.07-07.02.53:518][483]LogFbx: SortedLinks :(35) RightForeArm
+[2022.07.07-07.02.53:518][483]LogFbx: SortedLinks :(36) RightHand
+[2022.07.07-07.02.53:518][483]LogFbx: SortedLinks :(37) RightHandPinky1
+[2022.07.07-07.02.53:518][483]LogFbx: SortedLinks :(38) RightHandPinky2
+[2022.07.07-07.02.53:518][483]LogFbx: SortedLinks :(39) RightHandPinky3
+[2022.07.07-07.02.53:518][483]LogFbx: SortedLinks :(40) RightHandPinky4
+[2022.07.07-07.02.53:518][483]LogFbx: SortedLinks :(41) RightHandRing1
+[2022.07.07-07.02.53:519][483]LogFbx: SortedLinks :(42) RightHandRing2
+[2022.07.07-07.02.53:519][483]LogFbx: SortedLinks :(43) RightHandRing3
+[2022.07.07-07.02.53:519][483]LogFbx: SortedLinks :(44) RightHandRing4
+[2022.07.07-07.02.53:519][483]LogFbx: SortedLinks :(45) RightHandMiddle1
+[2022.07.07-07.02.53:519][483]LogFbx: SortedLinks :(46) RightHandMiddle2
+[2022.07.07-07.02.53:519][483]LogFbx: SortedLinks :(47) RightHandMiddle3
+[2022.07.07-07.02.53:519][483]LogFbx: SortedLinks :(48) RightHandMiddle4
+[2022.07.07-07.02.53:519][483]LogFbx: SortedLinks :(49) RightHandIndex1
+[2022.07.07-07.02.53:519][483]LogFbx: SortedLinks :(50) RightHandIndex2
+[2022.07.07-07.02.53:519][483]LogFbx: SortedLinks :(51) RightHandIndex3
+[2022.07.07-07.02.53:519][483]LogFbx: SortedLinks :(52) RightHandIndex4
+[2022.07.07-07.02.53:519][483]LogFbx: SortedLinks :(53) RightHandThumb1
+[2022.07.07-07.02.53:519][483]LogFbx: SortedLinks :(54) RightHandThumb2
+[2022.07.07-07.02.53:519][483]LogFbx: SortedLinks :(55) RightHandThumb3
+[2022.07.07-07.02.53:519][483]LogFbx: SortedLinks :(56) RightHandThumb4
+[2022.07.07-07.02.53:519][483]LogFbx: SortedLinks :(57) LeftUpLeg
+[2022.07.07-07.02.53:519][483]LogFbx: SortedLinks :(58) LeftLeg
+[2022.07.07-07.02.53:519][483]LogFbx: SortedLinks :(59) LeftFoot
+[2022.07.07-07.02.53:519][483]LogFbx: SortedLinks :(60) LeftToeBase
+[2022.07.07-07.02.53:519][483]LogFbx: SortedLinks :(61) LeftToe_End
+[2022.07.07-07.02.53:519][483]LogFbx: SortedLinks :(62) RightUpLeg
+[2022.07.07-07.02.53:519][483]LogFbx: SortedLinks :(63) RightLeg
+[2022.07.07-07.02.53:519][483]LogFbx: SortedLinks :(64) RightFoot
+[2022.07.07-07.02.53:519][483]LogFbx: SortedLinks :(65) RightToeBase
+[2022.07.07-07.02.53:519][483]LogFbx: SortedLinks :(66) RightToe_End
+[2022.07.07-07.02.53:519][483]LogFbx: SortedLinks :(0) Hips
+[2022.07.07-07.02.53:519][483]LogFbx: SortedLinks :(1) Spine
+[2022.07.07-07.02.53:519][483]LogFbx: SortedLinks :(2) Spine1
+[2022.07.07-07.02.53:519][483]LogFbx: SortedLinks :(3) Spine2
+[2022.07.07-07.02.53:519][483]LogFbx: SortedLinks :(4) Neck
+[2022.07.07-07.02.53:519][483]LogFbx: SortedLinks :(5) Head
+[2022.07.07-07.02.53:519][483]LogFbx: SortedLinks :(6) HeadTop_End
+[2022.07.07-07.02.53:519][483]LogFbx: SortedLinks :(7) LeftEye
+[2022.07.07-07.02.53:519][483]LogFbx: SortedLinks :(8) RightEye
+[2022.07.07-07.02.53:519][483]LogFbx: SortedLinks :(9) LeftShoulder
+[2022.07.07-07.02.53:519][483]LogFbx: SortedLinks :(10) LeftArm
+[2022.07.07-07.02.53:519][483]LogFbx: SortedLinks :(11) LeftForeArm
+[2022.07.07-07.02.53:519][483]LogFbx: SortedLinks :(12) LeftHand
+[2022.07.07-07.02.53:519][483]LogFbx: SortedLinks :(13) LeftHandThumb1
+[2022.07.07-07.02.53:519][483]LogFbx: SortedLinks :(14) LeftHandThumb2
+[2022.07.07-07.02.53:519][483]LogFbx: SortedLinks :(15) LeftHandThumb3
+[2022.07.07-07.02.53:519][483]LogFbx: SortedLinks :(16) LeftHandThumb4
+[2022.07.07-07.02.53:519][483]LogFbx: SortedLinks :(17) LeftHandIndex1
+[2022.07.07-07.02.53:519][483]LogFbx: SortedLinks :(18) LeftHandIndex2
+[2022.07.07-07.02.53:519][483]LogFbx: SortedLinks :(19) LeftHandIndex3
+[2022.07.07-07.02.53:519][483]LogFbx: SortedLinks :(20) LeftHandIndex4
+[2022.07.07-07.02.53:519][483]LogFbx: SortedLinks :(21) LeftHandMiddle1
+[2022.07.07-07.02.53:519][483]LogFbx: SortedLinks :(22) LeftHandMiddle2
+[2022.07.07-07.02.53:519][483]LogFbx: SortedLinks :(23) LeftHandMiddle3
+[2022.07.07-07.02.53:519][483]LogFbx: SortedLinks :(24) LeftHandMiddle4
+[2022.07.07-07.02.53:519][483]LogFbx: SortedLinks :(25) LeftHandRing1
+[2022.07.07-07.02.53:519][483]LogFbx: SortedLinks :(26) LeftHandRing2
+[2022.07.07-07.02.53:519][483]LogFbx: SortedLinks :(27) LeftHandRing3
+[2022.07.07-07.02.53:519][483]LogFbx: SortedLinks :(28) LeftHandRing4
+[2022.07.07-07.02.53:519][483]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2022.07.07-07.02.53:519][483]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2022.07.07-07.02.53:519][483]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2022.07.07-07.02.53:519][483]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2022.07.07-07.02.53:519][483]LogFbx: SortedLinks :(33) RightShoulder
+[2022.07.07-07.02.53:519][483]LogFbx: SortedLinks :(34) RightArm
+[2022.07.07-07.02.53:519][483]LogFbx: SortedLinks :(35) RightForeArm
+[2022.07.07-07.02.53:519][483]LogFbx: SortedLinks :(36) RightHand
+[2022.07.07-07.02.53:519][483]LogFbx: SortedLinks :(37) RightHandPinky1
+[2022.07.07-07.02.53:519][483]LogFbx: SortedLinks :(38) RightHandPinky2
+[2022.07.07-07.02.53:519][483]LogFbx: SortedLinks :(39) RightHandPinky3
+[2022.07.07-07.02.53:519][483]LogFbx: SortedLinks :(40) RightHandPinky4
+[2022.07.07-07.02.53:519][483]LogFbx: SortedLinks :(41) RightHandRing1
+[2022.07.07-07.02.53:519][483]LogFbx: SortedLinks :(42) RightHandRing2
+[2022.07.07-07.02.53:519][483]LogFbx: SortedLinks :(43) RightHandRing3
+[2022.07.07-07.02.53:519][483]LogFbx: SortedLinks :(44) RightHandRing4
+[2022.07.07-07.02.53:519][483]LogFbx: SortedLinks :(45) RightHandMiddle1
+[2022.07.07-07.02.53:519][483]LogFbx: SortedLinks :(46) RightHandMiddle2
+[2022.07.07-07.02.53:520][483]LogFbx: SortedLinks :(47) RightHandMiddle3
+[2022.07.07-07.02.53:520][483]LogFbx: SortedLinks :(48) RightHandMiddle4
+[2022.07.07-07.02.53:520][483]LogFbx: SortedLinks :(49) RightHandIndex1
+[2022.07.07-07.02.53:520][483]LogFbx: SortedLinks :(50) RightHandIndex2
+[2022.07.07-07.02.53:520][483]LogFbx: SortedLinks :(51) RightHandIndex3
+[2022.07.07-07.02.53:520][483]LogFbx: SortedLinks :(52) RightHandIndex4
+[2022.07.07-07.02.53:520][483]LogFbx: SortedLinks :(53) RightHandThumb1
+[2022.07.07-07.02.53:520][483]LogFbx: SortedLinks :(54) RightHandThumb2
+[2022.07.07-07.02.53:520][483]LogFbx: SortedLinks :(55) RightHandThumb3
+[2022.07.07-07.02.53:520][483]LogFbx: SortedLinks :(56) RightHandThumb4
+[2022.07.07-07.02.53:520][483]LogFbx: SortedLinks :(57) LeftUpLeg
+[2022.07.07-07.02.53:520][483]LogFbx: SortedLinks :(58) LeftLeg
+[2022.07.07-07.02.53:520][483]LogFbx: SortedLinks :(59) LeftFoot
+[2022.07.07-07.02.53:520][483]LogFbx: SortedLinks :(60) LeftToeBase
+[2022.07.07-07.02.53:520][483]LogFbx: SortedLinks :(61) LeftToe_End
+[2022.07.07-07.02.53:520][483]LogFbx: SortedLinks :(62) RightUpLeg
+[2022.07.07-07.02.53:520][483]LogFbx: SortedLinks :(63) RightLeg
+[2022.07.07-07.02.53:520][483]LogFbx: SortedLinks :(64) RightFoot
+[2022.07.07-07.02.53:520][483]LogFbx: SortedLinks :(65) RightToeBase
+[2022.07.07-07.02.53:520][483]LogFbx: SortedLinks :(66) RightToe_End
+[2022.07.07-07.02.53:520][483]LogFbx: Parsing AnimStack Take 001
+[2022.07.07-07.02.53:756][483]LogFbx: Parsing AnimStack mixamo.com
+[2022.07.07-07.02.54:306][483]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 E:\School\GDS213\Disorder\Animations\Standing React Small From Front.fbx)
+[2022.07.07-07.02.54:323][483]LogFbx: Loading FBX Scene from E:\School\GDS213\Disorder\Animations\Standing React Small From Front.fbx
+[2022.07.07-07.02.54:368][483]LogFbx: FBX Scene Loaded Succesfully
+[2022.07.07-07.02.54:373][483]LogFbx: SortedLinks :(0) Hips
+[2022.07.07-07.02.54:373][483]LogFbx: SortedLinks :(1) Spine
+[2022.07.07-07.02.54:373][483]LogFbx: SortedLinks :(2) Spine1
+[2022.07.07-07.02.54:373][483]LogFbx: SortedLinks :(3) Spine2
+[2022.07.07-07.02.54:373][483]LogFbx: SortedLinks :(4) Neck
+[2022.07.07-07.02.54:373][483]LogFbx: SortedLinks :(5) Head
+[2022.07.07-07.02.54:373][483]LogFbx: SortedLinks :(6) HeadTop_End
+[2022.07.07-07.02.54:373][483]LogFbx: SortedLinks :(7) LeftEye
+[2022.07.07-07.02.54:373][483]LogFbx: SortedLinks :(8) RightEye
+[2022.07.07-07.02.54:373][483]LogFbx: SortedLinks :(9) LeftShoulder
+[2022.07.07-07.02.54:373][483]LogFbx: SortedLinks :(10) LeftArm
+[2022.07.07-07.02.54:373][483]LogFbx: SortedLinks :(11) LeftForeArm
+[2022.07.07-07.02.54:373][483]LogFbx: SortedLinks :(12) LeftHand
+[2022.07.07-07.02.54:373][483]LogFbx: SortedLinks :(13) LeftHandThumb1
+[2022.07.07-07.02.54:373][483]LogFbx: SortedLinks :(14) LeftHandThumb2
+[2022.07.07-07.02.54:373][483]LogFbx: SortedLinks :(15) LeftHandThumb3
+[2022.07.07-07.02.54:373][483]LogFbx: SortedLinks :(16) LeftHandThumb4
+[2022.07.07-07.02.54:373][483]LogFbx: SortedLinks :(17) LeftHandIndex1
+[2022.07.07-07.02.54:373][483]LogFbx: SortedLinks :(18) LeftHandIndex2
+[2022.07.07-07.02.54:373][483]LogFbx: SortedLinks :(19) LeftHandIndex3
+[2022.07.07-07.02.54:373][483]LogFbx: SortedLinks :(20) LeftHandIndex4
+[2022.07.07-07.02.54:373][483]LogFbx: SortedLinks :(21) LeftHandMiddle1
+[2022.07.07-07.02.54:373][483]LogFbx: SortedLinks :(22) LeftHandMiddle2
+[2022.07.07-07.02.54:373][483]LogFbx: SortedLinks :(23) LeftHandMiddle3
+[2022.07.07-07.02.54:373][483]LogFbx: SortedLinks :(24) LeftHandMiddle4
+[2022.07.07-07.02.54:373][483]LogFbx: SortedLinks :(25) LeftHandRing1
+[2022.07.07-07.02.54:373][483]LogFbx: SortedLinks :(26) LeftHandRing2
+[2022.07.07-07.02.54:373][483]LogFbx: SortedLinks :(27) LeftHandRing3
+[2022.07.07-07.02.54:373][483]LogFbx: SortedLinks :(28) LeftHandRing4
+[2022.07.07-07.02.54:373][483]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2022.07.07-07.02.54:373][483]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2022.07.07-07.02.54:373][483]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2022.07.07-07.02.54:373][483]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2022.07.07-07.02.54:373][483]LogFbx: SortedLinks :(33) RightShoulder
+[2022.07.07-07.02.54:373][483]LogFbx: SortedLinks :(34) RightArm
+[2022.07.07-07.02.54:373][483]LogFbx: SortedLinks :(35) RightForeArm
+[2022.07.07-07.02.54:373][483]LogFbx: SortedLinks :(36) RightHand
+[2022.07.07-07.02.54:373][483]LogFbx: SortedLinks :(37) RightHandPinky1
+[2022.07.07-07.02.54:374][483]LogFbx: SortedLinks :(38) RightHandPinky2
+[2022.07.07-07.02.54:374][483]LogFbx: SortedLinks :(39) RightHandPinky3
+[2022.07.07-07.02.54:374][483]LogFbx: SortedLinks :(40) RightHandPinky4
+[2022.07.07-07.02.54:374][483]LogFbx: SortedLinks :(41) RightHandRing1
+[2022.07.07-07.02.54:374][483]LogFbx: SortedLinks :(42) RightHandRing2
+[2022.07.07-07.02.54:374][483]LogFbx: SortedLinks :(43) RightHandRing3
+[2022.07.07-07.02.54:374][483]LogFbx: SortedLinks :(44) RightHandRing4
+[2022.07.07-07.02.54:374][483]LogFbx: SortedLinks :(45) RightHandMiddle1
+[2022.07.07-07.02.54:374][483]LogFbx: SortedLinks :(46) RightHandMiddle2
+[2022.07.07-07.02.54:374][483]LogFbx: SortedLinks :(47) RightHandMiddle3
+[2022.07.07-07.02.54:374][483]LogFbx: SortedLinks :(48) RightHandMiddle4
+[2022.07.07-07.02.54:374][483]LogFbx: SortedLinks :(49) RightHandIndex1
+[2022.07.07-07.02.54:374][483]LogFbx: SortedLinks :(50) RightHandIndex2
+[2022.07.07-07.02.54:374][483]LogFbx: SortedLinks :(51) RightHandIndex3
+[2022.07.07-07.02.54:374][483]LogFbx: SortedLinks :(52) RightHandIndex4
+[2022.07.07-07.02.54:374][483]LogFbx: SortedLinks :(53) RightHandThumb1
+[2022.07.07-07.02.54:374][483]LogFbx: SortedLinks :(54) RightHandThumb2
+[2022.07.07-07.02.54:374][483]LogFbx: SortedLinks :(55) RightHandThumb3
+[2022.07.07-07.02.54:374][483]LogFbx: SortedLinks :(56) RightHandThumb4
+[2022.07.07-07.02.54:374][483]LogFbx: SortedLinks :(57) LeftUpLeg
+[2022.07.07-07.02.54:374][483]LogFbx: SortedLinks :(58) LeftLeg
+[2022.07.07-07.02.54:374][483]LogFbx: SortedLinks :(59) LeftFoot
+[2022.07.07-07.02.54:374][483]LogFbx: SortedLinks :(60) LeftToeBase
+[2022.07.07-07.02.54:374][483]LogFbx: SortedLinks :(61) LeftToe_End
+[2022.07.07-07.02.54:374][483]LogFbx: SortedLinks :(62) RightUpLeg
+[2022.07.07-07.02.54:374][483]LogFbx: SortedLinks :(63) RightLeg
+[2022.07.07-07.02.54:374][483]LogFbx: SortedLinks :(64) RightFoot
+[2022.07.07-07.02.54:374][483]LogFbx: SortedLinks :(65) RightToeBase
+[2022.07.07-07.02.54:374][483]LogFbx: SortedLinks :(66) RightToe_End
+[2022.07.07-07.02.54:374][483]LogFbx: SortedLinks :(0) Hips
+[2022.07.07-07.02.54:374][483]LogFbx: SortedLinks :(1) Spine
+[2022.07.07-07.02.54:374][483]LogFbx: SortedLinks :(2) Spine1
+[2022.07.07-07.02.54:374][483]LogFbx: SortedLinks :(3) Spine2
+[2022.07.07-07.02.54:374][483]LogFbx: SortedLinks :(4) Neck
+[2022.07.07-07.02.54:374][483]LogFbx: SortedLinks :(5) Head
+[2022.07.07-07.02.54:374][483]LogFbx: SortedLinks :(6) HeadTop_End
+[2022.07.07-07.02.54:374][483]LogFbx: SortedLinks :(7) LeftEye
+[2022.07.07-07.02.54:374][483]LogFbx: SortedLinks :(8) RightEye
+[2022.07.07-07.02.54:374][483]LogFbx: SortedLinks :(9) LeftShoulder
+[2022.07.07-07.02.54:374][483]LogFbx: SortedLinks :(10) LeftArm
+[2022.07.07-07.02.54:374][483]LogFbx: SortedLinks :(11) LeftForeArm
+[2022.07.07-07.02.54:374][483]LogFbx: SortedLinks :(12) LeftHand
+[2022.07.07-07.02.54:374][483]LogFbx: SortedLinks :(13) LeftHandThumb1
+[2022.07.07-07.02.54:374][483]LogFbx: SortedLinks :(14) LeftHandThumb2
+[2022.07.07-07.02.54:374][483]LogFbx: SortedLinks :(15) LeftHandThumb3
+[2022.07.07-07.02.54:374][483]LogFbx: SortedLinks :(16) LeftHandThumb4
+[2022.07.07-07.02.54:374][483]LogFbx: SortedLinks :(17) LeftHandIndex1
+[2022.07.07-07.02.54:374][483]LogFbx: SortedLinks :(18) LeftHandIndex2
+[2022.07.07-07.02.54:374][483]LogFbx: SortedLinks :(19) LeftHandIndex3
+[2022.07.07-07.02.54:374][483]LogFbx: SortedLinks :(20) LeftHandIndex4
+[2022.07.07-07.02.54:374][483]LogFbx: SortedLinks :(21) LeftHandMiddle1
+[2022.07.07-07.02.54:374][483]LogFbx: SortedLinks :(22) LeftHandMiddle2
+[2022.07.07-07.02.54:374][483]LogFbx: SortedLinks :(23) LeftHandMiddle3
+[2022.07.07-07.02.54:374][483]LogFbx: SortedLinks :(24) LeftHandMiddle4
+[2022.07.07-07.02.54:374][483]LogFbx: SortedLinks :(25) LeftHandRing1
+[2022.07.07-07.02.54:374][483]LogFbx: SortedLinks :(26) LeftHandRing2
+[2022.07.07-07.02.54:374][483]LogFbx: SortedLinks :(27) LeftHandRing3
+[2022.07.07-07.02.54:374][483]LogFbx: SortedLinks :(28) LeftHandRing4
+[2022.07.07-07.02.54:374][483]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2022.07.07-07.02.54:374][483]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2022.07.07-07.02.54:374][483]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2022.07.07-07.02.54:374][483]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2022.07.07-07.02.54:374][483]LogFbx: SortedLinks :(33) RightShoulder
+[2022.07.07-07.02.54:374][483]LogFbx: SortedLinks :(34) RightArm
+[2022.07.07-07.02.54:374][483]LogFbx: SortedLinks :(35) RightForeArm
+[2022.07.07-07.02.54:374][483]LogFbx: SortedLinks :(36) RightHand
+[2022.07.07-07.02.54:374][483]LogFbx: SortedLinks :(37) RightHandPinky1
+[2022.07.07-07.02.54:374][483]LogFbx: SortedLinks :(38) RightHandPinky2
+[2022.07.07-07.02.54:374][483]LogFbx: SortedLinks :(39) RightHandPinky3
+[2022.07.07-07.02.54:374][483]LogFbx: SortedLinks :(40) RightHandPinky4
+[2022.07.07-07.02.54:374][483]LogFbx: SortedLinks :(41) RightHandRing1
+[2022.07.07-07.02.54:374][483]LogFbx: SortedLinks :(42) RightHandRing2
+[2022.07.07-07.02.54:375][483]LogFbx: SortedLinks :(43) RightHandRing3
+[2022.07.07-07.02.54:375][483]LogFbx: SortedLinks :(44) RightHandRing4
+[2022.07.07-07.02.54:375][483]LogFbx: SortedLinks :(45) RightHandMiddle1
+[2022.07.07-07.02.54:375][483]LogFbx: SortedLinks :(46) RightHandMiddle2
+[2022.07.07-07.02.54:375][483]LogFbx: SortedLinks :(47) RightHandMiddle3
+[2022.07.07-07.02.54:375][483]LogFbx: SortedLinks :(48) RightHandMiddle4
+[2022.07.07-07.02.54:375][483]LogFbx: SortedLinks :(49) RightHandIndex1
+[2022.07.07-07.02.54:375][483]LogFbx: SortedLinks :(50) RightHandIndex2
+[2022.07.07-07.02.54:375][483]LogFbx: SortedLinks :(51) RightHandIndex3
+[2022.07.07-07.02.54:375][483]LogFbx: SortedLinks :(52) RightHandIndex4
+[2022.07.07-07.02.54:375][483]LogFbx: SortedLinks :(53) RightHandThumb1
+[2022.07.07-07.02.54:375][483]LogFbx: SortedLinks :(54) RightHandThumb2
+[2022.07.07-07.02.54:375][483]LogFbx: SortedLinks :(55) RightHandThumb3
+[2022.07.07-07.02.54:375][483]LogFbx: SortedLinks :(56) RightHandThumb4
+[2022.07.07-07.02.54:375][483]LogFbx: SortedLinks :(57) LeftUpLeg
+[2022.07.07-07.02.54:375][483]LogFbx: SortedLinks :(58) LeftLeg
+[2022.07.07-07.02.54:375][483]LogFbx: SortedLinks :(59) LeftFoot
+[2022.07.07-07.02.54:375][483]LogFbx: SortedLinks :(60) LeftToeBase
+[2022.07.07-07.02.54:375][483]LogFbx: SortedLinks :(61) LeftToe_End
+[2022.07.07-07.02.54:375][483]LogFbx: SortedLinks :(62) RightUpLeg
+[2022.07.07-07.02.54:375][483]LogFbx: SortedLinks :(63) RightLeg
+[2022.07.07-07.02.54:375][483]LogFbx: SortedLinks :(64) RightFoot
+[2022.07.07-07.02.54:375][483]LogFbx: SortedLinks :(65) RightToeBase
+[2022.07.07-07.02.54:375][483]LogFbx: SortedLinks :(66) RightToe_End
+[2022.07.07-07.02.54:375][483]LogFbx: Parsing AnimStack Take 001
+[2022.07.07-07.02.54:447][483]LogFbx: Parsing AnimStack mixamo.com
+[2022.07.07-07.02.54:665][483]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 E:\School\GDS213\Disorder\Animations\Standing Torch Inspect Forward.fbx)
+[2022.07.07-07.02.54:680][483]LogFbx: Loading FBX Scene from E:\School\GDS213\Disorder\Animations\Standing Torch Inspect Forward.fbx
+[2022.07.07-07.02.54:730][483]LogFbx: FBX Scene Loaded Succesfully
+[2022.07.07-07.02.54:734][483]LogFbx: SortedLinks :(0) Hips
+[2022.07.07-07.02.54:734][483]LogFbx: SortedLinks :(1) Spine
+[2022.07.07-07.02.54:734][483]LogFbx: SortedLinks :(2) Spine1
+[2022.07.07-07.02.54:734][483]LogFbx: SortedLinks :(3) Spine2
+[2022.07.07-07.02.54:734][483]LogFbx: SortedLinks :(4) Neck
+[2022.07.07-07.02.54:734][483]LogFbx: SortedLinks :(5) Head
+[2022.07.07-07.02.54:734][483]LogFbx: SortedLinks :(6) HeadTop_End
+[2022.07.07-07.02.54:734][483]LogFbx: SortedLinks :(7) LeftEye
+[2022.07.07-07.02.54:734][483]LogFbx: SortedLinks :(8) RightEye
+[2022.07.07-07.02.54:734][483]LogFbx: SortedLinks :(9) LeftShoulder
+[2022.07.07-07.02.54:734][483]LogFbx: SortedLinks :(10) LeftArm
+[2022.07.07-07.02.54:734][483]LogFbx: SortedLinks :(11) LeftForeArm
+[2022.07.07-07.02.54:734][483]LogFbx: SortedLinks :(12) LeftHand
+[2022.07.07-07.02.54:734][483]LogFbx: SortedLinks :(13) LeftHandThumb1
+[2022.07.07-07.02.54:734][483]LogFbx: SortedLinks :(14) LeftHandThumb2
+[2022.07.07-07.02.54:734][483]LogFbx: SortedLinks :(15) LeftHandThumb3
+[2022.07.07-07.02.54:734][483]LogFbx: SortedLinks :(16) LeftHandThumb4
+[2022.07.07-07.02.54:734][483]LogFbx: SortedLinks :(17) LeftHandIndex1
+[2022.07.07-07.02.54:734][483]LogFbx: SortedLinks :(18) LeftHandIndex2
+[2022.07.07-07.02.54:734][483]LogFbx: SortedLinks :(19) LeftHandIndex3
+[2022.07.07-07.02.54:734][483]LogFbx: SortedLinks :(20) LeftHandIndex4
+[2022.07.07-07.02.54:734][483]LogFbx: SortedLinks :(21) LeftHandMiddle1
+[2022.07.07-07.02.54:734][483]LogFbx: SortedLinks :(22) LeftHandMiddle2
+[2022.07.07-07.02.54:734][483]LogFbx: SortedLinks :(23) LeftHandMiddle3
+[2022.07.07-07.02.54:734][483]LogFbx: SortedLinks :(24) LeftHandMiddle4
+[2022.07.07-07.02.54:734][483]LogFbx: SortedLinks :(25) LeftHandRing1
+[2022.07.07-07.02.54:734][483]LogFbx: SortedLinks :(26) LeftHandRing2
+[2022.07.07-07.02.54:734][483]LogFbx: SortedLinks :(27) LeftHandRing3
+[2022.07.07-07.02.54:734][483]LogFbx: SortedLinks :(28) LeftHandRing4
+[2022.07.07-07.02.54:734][483]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2022.07.07-07.02.54:734][483]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2022.07.07-07.02.54:734][483]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2022.07.07-07.02.54:734][483]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2022.07.07-07.02.54:734][483]LogFbx: SortedLinks :(33) RightShoulder
+[2022.07.07-07.02.54:734][483]LogFbx: SortedLinks :(34) RightArm
+[2022.07.07-07.02.54:734][483]LogFbx: SortedLinks :(35) RightForeArm
+[2022.07.07-07.02.54:734][483]LogFbx: SortedLinks :(36) RightHand
+[2022.07.07-07.02.54:734][483]LogFbx: SortedLinks :(37) RightHandPinky1
+[2022.07.07-07.02.54:734][483]LogFbx: SortedLinks :(38) RightHandPinky2
+[2022.07.07-07.02.54:734][483]LogFbx: SortedLinks :(39) RightHandPinky3
+[2022.07.07-07.02.54:734][483]LogFbx: SortedLinks :(40) RightHandPinky4
+[2022.07.07-07.02.54:734][483]LogFbx: SortedLinks :(41) RightHandRing1
+[2022.07.07-07.02.54:734][483]LogFbx: SortedLinks :(42) RightHandRing2
+[2022.07.07-07.02.54:734][483]LogFbx: SortedLinks :(43) RightHandRing3
+[2022.07.07-07.02.54:734][483]LogFbx: SortedLinks :(44) RightHandRing4
+[2022.07.07-07.02.54:734][483]LogFbx: SortedLinks :(45) RightHandMiddle1
+[2022.07.07-07.02.54:734][483]LogFbx: SortedLinks :(46) RightHandMiddle2
+[2022.07.07-07.02.54:735][483]LogFbx: SortedLinks :(47) RightHandMiddle3
+[2022.07.07-07.02.54:735][483]LogFbx: SortedLinks :(48) RightHandMiddle4
+[2022.07.07-07.02.54:735][483]LogFbx: SortedLinks :(49) RightHandIndex1
+[2022.07.07-07.02.54:735][483]LogFbx: SortedLinks :(50) RightHandIndex2
+[2022.07.07-07.02.54:735][483]LogFbx: SortedLinks :(51) RightHandIndex3
+[2022.07.07-07.02.54:735][483]LogFbx: SortedLinks :(52) RightHandIndex4
+[2022.07.07-07.02.54:735][483]LogFbx: SortedLinks :(53) RightHandThumb1
+[2022.07.07-07.02.54:735][483]LogFbx: SortedLinks :(54) RightHandThumb2
+[2022.07.07-07.02.54:735][483]LogFbx: SortedLinks :(55) RightHandThumb3
+[2022.07.07-07.02.54:735][483]LogFbx: SortedLinks :(56) RightHandThumb4
+[2022.07.07-07.02.54:735][483]LogFbx: SortedLinks :(57) LeftUpLeg
+[2022.07.07-07.02.54:735][483]LogFbx: SortedLinks :(58) LeftLeg
+[2022.07.07-07.02.54:735][483]LogFbx: SortedLinks :(59) LeftFoot
+[2022.07.07-07.02.54:735][483]LogFbx: SortedLinks :(60) LeftToeBase
+[2022.07.07-07.02.54:735][483]LogFbx: SortedLinks :(61) LeftToe_End
+[2022.07.07-07.02.54:735][483]LogFbx: SortedLinks :(62) RightUpLeg
+[2022.07.07-07.02.54:735][483]LogFbx: SortedLinks :(63) RightLeg
+[2022.07.07-07.02.54:735][483]LogFbx: SortedLinks :(64) RightFoot
+[2022.07.07-07.02.54:735][483]LogFbx: SortedLinks :(65) RightToeBase
+[2022.07.07-07.02.54:735][483]LogFbx: SortedLinks :(66) RightToe_End
+[2022.07.07-07.02.54:735][483]LogFbx: SortedLinks :(0) Hips
+[2022.07.07-07.02.54:735][483]LogFbx: SortedLinks :(1) Spine
+[2022.07.07-07.02.54:735][483]LogFbx: SortedLinks :(2) Spine1
+[2022.07.07-07.02.54:735][483]LogFbx: SortedLinks :(3) Spine2
+[2022.07.07-07.02.54:735][483]LogFbx: SortedLinks :(4) Neck
+[2022.07.07-07.02.54:735][483]LogFbx: SortedLinks :(5) Head
+[2022.07.07-07.02.54:735][483]LogFbx: SortedLinks :(6) HeadTop_End
+[2022.07.07-07.02.54:735][483]LogFbx: SortedLinks :(7) LeftEye
+[2022.07.07-07.02.54:735][483]LogFbx: SortedLinks :(8) RightEye
+[2022.07.07-07.02.54:735][483]LogFbx: SortedLinks :(9) LeftShoulder
+[2022.07.07-07.02.54:735][483]LogFbx: SortedLinks :(10) LeftArm
+[2022.07.07-07.02.54:735][483]LogFbx: SortedLinks :(11) LeftForeArm
+[2022.07.07-07.02.54:735][483]LogFbx: SortedLinks :(12) LeftHand
+[2022.07.07-07.02.54:735][483]LogFbx: SortedLinks :(13) LeftHandThumb1
+[2022.07.07-07.02.54:735][483]LogFbx: SortedLinks :(14) LeftHandThumb2
+[2022.07.07-07.02.54:735][483]LogFbx: SortedLinks :(15) LeftHandThumb3
+[2022.07.07-07.02.54:735][483]LogFbx: SortedLinks :(16) LeftHandThumb4
+[2022.07.07-07.02.54:735][483]LogFbx: SortedLinks :(17) LeftHandIndex1
+[2022.07.07-07.02.54:735][483]LogFbx: SortedLinks :(18) LeftHandIndex2
+[2022.07.07-07.02.54:735][483]LogFbx: SortedLinks :(19) LeftHandIndex3
+[2022.07.07-07.02.54:735][483]LogFbx: SortedLinks :(20) LeftHandIndex4
+[2022.07.07-07.02.54:735][483]LogFbx: SortedLinks :(21) LeftHandMiddle1
+[2022.07.07-07.02.54:735][483]LogFbx: SortedLinks :(22) LeftHandMiddle2
+[2022.07.07-07.02.54:735][483]LogFbx: SortedLinks :(23) LeftHandMiddle3
+[2022.07.07-07.02.54:735][483]LogFbx: SortedLinks :(24) LeftHandMiddle4
+[2022.07.07-07.02.54:735][483]LogFbx: SortedLinks :(25) LeftHandRing1
+[2022.07.07-07.02.54:735][483]LogFbx: SortedLinks :(26) LeftHandRing2
+[2022.07.07-07.02.54:735][483]LogFbx: SortedLinks :(27) LeftHandRing3
+[2022.07.07-07.02.54:735][483]LogFbx: SortedLinks :(28) LeftHandRing4
+[2022.07.07-07.02.54:735][483]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2022.07.07-07.02.54:735][483]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2022.07.07-07.02.54:735][483]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2022.07.07-07.02.54:735][483]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2022.07.07-07.02.54:735][483]LogFbx: SortedLinks :(33) RightShoulder
+[2022.07.07-07.02.54:735][483]LogFbx: SortedLinks :(34) RightArm
+[2022.07.07-07.02.54:735][483]LogFbx: SortedLinks :(35) RightForeArm
+[2022.07.07-07.02.54:735][483]LogFbx: SortedLinks :(36) RightHand
+[2022.07.07-07.02.54:735][483]LogFbx: SortedLinks :(37) RightHandPinky1
+[2022.07.07-07.02.54:735][483]LogFbx: SortedLinks :(38) RightHandPinky2
+[2022.07.07-07.02.54:735][483]LogFbx: SortedLinks :(39) RightHandPinky3
+[2022.07.07-07.02.54:735][483]LogFbx: SortedLinks :(40) RightHandPinky4
+[2022.07.07-07.02.54:735][483]LogFbx: SortedLinks :(41) RightHandRing1
+[2022.07.07-07.02.54:735][483]LogFbx: SortedLinks :(42) RightHandRing2
+[2022.07.07-07.02.54:735][483]LogFbx: SortedLinks :(43) RightHandRing3
+[2022.07.07-07.02.54:735][483]LogFbx: SortedLinks :(44) RightHandRing4
+[2022.07.07-07.02.54:735][483]LogFbx: SortedLinks :(45) RightHandMiddle1
+[2022.07.07-07.02.54:735][483]LogFbx: SortedLinks :(46) RightHandMiddle2
+[2022.07.07-07.02.54:735][483]LogFbx: SortedLinks :(47) RightHandMiddle3
+[2022.07.07-07.02.54:735][483]LogFbx: SortedLinks :(48) RightHandMiddle4
+[2022.07.07-07.02.54:735][483]LogFbx: SortedLinks :(49) RightHandIndex1
+[2022.07.07-07.02.54:735][483]LogFbx: SortedLinks :(50) RightHandIndex2
+[2022.07.07-07.02.54:735][483]LogFbx: SortedLinks :(51) RightHandIndex3
+[2022.07.07-07.02.54:735][483]LogFbx: SortedLinks :(52) RightHandIndex4
+[2022.07.07-07.02.54:736][483]LogFbx: SortedLinks :(53) RightHandThumb1
+[2022.07.07-07.02.54:736][483]LogFbx: SortedLinks :(54) RightHandThumb2
+[2022.07.07-07.02.54:736][483]LogFbx: SortedLinks :(55) RightHandThumb3
+[2022.07.07-07.02.54:736][483]LogFbx: SortedLinks :(56) RightHandThumb4
+[2022.07.07-07.02.54:736][483]LogFbx: SortedLinks :(57) LeftUpLeg
+[2022.07.07-07.02.54:736][483]LogFbx: SortedLinks :(58) LeftLeg
+[2022.07.07-07.02.54:736][483]LogFbx: SortedLinks :(59) LeftFoot
+[2022.07.07-07.02.54:736][483]LogFbx: SortedLinks :(60) LeftToeBase
+[2022.07.07-07.02.54:736][483]LogFbx: SortedLinks :(61) LeftToe_End
+[2022.07.07-07.02.54:736][483]LogFbx: SortedLinks :(62) RightUpLeg
+[2022.07.07-07.02.54:736][483]LogFbx: SortedLinks :(63) RightLeg
+[2022.07.07-07.02.54:736][483]LogFbx: SortedLinks :(64) RightFoot
+[2022.07.07-07.02.54:736][483]LogFbx: SortedLinks :(65) RightToeBase
+[2022.07.07-07.02.54:736][483]LogFbx: SortedLinks :(66) RightToe_End
+[2022.07.07-07.02.54:736][483]LogFbx: Parsing AnimStack Take 001
+[2022.07.07-07.02.54:805][483]LogFbx: Parsing AnimStack mixamo.com
+[2022.07.07-07.02.55:430][483]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TopDownBP/MichaelM/Animations/Standing_React_Small_From_Front_Take_001.Standing_React_Small_From_Front_Take_001
+[2022.07.07-07.02.55:430][483]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TopDownBP/MichaelM/Animations/Standing_Torch_Inspect_Forward_Take_001.Standing_Torch_Inspect_Forward_Take_001
+[2022.07.07-07.02.55:430][483]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TopDownBP/MichaelM/Animations/Standing_React_Small_From_Front_mixamo_com.Standing_React_Small_From_Front_mixamo_com
+[2022.07.07-07.02.55:430][483]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TopDownBP/MichaelM/Animations/Standing_Torch_Inspect_Forward_mixamo_com.Standing_Torch_Inspect_Forward_mixamo_com
+[2022.07.07-07.02.55:430][483]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TopDownBP/MichaelM/Animations/Standing_Block_React_Large_mixamo_com.Standing_Block_React_Large_mixamo_com
+[2022.07.07-07.02.55:430][483]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TopDownBP/MichaelM/Animations/Standing_Block_React_Large_Take_001.Standing_Block_React_Large_Take_001
+[2022.07.07-07.02.55:430][483]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TopDownBP/MichaelM/Animations/Injured_Walking_mixamo_com.Injured_Walking_mixamo_com
+[2022.07.07-07.02.55:430][483]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TopDownBP/MichaelM/Animations/Injured_Walking_Take_001.Injured_Walking_Take_001
+[2022.07.07-07.02.55:430][483]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TopDownBP/MichaelM/Animations/Injured_Idle_mixamo_com.Injured_Idle_mixamo_com
+[2022.07.07-07.02.55:430][483]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 E:\School\GDS213\Disorder\Animations\Standing Torch Light Torch.fbx)
+[2022.07.07-07.02.55:449][483]LogFbx: Loading FBX Scene from E:\School\GDS213\Disorder\Animations\Standing Torch Light Torch.fbx
+[2022.07.07-07.02.55:505][483]LogFbx: FBX Scene Loaded Succesfully
+[2022.07.07-07.02.55:510][483]LogFbx: SortedLinks :(0) Hips
+[2022.07.07-07.02.55:510][483]LogFbx: SortedLinks :(1) Spine
+[2022.07.07-07.02.55:510][483]LogFbx: SortedLinks :(2) Spine1
+[2022.07.07-07.02.55:510][483]LogFbx: SortedLinks :(3) Spine2
+[2022.07.07-07.02.55:510][483]LogFbx: SortedLinks :(4) Neck
+[2022.07.07-07.02.55:510][483]LogFbx: SortedLinks :(5) Head
+[2022.07.07-07.02.55:510][483]LogFbx: SortedLinks :(6) HeadTop_End
+[2022.07.07-07.02.55:510][483]LogFbx: SortedLinks :(7) LeftEye
+[2022.07.07-07.02.55:510][483]LogFbx: SortedLinks :(8) RightEye
+[2022.07.07-07.02.55:510][483]LogFbx: SortedLinks :(9) LeftShoulder
+[2022.07.07-07.02.55:510][483]LogFbx: SortedLinks :(10) LeftArm
+[2022.07.07-07.02.55:510][483]LogFbx: SortedLinks :(11) LeftForeArm
+[2022.07.07-07.02.55:510][483]LogFbx: SortedLinks :(12) LeftHand
+[2022.07.07-07.02.55:510][483]LogFbx: SortedLinks :(13) LeftHandThumb1
+[2022.07.07-07.02.55:510][483]LogFbx: SortedLinks :(14) LeftHandThumb2
+[2022.07.07-07.02.55:510][483]LogFbx: SortedLinks :(15) LeftHandThumb3
+[2022.07.07-07.02.55:510][483]LogFbx: SortedLinks :(16) LeftHandThumb4
+[2022.07.07-07.02.55:510][483]LogFbx: SortedLinks :(17) LeftHandIndex1
+[2022.07.07-07.02.55:510][483]LogFbx: SortedLinks :(18) LeftHandIndex2
+[2022.07.07-07.02.55:510][483]LogFbx: SortedLinks :(19) LeftHandIndex3
+[2022.07.07-07.02.55:510][483]LogFbx: SortedLinks :(20) LeftHandIndex4
+[2022.07.07-07.02.55:510][483]LogFbx: SortedLinks :(21) LeftHandMiddle1
+[2022.07.07-07.02.55:510][483]LogFbx: SortedLinks :(22) LeftHandMiddle2
+[2022.07.07-07.02.55:510][483]LogFbx: SortedLinks :(23) LeftHandMiddle3
+[2022.07.07-07.02.55:510][483]LogFbx: SortedLinks :(24) LeftHandMiddle4
+[2022.07.07-07.02.55:510][483]LogFbx: SortedLinks :(25) LeftHandRing1
+[2022.07.07-07.02.55:510][483]LogFbx: SortedLinks :(26) LeftHandRing2
+[2022.07.07-07.02.55:510][483]LogFbx: SortedLinks :(27) LeftHandRing3
+[2022.07.07-07.02.55:510][483]LogFbx: SortedLinks :(28) LeftHandRing4
+[2022.07.07-07.02.55:510][483]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2022.07.07-07.02.55:510][483]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2022.07.07-07.02.55:510][483]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2022.07.07-07.02.55:510][483]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2022.07.07-07.02.55:510][483]LogFbx: SortedLinks :(33) RightShoulder
+[2022.07.07-07.02.55:510][483]LogFbx: SortedLinks :(34) RightArm
+[2022.07.07-07.02.55:510][483]LogFbx: SortedLinks :(35) RightForeArm
+[2022.07.07-07.02.55:510][483]LogFbx: SortedLinks :(36) RightHand
+[2022.07.07-07.02.55:510][483]LogFbx: SortedLinks :(37) RightHandPinky1
+[2022.07.07-07.02.55:510][483]LogFbx: SortedLinks :(38) RightHandPinky2
+[2022.07.07-07.02.55:510][483]LogFbx: SortedLinks :(39) RightHandPinky3
+[2022.07.07-07.02.55:510][483]LogFbx: SortedLinks :(40) RightHandPinky4
+[2022.07.07-07.02.55:510][483]LogFbx: SortedLinks :(41) RightHandRing1
+[2022.07.07-07.02.55:510][483]LogFbx: SortedLinks :(42) RightHandRing2
+[2022.07.07-07.02.55:511][483]LogFbx: SortedLinks :(43) RightHandRing3
+[2022.07.07-07.02.55:511][483]LogFbx: SortedLinks :(44) RightHandRing4
+[2022.07.07-07.02.55:511][483]LogFbx: SortedLinks :(45) RightHandMiddle1
+[2022.07.07-07.02.55:511][483]LogFbx: SortedLinks :(46) RightHandMiddle2
+[2022.07.07-07.02.55:511][483]LogFbx: SortedLinks :(47) RightHandMiddle3
+[2022.07.07-07.02.55:511][483]LogFbx: SortedLinks :(48) RightHandMiddle4
+[2022.07.07-07.02.55:511][483]LogFbx: SortedLinks :(49) RightHandIndex1
+[2022.07.07-07.02.55:511][483]LogFbx: SortedLinks :(50) RightHandIndex2
+[2022.07.07-07.02.55:511][483]LogFbx: SortedLinks :(51) RightHandIndex3
+[2022.07.07-07.02.55:511][483]LogFbx: SortedLinks :(52) RightHandIndex4
+[2022.07.07-07.02.55:511][483]LogFbx: SortedLinks :(53) RightHandThumb1
+[2022.07.07-07.02.55:511][483]LogFbx: SortedLinks :(54) RightHandThumb2
+[2022.07.07-07.02.55:511][483]LogFbx: SortedLinks :(55) RightHandThumb3
+[2022.07.07-07.02.55:511][483]LogFbx: SortedLinks :(56) RightHandThumb4
+[2022.07.07-07.02.55:511][483]LogFbx: SortedLinks :(57) LeftUpLeg
+[2022.07.07-07.02.55:511][483]LogFbx: SortedLinks :(58) LeftLeg
+[2022.07.07-07.02.55:511][483]LogFbx: SortedLinks :(59) LeftFoot
+[2022.07.07-07.02.55:511][483]LogFbx: SortedLinks :(60) LeftToeBase
+[2022.07.07-07.02.55:511][483]LogFbx: SortedLinks :(61) LeftToe_End
+[2022.07.07-07.02.55:511][483]LogFbx: SortedLinks :(62) RightUpLeg
+[2022.07.07-07.02.55:511][483]LogFbx: SortedLinks :(63) RightLeg
+[2022.07.07-07.02.55:511][483]LogFbx: SortedLinks :(64) RightFoot
+[2022.07.07-07.02.55:511][483]LogFbx: SortedLinks :(65) RightToeBase
+[2022.07.07-07.02.55:511][483]LogFbx: SortedLinks :(66) RightToe_End
+[2022.07.07-07.02.55:511][483]LogFbx: SortedLinks :(0) Hips
+[2022.07.07-07.02.55:511][483]LogFbx: SortedLinks :(1) Spine
+[2022.07.07-07.02.55:511][483]LogFbx: SortedLinks :(2) Spine1
+[2022.07.07-07.02.55:511][483]LogFbx: SortedLinks :(3) Spine2
+[2022.07.07-07.02.55:511][483]LogFbx: SortedLinks :(4) Neck
+[2022.07.07-07.02.55:511][483]LogFbx: SortedLinks :(5) Head
+[2022.07.07-07.02.55:511][483]LogFbx: SortedLinks :(6) HeadTop_End
+[2022.07.07-07.02.55:511][483]LogFbx: SortedLinks :(7) LeftEye
+[2022.07.07-07.02.55:511][483]LogFbx: SortedLinks :(8) RightEye
+[2022.07.07-07.02.55:511][483]LogFbx: SortedLinks :(9) LeftShoulder
+[2022.07.07-07.02.55:511][483]LogFbx: SortedLinks :(10) LeftArm
+[2022.07.07-07.02.55:511][483]LogFbx: SortedLinks :(11) LeftForeArm
+[2022.07.07-07.02.55:511][483]LogFbx: SortedLinks :(12) LeftHand
+[2022.07.07-07.02.55:511][483]LogFbx: SortedLinks :(13) LeftHandThumb1
+[2022.07.07-07.02.55:511][483]LogFbx: SortedLinks :(14) LeftHandThumb2
+[2022.07.07-07.02.55:511][483]LogFbx: SortedLinks :(15) LeftHandThumb3
+[2022.07.07-07.02.55:511][483]LogFbx: SortedLinks :(16) LeftHandThumb4
+[2022.07.07-07.02.55:511][483]LogFbx: SortedLinks :(17) LeftHandIndex1
+[2022.07.07-07.02.55:511][483]LogFbx: SortedLinks :(18) LeftHandIndex2
+[2022.07.07-07.02.55:511][483]LogFbx: SortedLinks :(19) LeftHandIndex3
+[2022.07.07-07.02.55:511][483]LogFbx: SortedLinks :(20) LeftHandIndex4
+[2022.07.07-07.02.55:511][483]LogFbx: SortedLinks :(21) LeftHandMiddle1
+[2022.07.07-07.02.55:511][483]LogFbx: SortedLinks :(22) LeftHandMiddle2
+[2022.07.07-07.02.55:511][483]LogFbx: SortedLinks :(23) LeftHandMiddle3
+[2022.07.07-07.02.55:511][483]LogFbx: SortedLinks :(24) LeftHandMiddle4
+[2022.07.07-07.02.55:511][483]LogFbx: SortedLinks :(25) LeftHandRing1
+[2022.07.07-07.02.55:512][483]LogFbx: SortedLinks :(26) LeftHandRing2
+[2022.07.07-07.02.55:512][483]LogFbx: SortedLinks :(27) LeftHandRing3
+[2022.07.07-07.02.55:512][483]LogFbx: SortedLinks :(28) LeftHandRing4
+[2022.07.07-07.02.55:512][483]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2022.07.07-07.02.55:512][483]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2022.07.07-07.02.55:512][483]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2022.07.07-07.02.55:512][483]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2022.07.07-07.02.55:512][483]LogFbx: SortedLinks :(33) RightShoulder
+[2022.07.07-07.02.55:512][483]LogFbx: SortedLinks :(34) RightArm
+[2022.07.07-07.02.55:512][483]LogFbx: SortedLinks :(35) RightForeArm
+[2022.07.07-07.02.55:512][483]LogFbx: SortedLinks :(36) RightHand
+[2022.07.07-07.02.55:512][483]LogFbx: SortedLinks :(37) RightHandPinky1
+[2022.07.07-07.02.55:512][483]LogFbx: SortedLinks :(38) RightHandPinky2
+[2022.07.07-07.02.55:512][483]LogFbx: SortedLinks :(39) RightHandPinky3
+[2022.07.07-07.02.55:512][483]LogFbx: SortedLinks :(40) RightHandPinky4
+[2022.07.07-07.02.55:512][483]LogFbx: SortedLinks :(41) RightHandRing1
+[2022.07.07-07.02.55:512][483]LogFbx: SortedLinks :(42) RightHandRing2
+[2022.07.07-07.02.55:512][483]LogFbx: SortedLinks :(43) RightHandRing3
+[2022.07.07-07.02.55:512][483]LogFbx: SortedLinks :(44) RightHandRing4
+[2022.07.07-07.02.55:512][483]LogFbx: SortedLinks :(45) RightHandMiddle1
+[2022.07.07-07.02.55:512][483]LogFbx: SortedLinks :(46) RightHandMiddle2
+[2022.07.07-07.02.55:512][483]LogFbx: SortedLinks :(47) RightHandMiddle3
+[2022.07.07-07.02.55:512][483]LogFbx: SortedLinks :(48) RightHandMiddle4
+[2022.07.07-07.02.55:512][483]LogFbx: SortedLinks :(49) RightHandIndex1
+[2022.07.07-07.02.55:512][483]LogFbx: SortedLinks :(50) RightHandIndex2
+[2022.07.07-07.02.55:512][483]LogFbx: SortedLinks :(51) RightHandIndex3
+[2022.07.07-07.02.55:512][483]LogFbx: SortedLinks :(52) RightHandIndex4
+[2022.07.07-07.02.55:512][483]LogFbx: SortedLinks :(53) RightHandThumb1
+[2022.07.07-07.02.55:512][483]LogFbx: SortedLinks :(54) RightHandThumb2
+[2022.07.07-07.02.55:512][483]LogFbx: SortedLinks :(55) RightHandThumb3
+[2022.07.07-07.02.55:512][483]LogFbx: SortedLinks :(56) RightHandThumb4
+[2022.07.07-07.02.55:512][483]LogFbx: SortedLinks :(57) LeftUpLeg
+[2022.07.07-07.02.55:512][483]LogFbx: SortedLinks :(58) LeftLeg
+[2022.07.07-07.02.55:512][483]LogFbx: SortedLinks :(59) LeftFoot
+[2022.07.07-07.02.55:512][483]LogFbx: SortedLinks :(60) LeftToeBase
+[2022.07.07-07.02.55:512][483]LogFbx: SortedLinks :(61) LeftToe_End
+[2022.07.07-07.02.55:512][483]LogFbx: SortedLinks :(62) RightUpLeg
+[2022.07.07-07.02.55:512][483]LogFbx: SortedLinks :(63) RightLeg
+[2022.07.07-07.02.55:512][483]LogFbx: SortedLinks :(64) RightFoot
+[2022.07.07-07.02.55:512][483]LogFbx: SortedLinks :(65) RightToeBase
+[2022.07.07-07.02.55:513][483]LogFbx: SortedLinks :(66) RightToe_End
+[2022.07.07-07.02.55:513][483]LogFbx: Parsing AnimStack Take 001
+[2022.07.07-07.02.55:602][483]LogFbx: Parsing AnimStack mixamo.com
+[2022.07.07-07.02.56:144][484]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TopDownBP/MichaelM/Animations/Standing_Torch_Light_Torch_mixamo_com.Standing_Torch_Light_Torch_mixamo_com
+[2022.07.07-07.02.56:144][484]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TopDownBP/MichaelM/Animations/Standing_Torch_Light_Torch_Take_001.Standing_Torch_Light_Torch_Take_001
+[2022.07.07-07.02.56:505][486]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TopDownBP/MichaelM/Animations/Standing_Torch_Inspect_Forward_mixamo_com.Standing_Torch_Inspect_Forward_mixamo_com
+[2022.07.07-07.03.07:875][518]LogUObjectHash: Compacting FUObjectHashTables data took  38.07ms
+[2022.07.07-07.03.09:196][518]LogSlate: Window 'Save Content' being destroyed
+[2022.07.07-07.03.09:268][518]LogSavePackage: Moving '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Saved/Climbing_Down_Wall_mixamo_com1838B5624A5E1B19D7D2599AA6934D9A.tmp' to '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Content/TopDownBP/MichaelM/Animations/Climbing_Down_Wall_mixamo_com.uasset'
+[2022.07.07-07.03.09:319][518]LogSavePackage: Moving '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Saved/Climbing_Down_Wall_Take_001AF6DAE854D0677AA3FDEA1A3491030AC.tmp' to '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Content/TopDownBP/MichaelM/Animations/Climbing_Down_Wall_Take_001.uasset'
+[2022.07.07-07.03.09:338][518]LogSavePackage: Moving '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Saved/Climbing_mixamo_com1E03779A45A4AC96E3C11AB723655D5C.tmp' to '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Content/TopDownBP/MichaelM/Animations/Climbing_mixamo_com.uasset'
+[2022.07.07-07.03.09:364][518]LogSavePackage: Moving '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Saved/Climbing_Take_001B21347D442C347775E0C26A2BBAE531E.tmp' to '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Content/TopDownBP/MichaelM/Animations/Climbing_Take_001.uasset'
+[2022.07.07-07.03.09:401][518]LogSavePackage: Moving '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Saved/Climbing_Up_Wall_mixamo_com70B5CF8B458A5E3E8CD2B1A8C1684124.tmp' to '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Content/TopDownBP/MichaelM/Animations/Climbing_Up_Wall_mixamo_com.uasset'
+[2022.07.07-07.03.09:418][518]LogSavePackage: Moving '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Saved/Climbing_Up_Wall_Take_00164A128074C4E19E5A590FD8426C78048.tmp' to '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Content/TopDownBP/MichaelM/Animations/Climbing_Up_Wall_Take_001.uasset'
+[2022.07.07-07.03.09:437][518]LogSavePackage: Moving '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Saved/Grab_Rifle_From_The_Side_And_Put30A25FC64BAE7F908C31C6A5EA8B6FD9.tmp' to '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Content/TopDownBP/MichaelM/Animations/Grab_Rifle_From_The_Side_And_Put_Back_mixamo_com.uasset'
+[2022.07.07-07.03.09:454][518]LogSavePackage: Moving '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Saved/Grab_Rifle_From_The_Side_And_Put294602E646605307910FDEB0C1F4BCA5.tmp' to '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Content/TopDownBP/MichaelM/Animations/Grab_Rifle_From_The_Side_And_Put_Back_Take_001.uasset'
+[2022.07.07-07.03.09:512][518]LogSavePackage: Moving '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Saved/Injured_Idle_mixamo_com8E39B7C94C857B73ECBD998C82D49986.tmp' to '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Content/TopDownBP/MichaelM/Animations/Injured_Idle_mixamo_com.uasset'
+[2022.07.07-07.03.09:529][518]LogSavePackage: Moving '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Saved/Injured_Idle_Take_001B7047C9B481A0F58261CBFBCCAEBCA70.tmp' to '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Content/TopDownBP/MichaelM/Animations/Injured_Idle_Take_001.uasset'
+[2022.07.07-07.03.09:547][518]LogSavePackage: Moving '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Saved/Injured_Walking_mixamo_comC993A3B748E22EE0895405BCBE441A5C.tmp' to '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Content/TopDownBP/MichaelM/Animations/Injured_Walking_mixamo_com.uasset'
+[2022.07.07-07.03.09:564][518]LogSavePackage: Moving '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Saved/Injured_Walking_Take_001DBF85A0B4E0725C23EE1F3843E82244D.tmp' to '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Content/TopDownBP/MichaelM/Animations/Injured_Walking_Take_001.uasset'
+[2022.07.07-07.03.09:596][518]LogSavePackage: Moving '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Saved/PlayerCharacterTest0719FEE646FC0F9EEA1B7D9DAF8475C0.tmp' to '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Content/TopDownBP/MichaelM/Blueprints/PlayerCharacterTest.uasset'
+[2022.07.07-07.03.09:614][518]LogSavePackage: Moving '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Saved/Standing_Block_React_Large_mixam08945A61459A4178F86F4DA68E2B7F9D.tmp' to '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Content/TopDownBP/MichaelM/Animations/Standing_Block_React_Large_mixamo_com.uasset'
+[2022.07.07-07.03.09:634][518]LogSavePackage: Moving '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Saved/Standing_Block_React_Large_Take_C5D459B2400FF2551F150E9F293EB79C.tmp' to '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Content/TopDownBP/MichaelM/Animations/Standing_Block_React_Large_Take_001.uasset'
+[2022.07.07-07.03.09:663][518]LogSavePackage: Moving '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Saved/Standing_React_Small_From_Front_20E72F7441E02302963ABD88E529D15C.tmp' to '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Content/TopDownBP/MichaelM/Animations/Standing_React_Small_From_Front_mixamo_com.uasset'
+[2022.07.07-07.03.09:681][518]LogSavePackage: Moving '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Saved/Standing_React_Small_From_Front_D49590F04A0895F86991B3A7560CD146.tmp' to '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Content/TopDownBP/MichaelM/Animations/Standing_React_Small_From_Front_Take_001.uasset'
+[2022.07.07-07.03.09:698][518]LogSavePackage: Moving '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Saved/Standing_Torch_Inspect_Forward_m992ED7AF4BA1A1BAE532A1B25881FF69.tmp' to '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Content/TopDownBP/MichaelM/Animations/Standing_Torch_Inspect_Forward_mixamo_com.uasset'
+[2022.07.07-07.03.09:751][518]LogSavePackage: Moving '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Saved/Standing_Torch_Inspect_Forward_T77B714404F6D8FFDEA74249E026989D8.tmp' to '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Content/TopDownBP/MichaelM/Animations/Standing_Torch_Inspect_Forward_Take_001.uasset'
+[2022.07.07-07.03.09:769][518]LogSavePackage: Moving '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Saved/Standing_Torch_Light_Torch_mixam762C1F7146F453D9637C1497E0C67291.tmp' to '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Content/TopDownBP/MichaelM/Animations/Standing_Torch_Light_Torch_mixamo_com.uasset'
+[2022.07.07-07.03.09:791][518]LogSavePackage: Moving '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Saved/Standing_Torch_Light_Torch_Take_C1E05D0A4E204B8243CE2AA8BF206DDA.tmp' to '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Content/TopDownBP/MichaelM/Animations/Standing_Torch_Light_Torch_Take_001.uasset'
+[2022.07.07-07.03.09:818][518]LogSavePackage: Moving '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Saved/Standing_Torch_Melee_Attack_03_mB95AEA2D43C5A49E5B96FEBCC5AD68CC.tmp' to '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Content/TopDownBP/MichaelM/Animations/Standing_Torch_Melee_Attack_03_mixamo_com.uasset'
+[2022.07.07-07.03.09:867][518]LogSavePackage: Moving '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Saved/Standing_Torch_Melee_Attack_03_TD583340943E99ECD4BE40F97143BF1C7.tmp' to '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Content/TopDownBP/MichaelM/Animations/Standing_Torch_Melee_Attack_03_Take_001.uasset'
+[2022.07.07-07.03.09:884][518]LogSavePackage: Moving '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Saved/Standing_Torch_Walk_Forward_Stop56DAD7984E36DE6BFAD776910E67E295.tmp' to '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Content/TopDownBP/MichaelM/Animations/Standing_Torch_Walk_Forward_Stop_mixamo_com.uasset'
+[2022.07.07-07.03.09:902][518]LogSavePackage: Moving '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Saved/Standing_Torch_Walk_Forward_StopF53DB6D24DBCFE4B989BD2BD46B87EE1.tmp' to '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Content/TopDownBP/MichaelM/Animations/Standing_Torch_Walk_Forward_Stop_Take_001.uasset'
+[2022.07.07-07.03.09:923][518]LogSavePackage: Moving '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Saved/Standing_W_Briefcase_Idle_mixamoCDA0864246F5DB668DA3418D85AD811F.tmp' to '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Content/TopDownBP/MichaelM/Animations/Standing_W_Briefcase_Idle_mixamo_com.uasset'
+[2022.07.07-07.03.09:965][518]LogSavePackage: Moving '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Saved/Standing_W_Briefcase_Idle_Take_0BB651357497602A1AB94EE8FA0F00909.tmp' to '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Content/TopDownBP/MichaelM/Animations/Standing_W_Briefcase_Idle_Take_001.uasset'
+[2022.07.07-07.03.10:042][518]LogSavePackage: Moving '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Saved/Unarmed_Equip_Torch_01_mixamo_co1D77738247958269486D7F8BB6D56035.tmp' to '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Content/TopDownBP/MichaelM/Animations/Unarmed_Equip_Torch_01_mixamo_com.uasset'
+[2022.07.07-07.03.10:061][518]LogSavePackage: Moving '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Saved/Unarmed_Equip_Torch_01_Take_001F21EA0DE49D5D5C2C512DAA34F97EA07.tmp' to '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Content/TopDownBP/MichaelM/Animations/Unarmed_Equip_Torch_01_Take_001.uasset'
+[2022.07.07-07.03.10:094][518]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.07-07.03.10:094][518]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/MichaelM/Blueprints/PlayerCharacterTest.PlayerCharacterTest
+[2022.07.07-07.03.10:094][518]LogContentValidation: Display: Validating AnimSequence /Game/TopDownBP/MichaelM/Animations/Standing_Torch_Light_Torch_mixamo_com.Standing_Torch_Light_Torch_mixamo_com
+[2022.07.07-07.03.10:094][518]LogContentValidation: Display: Validating AnimSequence /Game/TopDownBP/MichaelM/Animations/Standing_Torch_Light_Torch_Take_001.Standing_Torch_Light_Torch_Take_001
+[2022.07.07-07.03.10:094][518]LogContentValidation: Display: Validating AnimSequence /Game/TopDownBP/MichaelM/Animations/Standing_Torch_Inspect_Forward_mixamo_com.Standing_Torch_Inspect_Forward_mixamo_com
+[2022.07.07-07.03.10:094][518]LogContentValidation: Display: Validating AnimSequence /Game/TopDownBP/MichaelM/Animations/Standing_Torch_Inspect_Forward_Take_001.Standing_Torch_Inspect_Forward_Take_001
+[2022.07.07-07.03.10:094][518]LogContentValidation: Display: Validating AnimSequence /Game/TopDownBP/MichaelM/Animations/Standing_React_Small_From_Front_mixamo_com.Standing_React_Small_From_Front_mixamo_com
+[2022.07.07-07.03.10:094][518]LogContentValidation: Display: Validating AnimSequence /Game/TopDownBP/MichaelM/Animations/Standing_React_Small_From_Front_Take_001.Standing_React_Small_From_Front_Take_001
+[2022.07.07-07.03.10:094][518]LogContentValidation: Display: Validating AnimSequence /Game/TopDownBP/MichaelM/Animations/Standing_Block_React_Large_mixamo_com.Standing_Block_React_Large_mixamo_com
+[2022.07.07-07.03.10:094][518]LogContentValidation: Display: Validating AnimSequence /Game/TopDownBP/MichaelM/Animations/Standing_Block_React_Large_Take_001.Standing_Block_React_Large_Take_001
+[2022.07.07-07.03.10:094][518]LogContentValidation: Display: Validating AnimSequence /Game/TopDownBP/MichaelM/Animations/Injured_Walking_mixamo_com.Injured_Walking_mixamo_com
+[2022.07.07-07.03.10:094][518]LogContentValidation: Display: Validating AnimSequence /Game/TopDownBP/MichaelM/Animations/Injured_Walking_Take_001.Injured_Walking_Take_001
+[2022.07.07-07.03.10:094][518]LogContentValidation: Display: Validating AnimSequence /Game/TopDownBP/MichaelM/Animations/Injured_Idle_mixamo_com.Injured_Idle_mixamo_com
+[2022.07.07-07.03.10:094][518]LogContentValidation: Display: Validating AnimSequence /Game/TopDownBP/MichaelM/Animations/Injured_Idle_Take_001.Injured_Idle_Take_001
+[2022.07.07-07.03.10:094][518]LogContentValidation: Display: Validating AnimSequence /Game/TopDownBP/MichaelM/Animations/Grab_Rifle_From_The_Side_And_Put_Back_mixamo_com.Grab_Rifle_From_The_Side_And_Put_Back_mixamo_com
+[2022.07.07-07.03.10:094][518]LogContentValidation: Display: Validating AnimSequence /Game/TopDownBP/MichaelM/Animations/Grab_Rifle_From_The_Side_And_Put_Back_Take_001.Grab_Rifle_From_The_Side_And_Put_Back_Take_001
+[2022.07.07-07.03.10:094][518]LogContentValidation: Display: Validating AnimSequence /Game/TopDownBP/MichaelM/Animations/Climbing_mixamo_com.Climbing_mixamo_com
+[2022.07.07-07.03.10:094][518]LogContentValidation: Display: Validating AnimSequence /Game/TopDownBP/MichaelM/Animations/Climbing_Take_001.Climbing_Take_001
+[2022.07.07-07.03.10:094][518]LogContentValidation: Display: Validating AnimSequence /Game/TopDownBP/MichaelM/Animations/Climbing_Up_Wall_mixamo_com.Climbing_Up_Wall_mixamo_com
+[2022.07.07-07.03.10:094][518]LogContentValidation: Display: Validating AnimSequence /Game/TopDownBP/MichaelM/Animations/Climbing_Up_Wall_Take_001.Climbing_Up_Wall_Take_001
+[2022.07.07-07.03.10:094][518]LogContentValidation: Display: Validating AnimSequence /Game/TopDownBP/MichaelM/Animations/Climbing_Down_Wall_mixamo_com.Climbing_Down_Wall_mixamo_com
+[2022.07.07-07.03.10:094][518]LogContentValidation: Display: Validating AnimSequence /Game/TopDownBP/MichaelM/Animations/Climbing_Down_Wall_Take_001.Climbing_Down_Wall_Take_001
+[2022.07.07-07.03.10:094][518]LogContentValidation: Display: Validating AnimSequence /Game/TopDownBP/MichaelM/Animations/Unarmed_Equip_Torch_01_mixamo_com.Unarmed_Equip_Torch_01_mixamo_com
+[2022.07.07-07.03.10:094][518]LogContentValidation: Display: Validating AnimSequence /Game/TopDownBP/MichaelM/Animations/Unarmed_Equip_Torch_01_Take_001.Unarmed_Equip_Torch_01_Take_001
+[2022.07.07-07.03.10:094][518]LogContentValidation: Display: Validating AnimSequence /Game/TopDownBP/MichaelM/Animations/Standing_W_Briefcase_Idle_mixamo_com.Standing_W_Briefcase_Idle_mixamo_com
+[2022.07.07-07.03.10:094][518]LogContentValidation: Display: Validating AnimSequence /Game/TopDownBP/MichaelM/Animations/Standing_W_Briefcase_Idle_Take_001.Standing_W_Briefcase_Idle_Take_001
+[2022.07.07-07.03.10:094][518]LogContentValidation: Display: Validating AnimSequence /Game/TopDownBP/MichaelM/Animations/Standing_Torch_Walk_Forward_Stop_mixamo_com.Standing_Torch_Walk_Forward_Stop_mixamo_com
+[2022.07.07-07.03.10:095][518]LogContentValidation: Display: Validating AnimSequence /Game/TopDownBP/MichaelM/Animations/Standing_Torch_Walk_Forward_Stop_Take_001.Standing_Torch_Walk_Forward_Stop_Take_001
+[2022.07.07-07.03.10:095][518]LogContentValidation: Display: Validating AnimSequence /Game/TopDownBP/MichaelM/Animations/Standing_Torch_Melee_Attack_03_mixamo_com.Standing_Torch_Melee_Attack_03_mixamo_com
+[2022.07.07-07.03.10:095][518]LogContentValidation: Display: Validating AnimSequence /Game/TopDownBP/MichaelM/Animations/Standing_Torch_Melee_Attack_03_Take_001.Standing_Torch_Melee_Attack_03_Take_001
