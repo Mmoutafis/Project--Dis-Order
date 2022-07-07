@@ -3791,3 +3791,293 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.07.07-07.03.10:095][518]LogContentValidation: Display: Validating AnimSequence /Game/TopDownBP/MichaelM/Animations/Standing_Torch_Walk_Forward_Stop_Take_001.Standing_Torch_Walk_Forward_Stop_Take_001
 [2022.07.07-07.03.10:095][518]LogContentValidation: Display: Validating AnimSequence /Game/TopDownBP/MichaelM/Animations/Standing_Torch_Melee_Attack_03_mixamo_com.Standing_Torch_Melee_Attack_03_mixamo_com
 [2022.07.07-07.03.10:095][518]LogContentValidation: Display: Validating AnimSequence /Game/TopDownBP/MichaelM/Animations/Standing_Torch_Melee_Attack_03_Take_001.Standing_Torch_Melee_Attack_03_Take_001
+[2022.07.07-07.03.47:206][251]LogTemp: Repeating last play command: Selected Viewport
+[2022.07.07-07.03.49:146][251]LogFMOD: Default sample rate = 48000
+[2022.07.07-07.03.49:146][251]LogFMOD: System sample rate = 44100
+[2022.07.07-07.03.49:146][251]LogFMOD: Matching system sample rate 44100
+[2022.07.07-07.03.49:160][251]LogFMOD: Warning: Master bank (Master.bank) not found.
+[2022.07.07-07.03.49:198][251]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.07.07-07.03.49:200][251]LogPlayLevel: [PlayLevel] Compiling PlayerCharacterTest before play...
+[2022.07.07-07.03.49:393][251]LogUObjectHash: Compacting FUObjectHashTables data took   7.71ms
+[2022.07.07-07.03.49:434][251]LogPlayLevel: PlayLevel: Blueprint regeneration took 235 ms (1 blueprints)
+[2022.07.07-07.03.49:434][251]PIE: New page: PIE session: TopDownExampleMap1 (8 Jul 2022, 3:03:49 am)
+[2022.07.07-07.03.49:468][251]LogPlayLevel: Creating play world package: /Game/TopDownBP/MichaelM/Maps/UEDPIE_0_TopDownExampleMap1
+[2022.07.07-07.03.49:486][251]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017950s)
+[2022.07.07-07.03.49:487][251]LogAIModule: Creating AISystem for world TopDownExampleMap1
+[2022.07.07-07.03.49:488][251]LogPlayLevel: PIE: World Init took: (0.002073s)
+[2022.07.07-07.03.49:488][251]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/MichaelM/Maps/TopDownExampleMap1.TopDownExampleMap1 to /Game/TopDownBP/MichaelM/Maps/UEDPIE_0_TopDownExampleMap1.TopDownExampleMap1 (0.020268s)
+[2022.07.07-07.03.49:534][251]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2022.07.07-07.03.49:536][251]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2022.07.07-07.03.49:536][251]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.07-07.03.49:536][251]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.07-07.03.49:536][251]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.07-07.03.49:536][251]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.07-07.03.49:536][251]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.07-07.03.49:536][251]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.07-07.03.49:536][251]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.07-07.03.49:536][251]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.07-07.03.49:536][251]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.07-07.03.49:536][251]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.07-07.03.49:536][251]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.07-07.03.49:536][251]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.07-07.03.49:730][251]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.07-07.03.49:730][251]LogAudioMixer: Display: 1: FrontRight
+[2022.07.07-07.03.49:730][251]LogAudioMixer: Display: 2: FrontCenter
+[2022.07.07-07.03.49:730][251]LogAudioMixer: Display: 3: LowFrequency
+[2022.07.07-07.03.49:730][251]LogAudioMixer: Display: 4: BackLeft
+[2022.07.07-07.03.49:730][251]LogAudioMixer: Display: 5: BackRight
+[2022.07.07-07.03.49:730][251]LogAudioMixer: Display: 6: SideLeft
+[2022.07.07-07.03.49:730][251]LogAudioMixer: Display: 7: SideRight
+[2022.07.07-07.03.49:739][251]LogAudioMixer: Display: Using Audio Device Speakers (Logitech PRO X Gaming Headset)
+[2022.07.07-07.03.49:739][251]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.07-07.03.49:740][251]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.07-07.03.49:740][251]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.07-07.03.49:740][251]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.07-07.03.49:740][251]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.07-07.03.49:740][251]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.07.07-07.03.49:741][251]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.07-07.03.49:741][251]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.07-07.03.49:741][251]LogInit: FAudioDevice initialized.
+[2022.07.07-07.03.49:741][251]LogAudio: Display: Audio Device (ID: 11) registered with world 'TopDownExampleMap1'.
+[2022.07.07-07.03.49:756][251]LogLoad: Game class is 'TopDownGameMode1_C'
+[2022.07.07-07.03.49:758][251]LogWorld: Bringing World /Game/TopDownBP/MichaelM/Maps/UEDPIE_0_TopDownExampleMap1.TopDownExampleMap1 up for play (max tick rate 0) at 2022.07.07-17.03.49
+[2022.07.07-07.03.49:759][251]LogWorld: Bringing up level for play took: 0.001439
+[2022.07.07-07.03.49:759][251]LogOnline: OSS: Creating online subsystem instance for: :Context_40
+[2022.07.07-07.03.49:800][251]PIE: Server logged in
+[2022.07.07-07.03.49:800][251]PIE: Play in editor total start time 0.706 seconds.
+[2022.07.07-07.03.51:963][501]LogBlueprintUserMessages: [PlayerCharacterTest_C_0] Affected
+[2022.07.07-07.03.55:054][863]LogBlueprintUserMessages: [PlayerCharacterTest_C_0] Affected
+[2022.07.07-07.03.58:380][262]LogBlueprintUserMessages: [PlayerCharacterTest_C_0] Affected
+[2022.07.07-07.04.00:204][462]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.07-07.04.00:204][462]LogWorld: BeginTearingDown for /Game/TopDownBP/MichaelM/Maps/UEDPIE_0_TopDownExampleMap1
+[2022.07.07-07.04.00:204][462]LogWorld: UWorld::CleanupWorld for TopDownExampleMap1, bSessionEnded=true, bCleanupResources=true
+[2022.07.07-07.04.00:217][462]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.07-07.04.00:225][462]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.07-07.04.00:233][462]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.07-07.04.00:273][462]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.07-07.04.00:273][462]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.07-07.04.00:274][462]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.07-07.04.00:284][462]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2022.07.07-07.04.00:309][463]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2022.07.07-07.05.08:794][444]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2022.07.07-07.05.08:794][444]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.07-07.05.09:417][444]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2022.07.07-07.05.09:417][444]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.07-07.05.28:886][729]BlueprintLog: New page: Compile PlayerCharacterTest
+[2022.07.07-07.05.29:474][729]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2022.07.07-07.05.55:421][908]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.07.07-07.05.55:421][908]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.07-07.07.06:511][742]LogContentBrowser: Deferred new asset file creation: Standing_React_Small_From_Front_mixamo_com_Montage
+[2022.07.07-07.07.06:607][742]LogContentBrowser: Creating deferred item: Standing_React_Small_From_Front_mixamo_com_Montage
+[2022.07.07-07.07.08:952][988]LogContentBrowser: Attempting asset rename: Standing_React_Small_From_Front_mixamo_com_Montage -> Standing_React_Small_From_Front_mixamo_com_Montage
+[2022.07.07-07.07.08:953][988]LogContentBrowser: End creating deferred item Standing_React_Small_From_Front_mixamo_com_Montage
+[2022.07.07-07.07.10:437][140]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/TopDownBP/MichaelM/Animations/Standing_React_Small_From_Front_mixamo_com_Montage.Standing_React_Small_From_Front_mixamo_com_Montage
+[2022.07.07-07.07.10:441][140]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.07-07.07.32:548][656]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/TopDownBP/MichaelM/Animations/Mixamo_Base.Mixamo_Base
+[2022.07.07-07.07.32:580][656]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.07-07.07.33:305][656]LogUObjectGlobals: Warning: Failed to find object 'Class None.ControlRigBlueprint'
+[2022.07.07-07.07.33:338][657]LogRenderer: Reallocating scene render targets to support 1616x1244 Format 10 NumSamples 1 (Frame:1).
+[2022.07.07-07.07.34:530][790]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/TopDownBP/MichaelM/Animations/Mixamo_Base_Skeleton.Mixamo_Base_Skeleton
+[2022.07.07-07.07.34:547][790]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_33:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.07-07.08.32:637][919]LogUObjectHash: Compacting FUObjectHashTables data took   5.53ms
+[2022.07.07-07.08.34:105][919]LogSlate: Window 'Delete Assets' being destroyed
+[2022.07.07-07.08.34:268][919]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2022.07.07-07.08.34:268][919]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.07-07.08.34:292][919]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2022.07.07-07.08.34:292][919]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.07-07.08.34:305][919]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/TopDownBP/MichaelM/Animations/Standing_React_Small_From_Front_mixamo_com_Montage.Standing_React_Small_From_Front_mixamo_com_Montage
+[2022.07.07-07.08.39:355][919]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2022.07.07-07.09.04:261][472]LogContentBrowser: Deferred new asset file creation: Standing_React_Small_From_Front_mixamo_com1
+[2022.07.07-07.09.04:311][472]LogContentBrowser: Creating deferred item: Standing_React_Small_From_Front_mixamo_com1
+[2022.07.07-07.09.05:605][594]LogContentBrowser: Attempting asset rename: Standing_React_Small_From_Front_mixamo_com1 -> Standing_React_Small_From_Front_mixamo_com1
+[2022.07.07-07.09.05:628][594]LogContentBrowser: End creating deferred item Standing_React_Small_From_Front_mixamo_com1
+[2022.07.07-07.09.06:288][658]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/TopDownBP/MichaelM/Animations/Standing_React_Small_From_Front_mixamo_com1.Standing_React_Small_From_Front_mixamo_com1
+[2022.07.07-07.09.06:291][658]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.07-07.09.06:653][658]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.07.07-07.09.16:235][696]LogSlate: Took 0.095194 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.07.07-07.09.36:721][977]LogSavePackage: Moving '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Saved/Mixamo_Base_Skeleton68B27FAD4D2AFE38171EA58B3658F498.tmp' to '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Content/TopDownBP/MichaelM/Animations/Mixamo_Base_Skeleton.uasset'
+[2022.07.07-07.09.36:747][977]AssetCheck: New page: Asset Save: Mixamo_Base_Skeleton
+[2022.07.07-07.09.36:747][977]LogContentValidation: Display: Validating Skeleton /Game/TopDownBP/MichaelM/Animations/Mixamo_Base_Skeleton.Mixamo_Base_Skeleton
+[2022.07.07-07.10.11:749][979]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/TopDownBP/MichaelM/Animations/Stable_Sword_Inward_Slash__1__mixamo_com1.Stable_Sword_Inward_Slash__1__mixamo_com1
+[2022.07.07-07.10.11:760][979]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.07-07.10.12:242][979]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.07.07-07.10.14:064][176]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.SK_Mannequin
+[2022.07.07-07.10.14:067][176]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_39:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.07-07.10.14:347][176]LogUObjectGlobals: Warning: Failed to find object 'Class None.ControlRigBlueprint'
+[2022.07.07-07.10.15:916][352]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton
+[2022.07.07-07.10.15:919][352]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_40:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.07-07.10.31:488][ 96]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2022.07.07-07.10.31:488][ 96]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.07-07.10.31:545][ 96]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2022.07.07-07.10.31:545][ 96]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.07-07.10.36:826][695]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2022.07.07-07.10.36:826][695]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.07-07.10.38:932][912]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2022.07.07-07.10.38:932][912]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.07-07.13.09:721][130]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2022.07.07-07.13.09:735][130]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDownBP/MichaelM/Maps/TopDownExampleMap1' took 0.081
+[2022.07.07-07.13.09:735][130]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/MichaelM/Blueprints/PlayerCharacterTest] ([2] browsable assets)...
+[2022.07.07-07.13.09:746][130]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDownBP/MichaelM/Blueprints/PlayerCharacterTest.PlayerCharacterTest]
+[2022.07.07-07.13.09:746][130]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/MichaelM/Blueprints/PlayerCharacterTest]
+[2022.07.07-07.13.09:772][130]LogSavePackage: Moving '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Saved/PlayerCharacterTest_Auto4E77AA2A7485436F40654CFBE337121D7.tmp' to '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Saved/Autosaves/Game/TopDownBP/MichaelM/Blueprints/PlayerCharacterTest_Auto4.uasset'
+[2022.07.07-07.13.09:774][130]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDownBP/MichaelM/Animations/Mixamo_Base_Skeleton] ([1] browsable assets)...
+[2022.07.07-07.13.09:774][130]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/MichaelM/Animations/Mixamo_Base_Skeleton]
+[2022.07.07-07.13.09:778][130]LogSavePackage: Moving '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Saved/Mixamo_Base_Skeleton_Auto4A0B86B374BDBDA81B7E64083FFC534CC.tmp' to '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Saved/Autosaves/Game/TopDownBP/MichaelM/Animations/Mixamo_Base_Skeleton_Auto4.uasset'
+[2022.07.07-07.13.09:780][130]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/MichaelM/Animations/Standing_React_Small_From_Front_mixamo_com1] ([1] browsable assets)...
+[2022.07.07-07.13.09:790][130]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/TopDownBP/MichaelM/Animations/Standing_React_Small_From_Front_mixamo_com1.Standing_React_Small_From_Front_mixamo_com1]
+[2022.07.07-07.13.09:790][130]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/MichaelM/Animations/Standing_React_Small_From_Front_mixamo_com1]
+[2022.07.07-07.13.09:863][130]LogSavePackage: Moving '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Saved/Standing_React_Small_From_Front_1DC93AD14B1C49382C91589B3A6F04AA.tmp' to '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Saved/Autosaves/Game/TopDownBP/MichaelM/Animations/Standing_React_Small_From_Front_mixamo_com1_Auto4.uasset'
+[2022.07.07-07.13.09:865][130]LogFileHelpers: Auto-saving content packages took 0.131
+[2022.07.07-07.13.48:496][678]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2022.07.07-07.13.48:496][678]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.07-07.14.24:840][577]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton
+[2022.07.07-07.14.24:849][577]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_41:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.07-07.16.55:207][864]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2022.07.07-07.17.04:199][901]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Standing_React_Small_From_Front_mixamo_com1.Standing_React_Small_From_Front_mixamo_com1
+[2022.07.07-07.17.04:199][901]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Standing_React_Small_From_Front_mixamo_com1.Standing_React_Small_From_Front_mixamo_com1
+[2022.07.07-07.17.04:207][901]LogSlate: Window 'Select Skeleton' being destroyed
+[2022.07.07-07.17.04:213][901]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2022.07.07-07.17.04:213][901]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.07-07.17.04:226][901]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2022.07.07-07.17.04:226][901]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.07-07.17.04:274][902]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Standing_React_Small_From_Front_mixamo_com1.Standing_React_Small_From_Front_mixamo_com1
+[2022.07.07-07.17.16:506][209]LogSlate: Window 'Failed Renames' being destroyed
+[2022.07.07-07.17.34:399][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2022.07.07-07.17.35:284][ 34]LogSlate: Window 'Delete Assets' being destroyed
+[2022.07.07-07.17.35:428][ 34]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2022.07.07-07.17.35:428][ 34]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.07-07.17.35:449][ 34]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2022.07.07-07.17.35:449][ 34]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.07-07.17.35:460][ 34]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/TopDownBP/MichaelM/Animations/Standing_React_Small_From_Front_mixamo_com1.Standing_React_Small_From_Front_mixamo_com1
+[2022.07.07-07.17.35:866][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2022.07.07-07.17.46:851][135]LogSavePackage: Moving '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Saved/Standing_React_Small_From_Front_EE52E8734FC18ACD052FEDA6093FF70C.tmp' to '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Content/TopDownBP/MichaelM/Animations/Standing_React_Small_From_Front_mixamo_com1.uasset'
+[2022.07.07-07.17.46:941][135]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2022.07.07-07.17.46:984][135]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2022.07.07-07.17.47:095][135]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.07.07-07.17.47:164][135]AssetCheck: New page: Asset Save: Standing_React_Small_From_Front_mixamo_com1
+[2022.07.07-07.17.47:164][135]LogContentValidation: Display: Validating AnimSequence /Game/TopDownBP/MichaelM/Animations/Standing_React_Small_From_Front_mixamo_com1.Standing_React_Small_From_Front_mixamo_com1
+[2022.07.07-07.17.56:660][102]LogContentBrowser: Deferred new asset file creation: Standing_React_Small_From_Front_mixamo_com1_Montage
+[2022.07.07-07.17.56:684][102]LogContentBrowser: Creating deferred item: Standing_React_Small_From_Front_mixamo_com1_Montage
+[2022.07.07-07.17.58:080][242]LogContentBrowser: Attempting asset rename: Standing_React_Small_From_Front_mixamo_com1_Montage -> Standing_React_Small_From_Front_mixamo_com1_Montage
+[2022.07.07-07.17.58:086][242]LogContentBrowser: End creating deferred item Standing_React_Small_From_Front_mixamo_com1_Montage
+[2022.07.07-07.17.59:560][380]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/TopDownBP/MichaelM/Animations/Standing_React_Small_From_Front_mixamo_com1_Montage.Standing_React_Small_From_Front_mixamo_com1_Montage
+[2022.07.07-07.17.59:563][380]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_44:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.07-07.18.07:447][252]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.SK_Mannequin
+[2022.07.07-07.18.07:460][252]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.07-07.18.07:699][252]LogUObjectGlobals: Warning: Failed to find object 'Class None.ControlRigBlueprint'
+[2022.07.07-07.18.20:290][653]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2022.07.07-07.18.20:290][653]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.07-07.21.59:661][307]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2022.07.07-07.22.00:738][307]LogSlate: Window 'Save Content' being destroyed
+[2022.07.07-07.22.00:781][307]LogSavePackage: Moving '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Saved/Mixamo_Base_SkeletonADFDD8FC43C1F4EE929A2EAD2501B323.tmp' to '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Content/TopDownBP/MichaelM/Animations/Mixamo_Base_Skeleton.uasset'
+[2022.07.07-07.22.00:811][307]LogSavePackage: Moving '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Saved/PlayerCharacterTestEB0EA70049FD99F7B87862B16F62501F.tmp' to '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Content/TopDownBP/MichaelM/Blueprints/PlayerCharacterTest.uasset'
+[2022.07.07-07.22.00:826][307]LogSavePackage: Moving '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Saved/Standing_React_Small_From_Front_CDDDEEED4970B01DC63D30983468FBD6.tmp' to '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Content/TopDownBP/MichaelM/Animations/Standing_React_Small_From_Front_mixamo_com1_Montage.uasset'
+[2022.07.07-07.22.00:832][307]LogSavePackage: Moving '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Saved/UE4_Mannequin_Skeleton29D277314100671BA7F9A891DF6233A2.tmp' to '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Content/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.uasset'
+[2022.07.07-07.22.00:855][307]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.07-07.22.00:855][307]LogContentValidation: Display: Validating Skeleton /Game/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton
+[2022.07.07-07.22.00:855][307]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/MichaelM/Blueprints/PlayerCharacterTest.PlayerCharacterTest
+[2022.07.07-07.22.00:855][307]LogContentValidation: Display: Validating AnimMontage /Game/TopDownBP/MichaelM/Animations/Standing_React_Small_From_Front_mixamo_com1_Montage.Standing_React_Small_From_Front_mixamo_com1_Montage
+[2022.07.07-07.22.00:855][307]LogContentValidation: Display: Validating Skeleton /Game/TopDownBP/MichaelM/Animations/Mixamo_Base_Skeleton.Mixamo_Base_Skeleton
+[2022.07.07-07.22.26:508][808]BlueprintLog: New page: Compile PlayerCharacterTest
+[2022.07.07-07.22.26:572][808]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2022.07.07-07.25.51:937][952]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2022.07.07-07.25.51:937][952]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDownBP/MichaelM/Maps/TopDownExampleMap1' took 0.040
+[2022.07.07-07.25.51:938][952]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/MichaelM/Blueprints/PlayerCharacterTest] ([2] browsable assets)...
+[2022.07.07-07.25.51:947][952]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDownBP/MichaelM/Blueprints/PlayerCharacterTest.PlayerCharacterTest]
+[2022.07.07-07.25.51:947][952]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/MichaelM/Blueprints/PlayerCharacterTest]
+[2022.07.07-07.25.51:970][952]LogSavePackage: Moving '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Saved/PlayerCharacterTest_Auto575881F1F432660FDBA0A61A6D4968E56.tmp' to '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Saved/Autosaves/Game/TopDownBP/MichaelM/Blueprints/PlayerCharacterTest_Auto5.uasset'
+[2022.07.07-07.25.51:971][952]LogFileHelpers: Auto-saving content packages took 0.034
+[2022.07.07-07.26.57:573][132]BlueprintLog: New page: Compile PlayerCharacterTest
+[2022.07.07-07.26.57:764][132]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2022.07.07-07.28.00:367][411]BlueprintLog: New page: Compile PlayerCharacterTest
+[2022.07.07-07.28.00:599][411]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2022.07.07-07.28.02:814][646]LogSavePackage: Moving '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Saved/PlayerCharacterTest71069B5A46BF44DB7ABD69955EAE7C37.tmp' to '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Content/TopDownBP/MichaelM/Blueprints/PlayerCharacterTest.uasset'
+[2022.07.07-07.28.02:836][646]AssetCheck: New page: Asset Save: PlayerCharacterTest
+[2022.07.07-07.28.02:836][646]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/MichaelM/Blueprints/PlayerCharacterTest.PlayerCharacterTest
+[2022.07.07-07.29.26:672][  4]BlueprintLog: New page: Compile PlayerCharacterTest
+[2022.07.07-07.29.26:744][  4]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2022.07.07-07.30.06:349][250]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.07.07-07.30.07:613][384]LogTemp: Repeating last play command: Selected Viewport
+[2022.07.07-07.30.07:658][384]LogFMOD: Default sample rate = 48000
+[2022.07.07-07.30.07:658][384]LogFMOD: System sample rate = 44100
+[2022.07.07-07.30.07:658][384]LogFMOD: Matching system sample rate 44100
+[2022.07.07-07.30.07:673][384]LogFMOD: Warning: Master bank (Master.bank) not found.
+[2022.07.07-07.30.07:710][384]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.07-07.30.07:710][384]PIE: New page: PIE session: TopDownExampleMap1 (8 Jul 2022, 3:30:07 am)
+[2022.07.07-07.30.07:759][384]LogPlayLevel: Creating play world package: /Game/TopDownBP/MichaelM/Maps/UEDPIE_0_TopDownExampleMap1
+[2022.07.07-07.30.07:770][384]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010604s)
+[2022.07.07-07.30.07:771][384]LogAIModule: Creating AISystem for world TopDownExampleMap1
+[2022.07.07-07.30.07:771][384]LogPlayLevel: PIE: World Init took: (0.000966s)
+[2022.07.07-07.30.07:771][384]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/MichaelM/Maps/TopDownExampleMap1.TopDownExampleMap1 to /Game/TopDownBP/MichaelM/Maps/UEDPIE_0_TopDownExampleMap1.TopDownExampleMap1 (0.011760s)
+[2022.07.07-07.30.07:847][384]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2022.07.07-07.30.07:851][384]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2022.07.07-07.30.07:851][384]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.07-07.30.07:851][384]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.07-07.30.07:851][384]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.07-07.30.07:851][384]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.07-07.30.07:851][384]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.07-07.30.07:851][384]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.07-07.30.07:851][384]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.07-07.30.07:851][384]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.07-07.30.07:851][384]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.07-07.30.07:851][384]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.07-07.30.07:851][384]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.07-07.30.07:851][384]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.07-07.30.07:859][384]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.07-07.30.07:860][384]LogAudioMixer: Display: 1: FrontRight
+[2022.07.07-07.30.07:860][384]LogAudioMixer: Display: 2: FrontCenter
+[2022.07.07-07.30.07:860][384]LogAudioMixer: Display: 3: LowFrequency
+[2022.07.07-07.30.07:860][384]LogAudioMixer: Display: 4: BackLeft
+[2022.07.07-07.30.07:860][384]LogAudioMixer: Display: 5: BackRight
+[2022.07.07-07.30.07:860][384]LogAudioMixer: Display: 6: SideLeft
+[2022.07.07-07.30.07:860][384]LogAudioMixer: Display: 7: SideRight
+[2022.07.07-07.30.07:870][384]LogAudioMixer: Display: Using Audio Device Speakers (Logitech PRO X Gaming Headset)
+[2022.07.07-07.30.07:870][384]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.07-07.30.07:870][384]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.07-07.30.07:870][384]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.07-07.30.07:870][384]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.07-07.30.07:871][384]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.07-07.30.07:871][384]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.07.07-07.30.07:872][384]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.07-07.30.07:872][384]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.07-07.30.07:872][384]LogInit: FAudioDevice initialized.
+[2022.07.07-07.30.07:872][384]LogAudio: Display: Audio Device (ID: 12) registered with world 'TopDownExampleMap1'.
+[2022.07.07-07.30.07:883][384]LogLoad: Game class is 'TopDownGameMode1_C'
+[2022.07.07-07.30.07:885][384]LogWorld: Bringing World /Game/TopDownBP/MichaelM/Maps/UEDPIE_0_TopDownExampleMap1.TopDownExampleMap1 up for play (max tick rate 0) at 2022.07.07-17.30.07
+[2022.07.07-07.30.07:938][384]LogWorld: Bringing up level for play took: 0.053888
+[2022.07.07-07.30.07:938][384]LogOnline: OSS: Creating online subsystem instance for: :Context_58
+[2022.07.07-07.30.07:942][384]PIE: Server logged in
+[2022.07.07-07.30.07:942][384]PIE: Play in editor total start time 0.325 seconds.
+[2022.07.07-07.30.13:343][ 19]LogBlueprintUserMessages: [PlayerCharacterTest_2] Player Hit
+[2022.07.07-07.30.16:458][392]LogBlueprintUserMessages: [PlayerCharacterTest_2] Player Hit
+[2022.07.07-07.30.19:542][762]LogBlueprintUserMessages: [PlayerCharacterTest_2] Player Hit
+[2022.07.07-07.30.22:200][ 81]LogBlueprintUserMessages: [PlayerCharacterTest_2] Player Hit
+[2022.07.07-07.30.25:318][455]LogBlueprintUserMessages: [PlayerCharacterTest_2] Player Hit
+[2022.07.07-07.30.28:421][823]LogBlueprintUserMessages: [PlayerCharacterTest_2] Player Hit
+[2022.07.07-07.30.33:622][447]LogBlueprintUserMessages: [PlayerCharacterTest_2] Player Hit
+[2022.07.07-07.30.36:280][766]LogBlueprintUserMessages: [PlayerCharacterTest_2] Player Hit
+[2022.07.07-07.30.39:305][129]LogBlueprintUserMessages: [PlayerCharacterTest_2] Player Hit
+[2022.07.07-07.30.42:048][458]LogBlueprintUserMessages: [PlayerCharacterTest_2] Fully effected
+[2022.07.07-07.30.47:234][ 60]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.07-07.30.47:234][ 60]LogWorld: BeginTearingDown for /Game/TopDownBP/MichaelM/Maps/UEDPIE_0_TopDownExampleMap1
+[2022.07.07-07.30.47:234][ 60]LogWorld: UWorld::CleanupWorld for TopDownExampleMap1, bSessionEnded=true, bCleanupResources=true
+[2022.07.07-07.30.47:235][ 60]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.07-07.30.47:241][ 60]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.07-07.30.47:259][ 60]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.07-07.30.47:291][ 60]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.07-07.30.47:292][ 60]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.07-07.30.47:293][ 60]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.07-07.30.47:295][ 60]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.07-07.30.47:315][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2022.07.07-07.30.47:353][ 61]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2022.07.07-07.30.49:523][311]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2022.07.07-07.30.50:904][311]LogSlate: Window 'Save Content' being destroyed
+[2022.07.07-07.30.50:966][311]LogSavePackage: Moving '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Saved/PlayerCharacterTest06DDA6A846912F9E24B00B8C84308F7C.tmp' to '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Content/TopDownBP/MichaelM/Blueprints/PlayerCharacterTest.uasset'
+[2022.07.07-07.30.51:002][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.07.07-07.30.51:025][311]LogSavePackage: Moving '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Saved/TopDownExampleMap1650A06154E76CC35EFD8BCAAF2DC6EC0.tmp' to '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Content/TopDownBP/MichaelM/Maps/TopDownExampleMap1.umap'
+[2022.07.07-07.30.51:183][311]LogFileHelpers: Saving map 'TopDownExampleMap1' took 0.215
+[2022.07.07-07.30.51:207][311]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.07-07.30.51:207][311]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/MichaelM/Blueprints/PlayerCharacterTest.PlayerCharacterTest
+[2022.07.07-07.30.51:207][311]LogContentValidation: Display: Validating World /Game/TopDownBP/MichaelM/Maps/TopDownExampleMap1.TopDownExampleMap1
