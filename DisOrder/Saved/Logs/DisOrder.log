@@ -1905,3 +1905,26 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.07.08-00.41.37:693][ 75]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2022.07.08-00.41.37:696][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
 [2022.07.08-00.41.37:715][ 76]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2022.07.08-00.41.56:240][448]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2022.07.08-00.41.57:241][448]LogSlate: Window 'Save Content' being destroyed
+[2022.07.08-00.41.57:269][448]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MichaelM/Blueprints/BP_TestDummy" FILE="../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Content/MichaelM/Blueprints/BP_TestDummy.uasset" SILENT=true
+[2022.07.08-00.41.57:303][448]LogSavePackage: Moving '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Saved/BP_TestDummyADA558CA43DA702B5C76E3823C4E19BB.tmp' to '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Content/MichaelM/Blueprints/BP_TestDummy.uasset'
+[2022.07.08-00.41.57:305][448]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MichaelM/Blueprints/BP_Weapon_2" FILE="../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Content/MichaelM/Blueprints/BP_Weapon_2.uasset" SILENT=true
+[2022.07.08-00.41.57:317][448]LogSavePackage: Moving '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Saved/BP_Weapon_24A830FCB456E925A3DE2EA9FC18A7A91.tmp' to '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Content/MichaelM/Blueprints/BP_Weapon_2.uasset'
+[2022.07.08-00.41.57:327][448]LogSavePackage: Moving '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Saved/BP_Weapon_2_TestDummyB8BEF5024653D30011634D87E0684F26.tmp' to '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Content/MichaelM/Blueprints/BP_Weapon_2_TestDummy.uasset'
+[2022.07.08-00.41.57:336][448]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MichaelM/Animations/BS_Injured_walk" FILE="../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Content/MichaelM/Animations/BS_Injured_walk.uasset" SILENT=true
+[2022.07.08-00.41.57:345][448]LogSavePackage: Moving '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Saved/BS_Injured_walk2AC9329A44FFF818AEC6699394AF9F43.tmp' to '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Content/MichaelM/Animations/BS_Injured_walk.uasset'
+[2022.07.08-00.41.57:386][448]LogSavePackage: Moving '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Saved/PlayerCharacterTest9AF488F742A6EB6F912BBBAE825F0052.tmp' to '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Content/MichaelM/Blueprints/PlayerCharacterTest.uasset'
+[2022.07.08-00.41.57:412][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.07.08-00.41.57:439][448]LogSavePackage: Moving '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Saved/TopDownExampleMap19DE9BA804A42E85C88D3A7923105BC07.tmp' to '../../../../../Unreal Projects/Project--Dis-Order/DisOrder/Content/MichaelM/Maps/TopDownExampleMap1.umap'
+[2022.07.08-00.41.57:452][448]LogFileHelpers: Saving map 'TopDownExampleMap1' took 0.064
+[2022.07.08-00.41.57:528][448]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2022.07.08-00.41.57:565][448]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2022.07.08-00.41.57:590][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.07.08-00.41.57:598][448]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.08-00.41.57:598][448]LogContentValidation: Display: Validating Blueprint /Game/MichaelM/Blueprints/PlayerCharacterTest.PlayerCharacterTest
+[2022.07.08-00.41.57:599][448]LogContentValidation: Display: Validating BlendSpace /Game/MichaelM/Animations/BS_Injured_walk.BS_Injured_walk
+[2022.07.08-00.41.57:599][448]LogContentValidation: Display: Validating Blueprint /Game/MichaelM/Blueprints/BP_Weapon_2_TestDummy.BP_Weapon_2_TestDummy
+[2022.07.08-00.41.57:599][448]LogContentValidation: Display: Validating Blueprint /Game/MichaelM/Blueprints/BP_TestDummy.BP_TestDummy
+[2022.07.08-00.41.57:599][448]LogContentValidation: Display: Validating Blueprint /Game/MichaelM/Blueprints/BP_Weapon_2.BP_Weapon_2
+[2022.07.08-00.41.57:599][448]LogContentValidation: Display: Validating World /Game/MichaelM/Maps/TopDownExampleMap1.TopDownExampleMap1
