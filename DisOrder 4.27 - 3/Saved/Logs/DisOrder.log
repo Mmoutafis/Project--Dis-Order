@@ -4096,3 +4096,330 @@ Make sure 'BP_PositiveThought_M_C' has been compiled for  Get Mesh
 [2022.08.03-02.37.46:346][924]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2022.08.03-02.37.46:360][924]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
 [2022.08.03-02.37.46:401][925]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2022.08.03-02.38.52:602][612]BlueprintLog: New page: Compile BP_PositiveThought_M
+[2022.08.03-02.38.52:646][612]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2022.08.03-02.38.53:070][650]LogSavePackage: Moving '../../../../../Unreal Projects/Project--Dis-Order/DisOrder 4.27 - 3/Saved/BP_PositiveThought_MD36830C340D8788F772BF787B74CF75A.tmp' to '../../../../../Unreal Projects/Project--Dis-Order/DisOrder 4.27 - 3/Content/MichaelM/Blueprints/BP_PositiveThought_M.uasset'
+[2022.08.03-02.38.53:082][650]AssetCheck: New page: Asset Save: BP_PositiveThought_M
+[2022.08.03-02.38.53:082][650]LogContentValidation: Display: Validating Blueprint /Game/MichaelM/Blueprints/BP_PositiveThought_M.BP_PositiveThought_M
+[2022.08.03-02.38.54:339][786]LogTemp: Repeating last play command: Selected Viewport
+[2022.08.03-02.38.54:351][786]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.03-02.38.54:351][786]PIE: New page: PIE session: L_Michael_TestRealm (3 Aug 2022, 10:38:54 pm)
+[2022.08.03-02.38.54:383][786]LogPlayLevel: Creating play world package: /Game/MichaelM/Maps/UEDPIE_0_L_Michael_TestRealm
+[2022.08.03-02.38.54:395][786]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012055s)
+[2022.08.03-02.38.54:396][786]LogAIModule: Creating AISystem for world L_Michael_TestRealm
+[2022.08.03-02.38.54:396][786]LogPlayLevel: PIE: World Init took: (0.001010s)
+[2022.08.03-02.38.54:396][786]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MichaelM/Maps/L_Michael_TestRealm.L_Michael_TestRealm to /Game/MichaelM/Maps/UEDPIE_0_L_Michael_TestRealm.L_Michael_TestRealm (0.013215s)
+[2022.08.03-02.38.54:423][786]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2022.08.03-02.38.54:424][786]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2022.08.03-02.38.54:425][786]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.03-02.38.54:425][786]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.03-02.38.54:425][786]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.03-02.38.54:425][786]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.03-02.38.54:425][786]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.03-02.38.54:425][786]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.03-02.38.54:425][786]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.03-02.38.54:425][786]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.03-02.38.54:425][786]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.03-02.38.54:425][786]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.03-02.38.54:425][786]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.03-02.38.54:425][786]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.03-02.38.54:433][786]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.03-02.38.54:433][786]LogAudioMixer: Display: 1: FrontRight
+[2022.08.03-02.38.54:433][786]LogAudioMixer: Display: 2: FrontCenter
+[2022.08.03-02.38.54:433][786]LogAudioMixer: Display: 3: LowFrequency
+[2022.08.03-02.38.54:433][786]LogAudioMixer: Display: 4: BackLeft
+[2022.08.03-02.38.54:433][786]LogAudioMixer: Display: 5: BackRight
+[2022.08.03-02.38.54:433][786]LogAudioMixer: Display: 6: SideLeft
+[2022.08.03-02.38.54:433][786]LogAudioMixer: Display: 7: SideRight
+[2022.08.03-02.38.54:447][786]LogAudioMixer: Display: Using Audio Device Speakers (Logitech PRO X Gaming Headset)
+[2022.08.03-02.38.54:447][786]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.03-02.38.54:447][786]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.03-02.38.54:447][786]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.03-02.38.54:447][786]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.03-02.38.54:447][786]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.03-02.38.54:447][786]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.08.03-02.38.54:448][786]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.03-02.38.54:448][786]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.03-02.38.54:448][786]LogInit: FAudioDevice initialized.
+[2022.08.03-02.38.54:449][786]LogAudio: Display: Audio Device (ID: 29) registered with world 'L_Michael_TestRealm'.
+[2022.08.03-02.38.54:455][786]LogLoad: Game class is 'TopDownGameMode1_C'
+[2022.08.03-02.38.54:457][786]LogWorld: Bringing World /Game/MichaelM/Maps/UEDPIE_0_L_Michael_TestRealm.L_Michael_TestRealm up for play (max tick rate 0) at 2022.08.03-12.38.54
+[2022.08.03-02.38.54:458][786]LogWorld: Bringing up level for play took: 0.002494
+[2022.08.03-02.38.54:458][786]LogOnline: OSS: Creating online subsystem instance for: :Context_45
+[2022.08.03-02.38.54:463][786]PIE: Server logged in
+[2022.08.03-02.38.54:464][786]PIE: Play in editor total start time 0.117 seconds.
+[2022.08.03-02.38.59:718][409]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.03-02.38.59:718][409]LogWorld: BeginTearingDown for /Game/MichaelM/Maps/UEDPIE_0_L_Michael_TestRealm
+[2022.08.03-02.38.59:718][409]LogWorld: UWorld::CleanupWorld for L_Michael_TestRealm, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-02.38.59:718][409]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-02.38.59:725][409]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.03-02.38.59:766][409]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-02.38.59:787][409]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.03-02.38.59:787][409]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.03-02.38.59:788][409]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.03-02.38.59:791][409]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.03-02.38.59:795][409]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2022.08.03-02.38.59:839][410]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2022.08.03-02.39.07:339][252]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2022.08.03-02.39.07:364][252]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.08.03-02.39.07:371][252]LogSavePackage: Moving '../../../../../Unreal Projects/Project--Dis-Order/DisOrder 4.27 - 3/Saved/M_Positive_Thoughts_Main_Inst2CBD2FB24EDFE66F1B2B0B957F2F81FB.tmp' to '../../../../../Unreal Projects/Project--Dis-Order/DisOrder 4.27 - 3/Content/MichaelM/Materials/M_Positive_Thoughts_Main_Inst.uasset'
+[2022.08.03-02.39.07:385][252]AssetCheck: New page: Asset Save: M_Positive_Thoughts_Main_Inst
+[2022.08.03-02.39.07:385][252]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/MichaelM/Materials/M_Positive_Thoughts_Main_Inst.M_Positive_Thoughts_Main_Inst
+[2022.08.03-02.39.08:395][354]LogTemp: Repeating last play command: Selected Viewport
+[2022.08.03-02.39.08:406][354]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.03-02.39.08:407][354]PIE: New page: PIE session: L_Michael_TestRealm (3 Aug 2022, 10:39:08 pm)
+[2022.08.03-02.39.08:443][354]LogPlayLevel: Creating play world package: /Game/MichaelM/Maps/UEDPIE_0_L_Michael_TestRealm
+[2022.08.03-02.39.08:455][354]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011397s)
+[2022.08.03-02.39.08:456][354]LogAIModule: Creating AISystem for world L_Michael_TestRealm
+[2022.08.03-02.39.08:456][354]LogPlayLevel: PIE: World Init took: (0.000886s)
+[2022.08.03-02.39.08:456][354]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MichaelM/Maps/L_Michael_TestRealm.L_Michael_TestRealm to /Game/MichaelM/Maps/UEDPIE_0_L_Michael_TestRealm.L_Michael_TestRealm (0.012411s)
+[2022.08.03-02.39.08:481][354]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2022.08.03-02.39.08:483][354]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2022.08.03-02.39.08:483][354]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.03-02.39.08:483][354]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.03-02.39.08:483][354]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.03-02.39.08:483][354]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.03-02.39.08:483][354]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.03-02.39.08:483][354]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.03-02.39.08:483][354]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.03-02.39.08:483][354]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.03-02.39.08:483][354]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.03-02.39.08:484][354]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.03-02.39.08:484][354]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.03-02.39.08:484][354]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.03-02.39.08:491][354]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.03-02.39.08:491][354]LogAudioMixer: Display: 1: FrontRight
+[2022.08.03-02.39.08:491][354]LogAudioMixer: Display: 2: FrontCenter
+[2022.08.03-02.39.08:491][354]LogAudioMixer: Display: 3: LowFrequency
+[2022.08.03-02.39.08:491][354]LogAudioMixer: Display: 4: BackLeft
+[2022.08.03-02.39.08:491][354]LogAudioMixer: Display: 5: BackRight
+[2022.08.03-02.39.08:491][354]LogAudioMixer: Display: 6: SideLeft
+[2022.08.03-02.39.08:491][354]LogAudioMixer: Display: 7: SideRight
+[2022.08.03-02.39.08:505][354]LogAudioMixer: Display: Using Audio Device Speakers (Logitech PRO X Gaming Headset)
+[2022.08.03-02.39.08:506][354]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.03-02.39.08:506][354]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.03-02.39.08:506][354]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.03-02.39.08:506][354]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.03-02.39.08:506][354]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.03-02.39.08:506][354]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.08.03-02.39.08:508][354]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.03-02.39.08:508][354]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.03-02.39.08:508][354]LogInit: FAudioDevice initialized.
+[2022.08.03-02.39.08:508][354]LogAudio: Display: Audio Device (ID: 30) registered with world 'L_Michael_TestRealm'.
+[2022.08.03-02.39.08:519][354]LogLoad: Game class is 'TopDownGameMode1_C'
+[2022.08.03-02.39.08:521][354]LogWorld: Bringing World /Game/MichaelM/Maps/UEDPIE_0_L_Michael_TestRealm.L_Michael_TestRealm up for play (max tick rate 0) at 2022.08.03-12.39.08
+[2022.08.03-02.39.08:523][354]LogWorld: Bringing up level for play took: 0.002508
+[2022.08.03-02.39.08:523][354]LogOnline: OSS: Creating online subsystem instance for: :Context_46
+[2022.08.03-02.39.08:528][354]PIE: Server logged in
+[2022.08.03-02.39.08:528][354]PIE: Play in editor total start time 0.125 seconds.
+[2022.08.03-02.39.13:058][889]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.03-02.39.13:058][889]LogWorld: BeginTearingDown for /Game/MichaelM/Maps/UEDPIE_0_L_Michael_TestRealm
+[2022.08.03-02.39.13:058][889]LogWorld: UWorld::CleanupWorld for L_Michael_TestRealm, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-02.39.13:059][889]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-02.39.13:070][889]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.03-02.39.13:110][889]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-02.39.13:130][889]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.03-02.39.13:131][889]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.03-02.39.13:132][889]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.03-02.39.13:138][889]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2022.08.03-02.39.13:179][890]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2022.08.03-02.39.39:095][921]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MichaelM/Blueprints/TopDownGameMode1.TopDownGameMode1
+[2022.08.03-02.39.41:746][160]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-02.39.41:746][160]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-02.39.41:795][160]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MichaelM/Blueprints/TopDownGameMode1.TopDownGameMode1
+[2022.08.03-02.41.34:555][310]BlueprintLog: New page: Compile TopDownGameMode1
+[2022.08.03-02.41.34:600][310]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2022.08.03-02.42.22:706][929]LogSlate: Took 0.018780 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.08.03-02.42.39:111][815]BlueprintLog: New page: Compile TopDownGameMode1
+[2022.08.03-02.42.39:155][815]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2022.08.03-02.43.17:327][273]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.08.03-02.43.17:952][273]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.624 s
+[2022.08.03-02.43.17:952][273]LogOutputDevice: Error: === Handled ensure: ===
+[2022.08.03-02.43.17:952][273]LogOutputDevice: Error: 
+[2022.08.03-02.43.17:952][273]LogOutputDevice: Error: Ensure condition failed: !bGraphDataInvalid [File:D:/Build/++UE4/Sync/Engine/Source/Editor/GraphEditor/Private/SGraphPin.cpp] [Line: 821]
+[2022.08.03-02.43.17:952][273]LogOutputDevice: Error: The Graph Pin Object has been invalidated. Someone is keeping a hard ref on the SGraphPin (SGraphPinKnot [SGraphNodeKnot.cpp(406)]). See InvalidateGraphData for more info
+[2022.08.03-02.43.17:952][273]LogOutputDevice: Error: Stack: 
+[2022.08.03-02.43.17:952][273]LogOutputDevice: Error: [Callstack] 0x00007ffb3198476b UE4Editor-GraphEditor.dll!UnknownFunction []
+[2022.08.03-02.43.17:952][273]LogOutputDevice: Error: [Callstack] 0x00007ffb318312db UE4Editor-GraphEditor.dll!UnknownFunction []
+[2022.08.03-02.43.17:952][273]LogOutputDevice: Error: [Callstack] 0x00007ffb3182ff58 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2022.08.03-02.43.17:952][273]LogOutputDevice: Error: [Callstack] 0x00007ffb3183d0bc UE4Editor-GraphEditor.dll!UnknownFunction []
+[2022.08.03-02.43.17:952][273]LogOutputDevice: Error: [Callstack] 0x00007ffb318b879c UE4Editor-GraphEditor.dll!UnknownFunction []
+[2022.08.03-02.43.17:952][273]LogOutputDevice: Error: [Callstack] 0x00007ffb318b5c7f UE4Editor-GraphEditor.dll!UnknownFunction []
+[2022.08.03-02.43.17:952][273]LogOutputDevice: Error: [Callstack] 0x00007ffb4cf26c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.08.03-02.43.17:952][273]LogOutputDevice: Error: [Callstack] 0x00007ffb4cf24945 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.08.03-02.43.17:952][273]LogOutputDevice: Error: [Callstack] 0x00007ffb4cf26c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.08.03-02.43.17:952][273]LogOutputDevice: Error: [Callstack] 0x00007ffb4cf23ca2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.08.03-02.43.17:952][273]LogOutputDevice: Error: [Callstack] 0x00007ffb4cf26c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.08.03-02.43.17:952][273]LogOutputDevice: Error: [Callstack] 0x00007ffb4d4fb559 UE4Editor-Slate.dll!UnknownFunction []
+[2022.08.03-02.43.17:952][273]LogOutputDevice: Error: [Callstack] 0x00007ffb4cf26c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.08.03-02.43.17:952][273]LogOutputDevice: Error: [Callstack] 0x00007ffb4cf23ca2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.08.03-02.43.17:952][273]LogOutputDevice: Error: [Callstack] 0x00007ffb4cf26c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.08.03-02.43.17:952][273]LogOutputDevice: Error: [Callstack] 0x00007ffb4cf23ca2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.08.03-02.43.17:952][273]LogOutputDevice: Error: [Callstack] 0x00007ffb4d4fb3e4 UE4Editor-Slate.dll!UnknownFunction []
+[2022.08.03-02.43.17:952][273]LogOutputDevice: Error: [Callstack] 0x00007ffb4cf26c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.08.03-02.43.17:952][273]LogOutputDevice: Error: [Callstack] 0x00007ffb4cf24945 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.08.03-02.43.17:952][273]LogOutputDevice: Error: [Callstack] 0x00007ffb4cf26c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.08.03-02.43.17:952][273]LogOutputDevice: Error: [Callstack] 0x00007ffb4cf27678 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.08.03-02.43.17:952][273]LogOutputDevice: Error: [Callstack] 0x00007ffb4cf24adb UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.08.03-02.43.17:952][273]LogOutputDevice: Error: [Callstack] 0x00007ffb4cf26c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.08.03-02.43.17:952][273]LogOutputDevice: Error: [Callstack] 0x00007ffb4cf23ca2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.08.03-02.43.17:952][273]LogOutputDevice: Error: [Callstack] 0x00007ffb4cf26c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.08.03-02.43.17:952][273]LogOutputDevice: Error: [Callstack] 0x00007ffb4cf27678 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.08.03-02.43.17:952][273]LogOutputDevice: Error: [Callstack] 0x00007ffb4d4fd800 UE4Editor-Slate.dll!UnknownFunction []
+[2022.08.03-02.43.17:952][273]LogOutputDevice: Error: [Callstack] 0x00007ffb4cf26c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.08.03-02.43.17:952][273]LogOutputDevice: Error: [Callstack] 0x00007ffb4cf23ca2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.08.03-02.43.17:952][273]LogOutputDevice: Error: [Callstack] 0x00007ffb4cf26c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.08.03-02.43.17:952][273]LogOutputDevice: Error: [Callstack] 0x00007ffb4cf27678 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.08.03-02.43.17:952][273]LogOutputDevice: Error: [Callstack] 0x00007ffb4d4fd800 UE4Editor-Slate.dll!UnknownFunction []
+[2022.08.03-02.43.17:952][273]LogOutputDevice: Error: [Callstack] 0x00007ffb4cf26c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.08.03-02.43.17:952][273]LogOutputDevice: Error: [Callstack] 0x00007ffb4cf24945 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.08.03-02.43.17:952][273]LogOutputDevice: Error: [Callstack] 0x00007ffb4cf26c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.08.03-02.43.17:952][273]LogOutputDevice: Error: [Callstack] 0x00007ffb4cf23ca2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.08.03-02.43.17:952][273]LogOutputDevice: Error: [Callstack] 0x00007ffb4cf26c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.08.03-02.43.17:952][273]LogOutputDevice: Error: [Callstack] 0x00007ffb4cf27678 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.08.03-02.43.17:952][273]LogOutputDevice: Error: [Callstack] 0x00007ffb4cf24adb UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.08.03-02.43.17:952][273]LogOutputDevice: Error: [Callstack] 0x00007ffb4cf26c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.08.03-02.43.17:952][273]LogOutputDevice: Error: [Callstack] 0x00007ffb4cf23ca2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.08.03-02.43.17:952][273]LogOutputDevice: Error: [Callstack] 0x00007ffb4cf26c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.08.03-02.43.17:952][273]LogOutputDevice: Error: [Callstack] 0x00007ffb4cf23ca2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.08.03-02.43.17:952][273]LogOutputDevice: Error: [Callstack] 0x00007ffb4d4fb3e4 UE4Editor-Slate.dll!UnknownFunction []
+[2022.08.03-02.43.17:952][273]LogOutputDevice: Error: [Callstack] 0x00007ffb4cf26c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.08.03-02.43.17:952][273]LogOutputDevice: Error: [Callstack] 0x00007ffb4cf24945 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.08.03-02.43.17:952][273]LogOutputDevice: Error: [Callstack] 0x00007ffb4cf26c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.08.03-02.43.17:953][273]LogOutputDevice: Error: [Callstack] 0x00007ffb4cf27678 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.08.03-02.43.17:953][273]LogOutputDevice: Error: [Callstack] 0x00007ffb4cf24adb UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.08.03-02.43.17:953][273]LogOutputDevice: Error: [Callstack] 0x00007ffb4cf26c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.08.03-02.43.17:953][273]LogOutputDevice: Error: [Callstack] 0x00007ffb4cf23ca2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.08.03-02.43.17:953][273]LogOutputDevice: Error: [Callstack] 0x00007ffb4cf26c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.08.03-02.43.17:953][273]LogOutputDevice: Error: [Callstack] 0x00007ffb4cf27678 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.08.03-02.43.17:953][273]LogOutputDevice: Error: [Callstack] 0x00007ffb4d4fd800 UE4Editor-Slate.dll!UnknownFunction []
+[2022.08.03-02.43.17:953][273]LogOutputDevice: Error: [Callstack] 0x00007ffb4cf26c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.08.03-02.43.17:953][273]LogOutputDevice: Error: [Callstack] 0x00007ffb4cf24945 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.08.03-02.43.17:953][273]LogOutputDevice: Error: [Callstack] 0x00007ffb4cf26c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.08.03-02.43.17:953][273]LogOutputDevice: Error: [Callstack] 0x00007ffb4cf23ca2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.08.03-02.43.17:953][273]LogOutputDevice: Error: [Callstack] 0x00007ffb4cf26c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.08.03-02.43.17:953][273]LogOutputDevice: Error: [Callstack] 0x00007ffb4cf27678 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.08.03-02.43.17:953][273]LogOutputDevice: Error: [Callstack] 0x00007ffb4cf24adb UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.08.03-02.43.17:953][273]LogOutputDevice: Error: [Callstack] 0x00007ffb4cf26c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.08.03-02.43.17:953][273]LogOutputDevice: Error: [Callstack] 0x00007ffb4cf27678 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.08.03-02.43.17:953][273]LogOutputDevice: Error: [Callstack] 0x00007ffb4cf24adb UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.08.03-02.43.17:953][273]LogOutputDevice: Error: [Callstack] 0x00007ffb4cf26c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.08.03-02.43.17:953][273]LogOutputDevice: Error: [Callstack] 0x00007ffb4cf24945 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.08.03-02.43.17:953][273]LogOutputDevice: Error: [Callstack] 0x00007ffb4cf26c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.08.03-02.43.17:953][273]LogOutputDevice: Error: [Callstack] 0x00007ffb4cf23ca2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.08.03-02.43.17:953][273]LogOutputDevice: Error: [Callstack] 0x00007ffb4cf26c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.08.03-02.43.17:953][273]LogOutputDevice: Error: [Callstack] 0x00007ffb4cf27787 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.08.03-02.43.17:953][273]LogOutputDevice: Error: [Callstack] 0x00007ffb4ce3be74 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.08.03-02.43.17:953][273]LogOutputDevice: Error: [Callstack] 0x00007ffb4cf27a1c UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.08.03-02.43.17:953][273]LogOutputDevice: Error: [Callstack] 0x00007ffb4d2d1bee UE4Editor-Slate.dll!UnknownFunction []
+[2022.08.03-02.43.17:953][273]LogOutputDevice: Error: [Callstack] 0x00007ffb4d302779 UE4Editor-Slate.dll!UnknownFunction []
+[2022.08.03-02.43.17:953][273]LogOutputDevice: Error: [Callstack] 0x00007ffb4d2d2547 UE4Editor-Slate.dll!UnknownFunction []
+[2022.08.03-02.43.17:953][273]LogOutputDevice: Error: [Callstack] 0x00007ffb4d328279 UE4Editor-Slate.dll!UnknownFunction []
+[2022.08.03-02.43.17:953][273]LogOutputDevice: Error: [Callstack] 0x00007ffb4d327a73 UE4Editor-Slate.dll!UnknownFunction []
+[2022.08.03-02.43.17:953][273]LogOutputDevice: Error: [Callstack] 0x00007ff7e1809a1f UE4Editor.exe!UnknownFunction []
+[2022.08.03-02.43.17:953][273]LogOutputDevice: Error: [Callstack] 0x00007ff7e1820fcc UE4Editor.exe!UnknownFunction []
+[2022.08.03-02.43.17:953][273]LogOutputDevice: Error: [Callstack] 0x00007ff7e18210ba UE4Editor.exe!UnknownFunction []
+[2022.08.03-02.43.17:953][273]LogOutputDevice: Error: [Callstack] 0x00007ff7e18240dd UE4Editor.exe!UnknownFunction []
+[2022.08.03-02.43.17:953][273]LogOutputDevice: Error: [Callstack] 0x00007ff7e1835984 UE4Editor.exe!UnknownFunction []
+[2022.08.03-02.43.17:953][273]LogOutputDevice: Error: [Callstack] 0x00007ff7e183853a UE4Editor.exe!UnknownFunction []
+[2022.08.03-02.43.17:953][273]LogOutputDevice: Error: [Callstack] 0x00007ffbcba17034 KERNEL32.DLL!UnknownFunction []
+[2022.08.03-02.43.17:953][273]LogOutputDevice: Error: [Callstack] 0x00007ffbcbfe2651 ntdll.dll!UnknownFunction []
+[2022.08.03-02.43.17:953][273]LogOutputDevice: Error: 
+[2022.08.03-02.43.17:954][273]LogStats:                SubmitErrorReport -  0.000 s
+[2022.08.03-02.43.22:383][273]LogStats:                    SendNewReport -  4.430 s
+[2022.08.03-02.43.22:383][273]LogStats:             FDebug::EnsureFailed -  5.063 s
+[2022.08.03-02.43.22:390][274]LogAudioMixer: Resetting audio stream to device id 
+[2022.08.03-02.43.22:421][274]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.03-02.43.22:421][274]LogAudioMixer: Display: 1: FrontRight
+[2022.08.03-02.43.22:421][274]LogAudioMixer: Display: 2: FrontCenter
+[2022.08.03-02.43.22:421][274]LogAudioMixer: Display: 3: LowFrequency
+[2022.08.03-02.43.22:421][274]LogAudioMixer: Display: 4: BackLeft
+[2022.08.03-02.43.22:421][274]LogAudioMixer: Display: 5: BackRight
+[2022.08.03-02.43.22:421][274]LogAudioMixer: Display: 6: SideLeft
+[2022.08.03-02.43.22:421][274]LogAudioMixer: Display: 7: SideRight
+[2022.08.03-02.45.43:610][750]BlueprintLog: New page: Compile BP_PositiveThought_M
+[2022.08.03-02.45.43:664][750]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2022.08.03-02.45.44:248][804]LogSavePackage: Moving '../../../../../Unreal Projects/Project--Dis-Order/DisOrder 4.27 - 3/Saved/BP_PositiveThought_M0DEED1F94AEA00D09EABB0AAC21C934D.tmp' to '../../../../../Unreal Projects/Project--Dis-Order/DisOrder 4.27 - 3/Content/MichaelM/Blueprints/BP_PositiveThought_M.uasset'
+[2022.08.03-02.45.44:261][804]AssetCheck: New page: Asset Save: BP_PositiveThought_M
+[2022.08.03-02.45.44:261][804]LogContentValidation: Display: Validating Blueprint /Game/MichaelM/Blueprints/BP_PositiveThought_M.BP_PositiveThought_M
+[2022.08.03-02.46.08:841][593]BlueprintLog: New page: Compile BP_PositiveThought_M
+[2022.08.03-02.46.08:892][593]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2022.08.03-02.46.09:608][659]LogSavePackage: Moving '../../../../../Unreal Projects/Project--Dis-Order/DisOrder 4.27 - 3/Saved/BP_PositiveThought_MBC2C2EE0489BFB0948B306B3916C97FF.tmp' to '../../../../../Unreal Projects/Project--Dis-Order/DisOrder 4.27 - 3/Content/MichaelM/Blueprints/BP_PositiveThought_M.uasset'
+[2022.08.03-02.46.09:629][659]AssetCheck: New page: Asset Save: BP_PositiveThought_M
+[2022.08.03-02.46.09:629][659]LogContentValidation: Display: Validating Blueprint /Game/MichaelM/Blueprints/BP_PositiveThought_M.BP_PositiveThought_M
+[2022.08.03-02.46.20:418][741]LogEditorViewport: Clicking on Actor (LMB): BP_PositiveThought_M_C (BP_PositiveThought_M2)
+[2022.08.03-02.46.24:208][173]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2022.08.03-02.46.25:317][173]LogSlate: Window 'Save Content' being destroyed
+[2022.08.03-02.46.25:380][173]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.08.03-02.46.25:418][173]LogSavePackage: Moving '../../../../../Unreal Projects/Project--Dis-Order/DisOrder 4.27 - 3/Saved/L_Michael_TestRealmD2A64343499F44618EA595811FDE66F3.tmp' to '../../../../../Unreal Projects/Project--Dis-Order/DisOrder 4.27 - 3/Content/MichaelM/Maps/L_Michael_TestRealm.umap'
+[2022.08.03-02.46.25:468][173]LogFileHelpers: Saving map 'L_Michael_TestRealm' took 0.114
+[2022.08.03-02.46.25:489][173]LogSavePackage: Moving '../../../../../Unreal Projects/Project--Dis-Order/DisOrder 4.27 - 3/Saved/M_Positive_Thoughts_Main307CE93849F4D172EDE31DBEA6F47586.tmp' to '../../../../../Unreal Projects/Project--Dis-Order/DisOrder 4.27 - 3/Content/MichaelM/Materials/M_Positive_Thoughts_Main.uasset'
+[2022.08.03-02.46.25:515][173]LogSavePackage: Moving '../../../../../Unreal Projects/Project--Dis-Order/DisOrder 4.27 - 3/Saved/TopDownGameMode1B393E2384C94FAD02E9314B3119B912D.tmp' to '../../../../../Unreal Projects/Project--Dis-Order/DisOrder 4.27 - 3/Content/MichaelM/Blueprints/TopDownGameMode1.uasset'
+[2022.08.03-02.46.25:535][173]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.03-02.46.25:535][173]LogContentValidation: Display: Validating Blueprint /Game/MichaelM/Blueprints/TopDownGameMode1.TopDownGameMode1
+[2022.08.03-02.46.25:535][173]LogContentValidation: Display: Validating World /Game/MichaelM/Maps/L_Michael_TestRealm.L_Michael_TestRealm
+[2022.08.03-02.46.25:535][173]LogContentValidation: Display: Validating Material /Game/MichaelM/Materials/M_Positive_Thoughts_Main.M_Positive_Thoughts_Main
+[2022.08.03-02.46.26:457][281]LogTemp: Repeating last play command: Selected Viewport
+[2022.08.03-02.46.26:468][281]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.03-02.46.26:468][281]PIE: New page: PIE session: L_Michael_TestRealm (3 Aug 2022, 10:46:26 pm)
+[2022.08.03-02.46.26:495][281]LogPlayLevel: Creating play world package: /Game/MichaelM/Maps/UEDPIE_0_L_Michael_TestRealm
+[2022.08.03-02.46.26:508][281]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012718s)
+[2022.08.03-02.46.26:509][281]LogAIModule: Creating AISystem for world L_Michael_TestRealm
+[2022.08.03-02.46.26:509][281]LogPlayLevel: PIE: World Init took: (0.001671s)
+[2022.08.03-02.46.26:509][281]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MichaelM/Maps/L_Michael_TestRealm.L_Michael_TestRealm to /Game/MichaelM/Maps/UEDPIE_0_L_Michael_TestRealm.L_Michael_TestRealm (0.014608s)
+[2022.08.03-02.46.26:540][281]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2022.08.03-02.46.26:543][281]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2022.08.03-02.46.26:543][281]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.03-02.46.26:543][281]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.03-02.46.26:543][281]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.03-02.46.26:543][281]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.03-02.46.26:543][281]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.03-02.46.26:543][281]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.03-02.46.26:543][281]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.03-02.46.26:543][281]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.03-02.46.26:543][281]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.03-02.46.26:543][281]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.03-02.46.26:543][281]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.03-02.46.26:543][281]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.03-02.46.26:551][281]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.03-02.46.26:551][281]LogAudioMixer: Display: 1: FrontRight
+[2022.08.03-02.46.26:551][281]LogAudioMixer: Display: 2: FrontCenter
+[2022.08.03-02.46.26:552][281]LogAudioMixer: Display: 3: LowFrequency
+[2022.08.03-02.46.26:552][281]LogAudioMixer: Display: 4: BackLeft
+[2022.08.03-02.46.26:552][281]LogAudioMixer: Display: 5: BackRight
+[2022.08.03-02.46.26:552][281]LogAudioMixer: Display: 6: SideLeft
+[2022.08.03-02.46.26:552][281]LogAudioMixer: Display: 7: SideRight
+[2022.08.03-02.46.26:565][281]LogAudioMixer: Display: Using Audio Device Speakers (Logitech PRO X Gaming Headset)
+[2022.08.03-02.46.26:565][281]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.03-02.46.26:565][281]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.03-02.46.26:565][281]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.03-02.46.26:566][281]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.03-02.46.26:566][281]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.03-02.46.26:566][281]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.08.03-02.46.26:567][281]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.03-02.46.26:567][281]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.03-02.46.26:567][281]LogInit: FAudioDevice initialized.
+[2022.08.03-02.46.26:567][281]LogAudio: Display: Audio Device (ID: 31) registered with world 'L_Michael_TestRealm'.
+[2022.08.03-02.46.26:576][281]LogLoad: Game class is 'TopDownGameMode1_C'
+[2022.08.03-02.46.26:578][281]LogWorld: Bringing World /Game/MichaelM/Maps/UEDPIE_0_L_Michael_TestRealm.L_Michael_TestRealm up for play (max tick rate 0) at 2022.08.03-12.46.26
+[2022.08.03-02.46.26:579][281]LogWorld: Bringing up level for play took: 0.002504
+[2022.08.03-02.46.26:579][281]LogOnline: OSS: Creating online subsystem instance for: :Context_49
+[2022.08.03-02.46.26:584][281]PIE: Server logged in
+[2022.08.03-02.46.26:585][281]PIE: Play in editor total start time 0.121 seconds.
+[2022.08.03-02.46.30:959][797]LogBlueprintUserMessages: [BP_PositiveThought_M_2] 1.0
+[2022.08.03-02.46.34:423][212]LogBlueprintUserMessages: [BP_PositiveThought_M2_5] 2.0
+[2022.08.03-02.46.37:484][579]LogBlueprintUserMessages: [BP_PositiveThought_M3_8] 3.0
+[2022.08.03-02.46.38:269][668]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.03-02.46.38:269][668]LogWorld: BeginTearingDown for /Game/MichaelM/Maps/UEDPIE_0_L_Michael_TestRealm
+[2022.08.03-02.46.38:269][668]LogWorld: UWorld::CleanupWorld for L_Michael_TestRealm, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-02.46.38:270][668]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-02.46.38:280][668]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.03-02.46.38:289][668]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-02.46.38:315][668]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.03-02.46.38:315][668]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.03-02.46.38:316][668]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.03-02.46.38:323][668]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2022.08.03-02.46.38:355][669]LogPlayLevel: Display: Destroying online subsystem :Context_49
