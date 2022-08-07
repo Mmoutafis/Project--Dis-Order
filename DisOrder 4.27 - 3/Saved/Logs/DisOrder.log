@@ -4743,3 +4743,41 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.08.07-09.44.04:428][667]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2022.08.07-09.44.04:434][667]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
 [2022.08.07-09.44.04:479][668]LogPlayLevel: Display: Destroying online subsystem :Context_70
+[2022.08.07-09.48.19:132][569]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2022.08.07-09.48.20:256][569]LogSlate: Window 'Save Content' being destroyed
+[2022.08.07-09.48.20:365][569]LogSavePackage: Moving '../../../../../Unreal Projects/Project--Dis-Order/DisOrder 4.27 - 3/Saved/CelShader80sCartoon9D6A8A6A4F613CCFE52E20BFA6800B7F.tmp' to '../../../../../Unreal Projects/Project--Dis-Order/DisOrder 4.27 - 3/Content/AdvancedCelShader/CelShader/Presets/CelShader80sCartoon.uasset'
+[2022.08.07-09.48.20:375][569]LogSavePackage: Moving '../../../../../Unreal Projects/Project--Dis-Order/DisOrder 4.27 - 3/Saved/CelShader80sCartoon1199E2AE74FC14E645C00508389DD75D1.tmp' to '../../../../../Unreal Projects/Project--Dis-Order/DisOrder 4.27 - 3/Content/AdvancedCelShader/CelShader/Presets/CelShader80sCartoon1.uasset'
+[2022.08.07-09.48.20:402][569]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.08.07-09.48.20:491][569]LogSavePackage: Moving '../../../../../Unreal Projects/Project--Dis-Order/DisOrder 4.27 - 3/Saved/L_Michael_TestRealmBD8BEA0A4C8ABFD0BE6947B58F802563.tmp' to '../../../../../Unreal Projects/Project--Dis-Order/DisOrder 4.27 - 3/Content/MichaelM/Maps/L_Michael_TestRealm.umap'
+[2022.08.07-09.48.20:507][569]LogFileHelpers: Saving map 'L_Michael_TestRealm' took 0.131
+[2022.08.07-09.48.20:521][569]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.07-09.48.20:521][569]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/AdvancedCelShader/CelShader/Presets/CelShader80sCartoon.CelShader80sCartoon
+[2022.08.07-09.48.20:521][569]LogContentValidation: Display: Validating World /Game/MichaelM/Maps/L_Michael_TestRealm.L_Michael_TestRealm
+[2022.08.07-09.48.20:521][569]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/AdvancedCelShader/CelShader/Presets/CelShader80sCartoon1.CelShader80sCartoon1
+[2022.08.07-09.48.23:538][906]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2022.08.07-09.48.23:958][906]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.08.07-09.48.23:958][906]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.07-09.48.24:586][906]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.08.07-09.48.24:586][906]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.08.07-09.48.24:586][906]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.07-09.48.25:065][906]LogSlate: Window 'DisOrder - Unreal Editor' being destroyed
+[2022.08.07-09.48.25:659][907]Cmd: QUIT_EDITOR
+[2022.08.07-09.48.25:659][907]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.08.07-09.48.25:871][907]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.08.07-09.48.27:149][907]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.08.07-09.48.27:149][907]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.08.07-09.48.27:149][907]LogAudio: Display: Audio Device unregistered from world 'L_Michael_TestRealm'.
+[2022.08.07-09.48.27:149][907]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.07-09.48.27:150][907]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.07-09.48.27:281][907]LogAudio: Display: Audio Device Manager Shutdown
+[2022.08.07-09.48.27:394][907]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.08.07-09.48.27:784][907]LogExit: Preparing to exit.
+[2022.08.07-09.48.29:300][907]LogUObjectHash: Compacting FUObjectHashTables data took   5.26ms
+[2022.08.07-09.48.31:805][907]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.08.07-09.48.31:808][907]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.08.07-09.48.31:811][907]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.08.07-09.48.31:814][907]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.08.07-09.48.31:816][907]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2022.08.07-09.48.31:819][907]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.08.07-09.48.31:822][907]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.08.07-09.48.33:316][907]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
