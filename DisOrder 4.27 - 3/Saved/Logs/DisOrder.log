@@ -4781,3 +4781,6 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.08.07-09.48.31:819][907]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
 [2022.08.07-09.48.31:822][907]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
 [2022.08.07-09.48.33:316][907]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.08.07-09.48.35:467][907]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.08.07-09.48.35:467][907]LogExit: Editor shut down
+[2022.08.07-09.48.35:469][907]LogExit: Transaction tracking system shut down
